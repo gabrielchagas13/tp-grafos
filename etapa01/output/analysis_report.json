@@ -1,0 +1,203 @@
+{
+  "repository": {
+    "owner": "open-mmlab",
+    "name": "mmdetection"
+  },
+  "data_summary": {
+    "issues": 886,
+    "pull_requests": 1000,
+    "issue_comments": 605,
+    "pr_comments": 726,
+    "pr_reviews": 213
+  },
+  "graphs": {
+    "comments": {
+      "name": "Comentários",
+      "nodes": 555,
+      "edges": 622,
+      "total_weight": 2056,
+      "density": 0.0020229615897485935,
+      "is_connected": false
+    },
+    "issue_closes": {
+      "name": "Fechamento de Issues",
+      "nodes": 112,
+      "edges": 102,
+      "total_weight": 309,
+      "density": 0.008204633204633204,
+      "is_connected": false
+    },
+    "reviews": {
+      "name": "Reviews e Merges",
+      "nodes": 51,
+      "edges": 63,
+      "total_weight": 604,
+      "density": 0.024705882352941175,
+      "is_connected": false
+    },
+    "integrated": {
+      "name": "Grafo Integrado",
+      "nodes": 646,
+      "edges": 726,
+      "total_weight": 3467,
+      "density": 0.0017423860609115127,
+      "is_connected": false
+    }
+  },
+  "top_collaborators": [
+    {
+      "username": "ahchang2",
+      "total_interactions": 0,
+      "comments_made": 0,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.053125288697433624,
+      "in_degree_centrality": 0.10542635658914729,
+      "out_degree_centrality": 0.0,
+      "closeness_centrality": 0.1054485049833887,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.05475158191463214
+    },
+    {
+      "username": "hhaAndroid",
+      "total_interactions": 389,
+      "comments_made": 80,
+      "issues_closed": 34,
+      "reviews_given": 22,
+      "prs_merged": 0,
+      "centrality_score": 0.04550269165441285,
+      "in_degree_centrality": 0.05116279069767442,
+      "out_degree_centrality": 0.09302325581395349,
+      "closeness_centrality": 0.05120708748615725,
+      "betweenness_centrality": 0.005330059222880254,
+      "pagerank": 0.026790265051398778
+    },
+    {
+      "username": "CLAassistant",
+      "total_interactions": 136,
+      "comments_made": 68,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.020657741491678035,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.10232558139534884,
+      "closeness_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.0009631260630413515
+    },
+    {
+      "username": "mira-murali",
+      "total_interactions": 0,
+      "comments_made": 0,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.019241662520693023,
+      "in_degree_centrality": 0.03565891472868217,
+      "out_degree_centrality": 0.0,
+      "closeness_centrality": 0.04172403100775194,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.018825366867030995
+    },
+    {
+      "username": "nijkah",
+      "total_interactions": 0,
+      "comments_made": 0,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.01820278858597728,
+      "in_degree_centrality": 0.023255813953488372,
+      "out_degree_centrality": 0.0,
+      "closeness_centrality": 0.04961240310077519,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.018145725875622836
+    },
+    {
+      "username": "xiyangyang99",
+      "total_interactions": 0,
+      "comments_made": 0,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.015610562841870373,
+      "in_degree_centrality": 0.021705426356589147,
+      "out_degree_centrality": 0.0,
+      "closeness_centrality": 0.043793889648882804,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.012553498203879914
+    },
+    {
+      "username": "mdk19015",
+      "total_interactions": 0,
+      "comments_made": 0,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.014577365777697101,
+      "in_degree_centrality": 0.020155038759689922,
+      "out_degree_centrality": 0.0,
+      "closeness_centrality": 0.04176592928719985,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.010965860841595733
+    },
+    {
+      "username": "ZwwWayne",
+      "total_interactions": 359,
+      "comments_made": 59,
+      "issues_closed": 21,
+      "reviews_given": 40,
+      "prs_merged": 0,
+      "centrality_score": 0.013215881026561757,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.06511627906976744,
+      "closeness_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.0009631260630413515
+    },
+    {
+      "username": "christiano12345",
+      "total_interactions": 0,
+      "comments_made": 0,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.011679147729851935,
+      "in_degree_centrality": 0.013953488372093023,
+      "out_degree_centrality": 0.0,
+      "closeness_centrality": 0.03675213675213675,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.0076901135250299
+    },
+    {
+      "username": "liuyanzhi1214",
+      "total_interactions": 0,
+      "comments_made": 0,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.011006768904312472,
+      "in_degree_centrality": 0.021705426356589147,
+      "out_degree_centrality": 0.0,
+      "closeness_centrality": 0.021705426356589147,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.011622991808384067
+    }
+  ],
+  "insights": [
+    "O repositório possui 646 usuários únicos com interações",
+    "Total de 726 conexões entre usuários",
+    "Peso total das interações: 3467",
+    "Densidade do grafo: 0.0017",
+    "Grafo conectado: Não",
+    "Usuário mais central: ahchang2 (score: 0.0531)"
+  ],
+  "interaction_summary": {
+    "issue_comment": 498,
+    "issue_close": 103,
+    "comment": 530,
+    "review": 151
+  }
+}

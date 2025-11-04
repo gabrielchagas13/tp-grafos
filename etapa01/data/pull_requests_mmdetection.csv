@@ -1,0 +1,1001 @@
+id,number,title,state,author,created_at,updated_at,closed_at,merged_at,merged_by,comments_count,review_comments_count,commits_count,additions,deletions
+2959373833,12407,Oln ssos implementation,closed,yonafalinie,2025-10-29T14:49:19Z,2025-10-29T15:00:19Z,2025-10-29T15:00:19Z,,,0,0,0,0,0
+551073776,4414,swa object detection,open,hyz-xmaster,2021-01-07T13:56:20Z,2025-10-27T10:57:58Z,,,,0,0,0,0,0
+1682946677,11395,[Feature] Support RT-DETR,open,flytocc,2024-01-17T13:08:07Z,2025-10-23T12:54:25Z,,,,0,0,0,0,0
+877341932,7374,[fix] pycocotools can not build with py>3.8 and no VS14 for compilation in windows,open,EasonQYS,2022-03-11T11:28:56Z,2025-10-22T22:42:47Z,,,,0,0,0,0,0
+1981420370,11870, Fix albumentations versions >= 1.4.11,open,Theelx,2024-07-22T14:45:49Z,2025-10-21T09:42:45Z,,,,0,0,0,0,0
+2217783588,12063,[Bug Fix] fix eval_recalls for compatibility with NumPy > 1.23,open,risingClouds,2024-12-05T14:16:23Z,2025-10-21T09:41:15Z,,,,0,0,0,0,0
+2680488815,12383,fix spell error in deformable_detr,open,103yiran,2025-07-21T03:25:43Z,2025-10-21T09:37:59Z,,,,0,0,0,0,0
+2489133308,12352,[Bug fix] attention_mask dtype in BiMultiHeadAttention,open,xiuqhou,2025-04-29T14:44:55Z,2025-10-21T09:37:12Z,,,,0,0,0,0,0
+2534028556,12364,fix: update requirements with version pins and add opencv-python,open,omrode1,2025-05-21T10:57:20Z,2025-10-21T09:36:09Z,,,,0,0,0,0,0
+1072247539,8920,Custom iou_thrs cause bbox_mAP_50 and bbox_mAP_75 equal to -1,open,Hellcat1005,2022-09-30T06:35:23Z,2025-10-19T05:57:46Z,,,,0,0,0,0,0
+1609911184,11198,Large Image utilities need a local implementation of shift_bbox,open,SajjadPSavoji,2023-11-20T22:08:22Z,2025-10-10T15:18:26Z,,,,0,0,0,0,0
+936513802,7987,[WIP] Support Grad Free and  Grad Based CAM,open,hhaAndroid,2022-05-14T11:11:33Z,2025-10-09T08:48:15Z,,,,0,0,0,0,0
+1050536416,8757,"fix: transpose scale_factors to match the shape of [batch_size, 4]",open,Raysilience,2022-09-08T16:26:42Z,2025-09-20T12:18:23Z,,,,0,0,0,0,0
+1041531278,8673,"Refactor filtering mask, fix attribute error",open,christian-hiebl,2022-08-30T22:21:40Z,2025-09-11T12:17:16Z,,,,0,0,0,0,0
+901114779,7645,Support αiou loss,open,CCODING04,2022-04-06T07:19:56Z,2025-09-09T00:24:56Z,,,,0,0,0,0,0
+408889072,2534,Bifpn prac jw,closed,hello-jinwoo,2020-04-25T10:49:10Z,2025-09-07T18:15:59Z,2023-01-29T10:51:54Z,,,0,0,0,0,0
+1299964597,10078,[Fix] Fix the teacher_model is not automatically placed on the right device,open,Ginray,2023-04-03T12:14:01Z,2025-09-03T19:59:42Z,,,,0,0,0,0,0
+2703120921,12388,Lauriebax/update onedl mmdetection,closed,lauriebax,2025-07-29T07:39:46Z,2025-07-29T07:39:59Z,2025-07-29T07:39:54Z,,,0,0,0,0,0
+1024704281,8552,yolov3 training on IPU,open,HuDi2018,2022-08-12T08:50:39Z,2025-07-28T09:42:28Z,,,,0,0,0,0,0
+829763911,7067,[Feature] utilize mmcv image backend,closed,fcakyon,2022-01-23T14:46:44Z,2025-07-26T08:30:08Z,2025-04-27T08:04:52Z,,,0,0,0,0,0
+534851557,4259,Rebuild hungarian assigner,closed,kellenf,2020-12-09T02:30:11Z,2025-07-15T02:40:47Z,2020-12-23T10:06:20Z,2020-12-23T10:06:20Z,,0,0,0,0,0
+2643934037,12378,Add industrial surface defect detection example using NEU dataset,open,farquardsolve,2025-07-05T22:18:09Z,2025-07-05T23:33:31Z,,,,0,0,0,0,0
+1166734428,9495,[Fix] Fix yolof training stability,closed,twmht,2022-12-15T12:46:24Z,2025-06-27T03:12:42Z,2025-06-27T03:12:42Z,,,0,0,0,0,0
+317283184,1386,End-to-end Faster/Mask R-CNN models export to ONNX,closed,druzhkov-paul,2019-09-13T11:25:27Z,2025-06-14T02:31:45Z,2021-05-31T09:33:45Z,,,0,0,0,0,0
+508667813,3985,Paa improve,closed,Johnson-Wang,2020-10-23T03:07:25Z,2025-06-13T17:04:20Z,2020-10-25T01:26:27Z,2020-10-25T01:26:26Z,,0,0,0,0,0
+437271739,3082,processing ignore boxes in atss assigner,closed,rydenisbak,2020-06-19T19:53:55Z,2025-06-12T23:05:22Z,2020-07-09T09:08:24Z,2020-07-09T09:08:24Z,,0,0,0,0,0
+620131154,5039,[Feature]: Support exporting to ONNX with batch and dynamic shape,closed,RunningLeon,2021-04-21T11:56:25Z,2025-06-12T04:29:54Z,2021-04-27T01:39:33Z,2021-04-27T01:39:33Z,,0,0,0,0,0
+1762991355,11533,Wrong model file was referenced; Changed to the correct one,closed,Kataglyphis,2024-03-08T13:26:48Z,2025-05-27T14:14:04Z,2025-05-27T14:14:04Z,,,0,0,0,0,0
+1909283308,11776,Add faster-coco-eval metric,closed,MiXaiLL76,2024-06-07T13:50:03Z,2025-05-27T09:48:31Z,2025-05-27T09:48:30Z,,,0,0,0,0,0
+2484575119,12350,del,closed,tanushreebanerjee,2025-04-28T02:08:23Z,2025-05-10T20:59:18Z,2025-05-10T20:47:16Z,,,0,0,0,0,0
+2278501259,12294,Support val and test dataset in tools/analysis tools/browse dataset.py,closed,chatzianagnostis,2025-01-15T07:52:32Z,2025-04-10T08:27:46Z,2025-01-15T13:44:09Z,,,0,0,0,0,0
+2427656516,12339,fix a typo in readme,open,liux-pro,2025-03-30T17:38:54Z,2025-03-30T17:39:22Z,,,,0,0,0,0,0
+2410594838,12331,Update ddq-detr-5scale_r50_8xb2-12e_coco.py,open,Soorajkumar36,2025-03-21T22:02:11Z,2025-03-21T22:03:51Z,,,,0,0,0,0,0
+1380895304,10454,Add FROC metrics,closed,svipvm,2023-06-06T13:40:53Z,2025-03-21T09:58:15Z,2025-03-21T09:58:15Z,,,0,0,0,0,0
+2382474819,12325,change img.stack to img.concatenate of loadmultichannelimagefromfile,open,ggamaz,2025-03-10T14:35:24Z,2025-03-10T14:39:14Z,,,,0,0,0,0,0
+675420878,5417,Let ATSS support regression type as point,closed,thisisi3,2021-06-22T13:25:36Z,2025-03-09T14:05:49Z,2025-03-09T14:05:49Z,,,0,0,0,0,0
+2343779132,12313,mmdet support musa backend,open,sunyanguomt,2025-02-19T06:51:08Z,2025-02-26T01:54:32Z,,,,0,0,0,0,0
+841839817,7125,Automatic validation of your citation metadata,open,abelsiqueira,2022-02-07T15:07:17Z,2025-02-19T06:59:37Z,,,,0,0,0,0,0
+930219625,7924,Replace markdownlint with mdformat to avoid installing ruby,open,zhouzaida,2022-05-07T06:30:28Z,2025-02-19T06:59:10Z,,,,0,0,0,0,0
+930952611,7945,Static GridAssigner,open,HuDi2018,2022-05-09T09:47:41Z,2025-02-19T06:59:07Z,,,,0,0,0,0,0
+950747495,8090,Fix warning with torch.meshgrid,open,pallgeuer,2022-05-30T09:33:19Z,2025-02-19T06:59:00Z,,,,0,0,0,0,0
+958901454,8142,[Fix] Use torch.initial_seed to guarantee the randomness of numpy,open,jbwang1997,2022-06-06T09:52:57Z,2025-02-19T06:58:53Z,,,,0,0,0,0,0
+990148646,8323,[Fix]: Fix WandbLogger Hang Error for distributed training.,open,zimoqingfeng,2022-07-07T12:24:10Z,2025-02-19T06:58:50Z,,,,0,0,0,0,0
+1017075833,8491,[WIP] Add Mask2Former swin-b swin-l config files for instance segmentation,open,chhluo,2022-08-04T05:50:09Z,2025-02-19T06:58:44Z,,,,0,0,0,0,0
+1018447164,8508,[WIP] Fix wider face,open,chhluo,2022-08-05T09:14:50Z,2025-02-19T06:58:37Z,,,,0,0,0,0,0
+2324292664,12304,Make MMCV and MMEngine Upper Version Bound Inclusive,closed,anglesideangle,2025-02-09T03:27:12Z,2025-02-09T03:49:04Z,2025-02-09T03:48:56Z,,,0,0,0,0,0
+2311510026,12300,Initial setup,closed,AnimeshMaheshwari22,2025-02-03T00:40:37Z,2025-02-03T00:55:02Z,2025-02-03T00:55:02Z,,,0,0,0,0,0
+2279691546,12296,Update inference.md,open,AgustinRoca,2025-01-15T17:11:21Z,2025-01-15T17:13:30Z,,,,0,0,0,0,0
+2277122718,12293,Support val and test dataset,closed,chatzianagnostis,2025-01-14T15:47:50Z,2025-01-15T07:05:41Z,2025-01-15T07:05:38Z,,,0,0,0,0,0
+2277005561,12292, Add Support for Validation and Test Datasets in tools/analysis_tools/browse_dataset.py Script,closed,chatzianagnostis,2025-01-14T15:06:33Z,2025-01-14T16:21:58Z,2025-01-14T16:09:48Z,,,0,0,0,0,0
+2268376904,12288,Update coco.py,open,hossinasaadi,2025-01-09T13:12:30Z,2025-01-09T13:29:28Z,,,,0,0,0,0,0
+2259949888,12283,修复filter_scores_and_topk,open,jiangfeizi,2025-01-04T01:43:02Z,2025-01-04T01:50:33Z,,,,0,0,0,0,0
+2240406536,12273,Validated training config #86b35mu8a,closed,aponamarev,2024-12-17T18:52:41Z,2024-12-18T18:19:38Z,2024-12-17T18:53:48Z,,,0,0,0,0,0
+1177654539,9533,Replace numpy transpose with torch permute to speed-up,closed,Min-Sheng,2022-12-26T09:40:05Z,2024-12-14T04:18:57Z,2023-01-04T15:52:33Z,2023-01-04T15:52:33Z,,0,0,0,0,0
+885671396,7493,[Feature]: Benchmark of applying ViT to Mask-RCNN,open,YuanLiuuuuuu,2022-03-22T06:57:30Z,2024-12-11T09:24:04Z,,,,0,0,0,0,0
+2219359875,12066,[bug-fix] fixed docker build error for `Hash Sum mismatch`,open,Jun0922,2024-12-06T07:30:11Z,2024-12-06T07:32:21Z,,,,0,0,0,0,0
+2028701804,11916,Add New Data Augmentation Technique: OA-Mix,open,dazory,2024-08-21T01:37:30Z,2024-11-26T00:12:27Z,,,,0,0,0,0,0
+927429622,7906,add detail on doc explain  how to make self defined class of  custom dataset registed,open,yestimes,2022-05-04T09:45:10Z,2024-11-11T21:57:44Z,,,,0,0,0,0,0
+1377977814,10440,fix bug in point_assigner,open,hujh1994,2023-06-04T22:40:46Z,2024-11-06T08:14:35Z,,,,0,0,0,0,0
+2162638992,12030,Accident pull request,closed,c-m-g-zhu,2024-11-05T09:34:04Z,2024-11-05T10:35:34Z,2024-11-05T09:35:02Z,,,0,0,0,0,0
+2162219666,12029,Create hoshi airdrop,open,yongsky02,2024-11-05T04:32:35Z,2024-11-05T04:32:41Z,,,,0,0,0,0,0
+2151897871,12021,robust_object_detection using mmdetection,closed,Minkyoung9,2024-10-29T15:36:27Z,2024-10-30T03:59:30Z,2024-10-30T03:59:29Z,,,0,0,0,0,0
+2023888902,11913,Make projects module available for custom import of CO-DETR,open,bibekyess,2024-08-17T06:00:55Z,2024-10-29T10:01:06Z,,,,0,0,0,0,0
+995593556,8362,[WIP]: Add DINO on MMDetection 2.x,closed,Li-Qingyun,2022-07-13T14:42:04Z,2024-10-29T01:48:07Z,2024-10-29T01:48:07Z,,,0,0,0,0,0
+1177671853,9534,[Doc] Add Doc of Detection Transformers,closed,Li-Qingyun,2022-12-26T10:06:26Z,2024-10-29T01:47:00Z,2024-10-29T01:47:00Z,,,0,0,0,0,0
+746741712,6205,fix potential bug of swin converter,open,HarborYuan,2021-09-30T14:11:18Z,2024-10-24T07:36:05Z,,,,0,0,0,0,0
+835020685,7099,[unify] change train_detector to train_model,open,EasonQYS,2022-01-29T07:11:51Z,2024-10-24T07:35:49Z,,,,0,0,0,0,0
+1045731264,8735,[Feature] K-Net,open,chhluo,2022-09-04T15:32:02Z,2024-10-24T07:34:59Z,,,,0,0,0,0,0
+1077962326,8947,[Fix] Fix the bug that MMDetWandbHook cannot log evaluation results,open,RockeyCoss,2022-10-05T23:20:06Z,2024-10-24T07:34:22Z,,,,0,0,0,0,0
+1280308595,9981,Add fix for albu channel order,open,mmeendez8,2023-03-17T14:33:56Z,2024-10-24T07:33:13Z,,,,0,0,0,0,0
+1413415635,10574,Fix device of the tensors in set_nms,closed,max-unfinity,2023-06-29T14:06:48Z,2024-10-24T07:09:38Z,2023-07-21T01:56:16Z,2023-07-21T01:56:15Z,,0,0,0,0,0
+2135889001,12006,"added missing """,open,laurenzheidrich,2024-10-21T11:53:06Z,2024-10-21T11:54:07Z,,,,0,0,0,0,0
+660850196,5282,[Feature] Skipping post-processing in Mask R-CNN,closed,SemyonBevzuk,2021-06-03T12:07:50Z,2024-10-20T09:43:02Z,2024-10-20T09:42:53Z,,,0,0,0,0,0
+616731691,4990,[Feature] NMS update,closed,SemyonBevzuk,2021-04-16T10:41:14Z,2024-10-20T09:43:02Z,2024-10-20T09:42:53Z,,,0,0,0,0,0
+1353820470,10348,Fix RTMDet miss `LoadAnnotations` bug in test_pipeline,closed,hhaAndroid,2023-05-17T09:38:56Z,2024-10-16T14:38:51Z,2023-05-17T10:06:26Z,2023-05-17T10:06:26Z,,0,0,0,0,0
+1390430818,10498,[Training is in progress] [Feature] Support RT-DETR,open,nijkah,2023-06-13T11:39:42Z,2024-10-12T02:36:48Z,,,,0,0,0,0,0
+2098695381,11981,Enable float32 image dtype in (Cached)MixUp,open,mawanda-jun,2024-09-30T10:05:32Z,2024-09-30T10:05:40Z,,,,0,0,0,0,0
+2090091991,11970,[SVM-796] upgrade torch,closed,wemoveon2,2024-09-24T22:26:47Z,2024-09-24T22:32:01Z,2024-09-24T22:28:00Z,,,0,0,0,0,0
+1990628048,11884,fix(README): fix link of XDecoder at README,open,scepter914,2024-07-27T19:17:19Z,2024-09-23T13:23:06Z,,,,0,0,0,0,0
+1781204836,11571,fix: typos,open,testwill,2024-03-20T01:51:18Z,2024-09-23T02:50:09Z,,,,0,0,0,0,0
+1813484257,11623,first update,closed,JGyoung-UCAS,2024-04-09T06:40:49Z,2024-09-23T02:49:16Z,2024-09-23T02:49:16Z,,,0,0,0,0,0
+2072734606,11961,Convert `bboxes` to `numpy.ndarray` in InstanceData for Detection Task,open,Archie2035,2024-09-15T14:57:53Z,2024-09-15T14:58:00Z,,,,0,0,0,0,0
+2072719449,11960,Convert `bboxes` to `numpy.ndarray` in InstanceData for tools/analyze_results.py,closed,Archie2035,2024-09-15T14:11:37Z,2024-09-15T14:46:46Z,2024-09-15T14:46:46Z,,,0,0,0,0,0
+1901203352,11764,loosen version constraint with mmcv,closed,jhj0517,2024-06-03T16:01:27Z,2024-09-06T09:22:31Z,2024-09-06T09:22:31Z,,,0,0,0,0,0
+2054608082,11940,Update analyze_logs.py,open,hcbin,2024-09-05T02:18:41Z,2024-09-05T02:53:22Z,,,,0,0,0,0,0
+1295774417,10053,【fix】 fix reppoints head device bug,closed,klyu521,2023-03-30T07:50:21Z,2024-08-29T07:30:47Z,2023-03-31T02:49:24Z,2023-03-31T02:49:24Z,,0,0,0,0,0
+1289240686,10026,Fixed potential device mismatch,closed,cxy1997,2023-03-24T15:27:51Z,2024-08-29T07:01:20Z,2023-03-29T07:09:09Z,2023-03-29T07:09:09Z,,0,0,0,0,0
+1287330318,10016,[Fix] Fix the precision problem of solov2 model on NPU.,closed,Ginray,2023-03-23T12:25:37Z,2024-08-29T06:30:43Z,2023-03-24T03:45:09Z,2023-03-24T03:45:09Z,,0,0,0,0,0
+2014106059,11906,[Fix] rtmdet_ins_head scale_factor dimensions,open,wickeat,2024-08-12T02:42:42Z,2024-08-12T07:16:56Z,,,,0,0,0,0,0
+1410224294,10561,[Feature] Support Dense Teacher,open,shufanwu,2023-06-27T16:24:40Z,2024-08-05T02:44:14Z,,,,0,0,0,0,0
+1782001014,11574,Updated the mmdet2torchserve function:,open,Danil328,2024-03-20T12:29:55Z,2024-08-01T09:38:12Z,,,,0,0,0,0,0
+1988923813,11881,Update local_visualizer.py to return the image if there are no masks,open,peasant98,2024-07-26T07:50:13Z,2024-07-31T19:34:07Z,,,,0,0,0,0,0
+1248343946,9812,[Feature] Support ViTDet in projects,closed,zwhus,2023-02-21T08:32:00Z,2024-07-30T02:39:10Z,2023-05-12T06:02:22Z,2023-05-12T06:02:21Z,,0,0,0,0,0
+1473936182,10787,Refine DDQ README,closed,hhaAndroid,2023-08-14T08:01:36Z,2024-07-29T10:17:36Z,2023-08-15T06:03:50Z,2023-08-15T06:03:50Z,,0,0,0,0,0
+1574594716,11094,[MMSIG]Add the functionality to plot the PR curve in the COCO metric indicators of mmdet,open,SimonGuoNjust,2023-10-26T11:10:19Z,2024-07-29T09:50:09Z,,,,0,0,0,0,0
+1695802028,11432,fix albumentations mask postprocessing,open,AItairs,2024-01-25T15:21:31Z,2024-07-22T08:25:45Z,,,,0,0,0,0,0
+1917564195,11789,Update __init__.py,open,JohnConnor123,2024-06-12T23:51:29Z,2024-07-12T23:33:27Z,,,,0,0,0,0,0
+1855358022,11680,[Fix] Update mmcv_maximum_version,closed,shun001,2024-05-06T03:35:31Z,2024-07-12T09:35:44Z,2024-07-12T09:35:11Z,2024-07-12T09:35:11Z,,0,0,0,0,0
+1932620597,11809,fix:Fix two of the CO-DETR config files,open,Zzzan,2024-06-21T14:41:51Z,2024-07-10T14:23:56Z,,,,0,0,0,0,0
+1617884454,11216,Update iou2d_calculator.py to fix an error description in the comment,closed,lengmo1996,2023-11-27T12:33:37Z,2024-07-07T08:34:55Z,2024-07-07T08:34:55Z,,,0,0,0,0,0
+1942367793,11814,[Fix] non-functional configuration File for new config file of maskformer_swin_l,open,tackhwa,2024-06-27T13:33:20Z,2024-06-27T13:33:47Z,,,,0,0,0,0,0
+1828825200,11646,pull the newest code,closed,leo038,2024-04-18T06:31:27Z,2024-06-12T02:22:37Z,2024-06-12T02:22:36Z,,,0,0,0,0,0
+1842533691,11669,Fix: some bugs when text input reaches max_tokens of language_model,open,jiangtann,2024-04-26T09:55:55Z,2024-05-27T19:25:57Z,,,,0,0,0,0,0
+1887261259,11741,Fix NLTK Download and add Verbose Flag for GLIP,open,Pikus16,2024-05-24T17:06:57Z,2024-05-24T19:55:27Z,,,,0,0,0,0,0
+1870650274,11716,PipelineSwitchHook now compatible with MultiImageMixDataset,open,mawanda-jun,2024-05-15T09:09:06Z,2024-05-17T08:23:11Z,,,,0,0,0,0,0
+1868645787,11713,CopyPaste bugfix - result['img'] not in src image dtype,open,mawanda-jun,2024-05-14T10:33:11Z,2024-05-16T12:34:52Z,,,,0,0,0,0,0
+1624073197,11231,Fix wrong size of mask in RTMDet-Ins post-processing.,open,flytocc,2023-11-30T16:48:46Z,2024-05-09T07:26:04Z,,,,0,0,0,0,0
+1453632878,10719,[CodeCamp2023-500]add large_image_demo,closed,YanxingLiu,2023-07-28T10:46:54Z,2024-05-09T01:31:59Z,2023-08-14T06:31:52Z,2023-08-14T06:31:52Z,,0,0,0,0,0
+1850559053,11676,Detrobust,closed,dayelang618,2024-05-02T02:06:45Z,2024-05-02T02:07:19Z,2024-05-02T02:07:19Z,,,0,0,0,0,0
+842699964,7129,"check error when the ""image"" field of json file of dataset is empty, which may lead to an empty dataloader",closed,HiiiXinyiii,2022-02-08T11:25:05Z,2024-04-25T20:01:37Z,2024-04-25T20:01:37Z,,,0,0,0,0,0
+1839793344,11662,Remove unused kwarray,open,Erotemic,2024-04-24T23:49:06Z,2024-04-24T23:49:12Z,,,,0,0,0,0,0
+1507782527,10901,[CodeCamp2023-474] Add new configuration files for DINO algorithm in mmdetection. ,closed,Markson-Young,2023-09-08T12:07:03Z,2024-04-16T13:21:04Z,2023-09-13T01:59:06Z,2023-09-13T01:59:06Z,,0,0,0,0,0
+1822647242,11639,doc: using collate_fn,open,AlanBlanchet,2024-04-15T07:51:06Z,2024-04-15T07:51:18Z,,,,0,0,0,0,0
+1802697180,11610,doc: using collate_fn,closed,AlanBlanchet,2024-04-02T14:50:33Z,2024-04-15T07:49:01Z,2024-04-15T07:49:01Z,,,0,0,0,0,0
+1814255099,11625,fix(depreciation): np >= 1.20 dtype long is int_,open,AwePhD,2024-04-09T14:24:07Z,2024-04-10T06:35:42Z,,,,0,0,0,0,0
+1814009614,11624,Fixed channel order RGB bug in the inference Code,open,SarmadNR,2024-04-09T12:11:14Z,2024-04-09T12:19:07Z,,,,0,0,0,0,0
+1299458387,10070,[Fix] Fix inference_detector fail on non-cuda and non-cpu devices,closed,Metal-joker,2023-04-03T05:49:11Z,2024-04-08T14:12:06Z,2024-04-08T14:12:06Z,,,0,0,0,0,0
+1806236260,11615,V3det update,open,yhcao6,2024-04-04T06:43:59Z,2024-04-04T06:44:06Z,,,,0,0,0,0,0
+1446140102,10689,[Feature] Support MaskDINO,open,hhaAndroid,2023-07-24T06:49:03Z,2024-03-28T19:43:44Z,,,,0,0,0,0,0
+1795975287,11602,Sync to 3.3,closed,AwePhD,2024-03-28T12:29:17Z,2024-03-28T12:33:59Z,2024-03-28T12:33:59Z,,,0,0,0,0,0
+1546577553,11006,[CodeCamp2023-475] Add new configuration files for Mask2Former algorithm.,closed,ChengAoShen,2023-10-08T02:39:59Z,2024-03-22T03:45:13Z,2024-03-22T03:45:13Z,,,0,0,0,0,0
+1688585851,11415,Feat: Load datasets from huggingface hub,closed,ryan-minato,2024-01-21T09:00:06Z,2024-03-17T04:50:29Z,2024-03-17T04:50:29Z,,,0,0,0,0,0
+1767674528,11546,Update train.md to have runable example,open,vedal,2024-03-12T10:59:35Z,2024-03-12T11:30:47Z,,,,0,0,0,0,0
+1736586231,11487,Add missing entry of 'isthing' for  coco panoptic in customize dataset,open,FranklynJey,2024-02-21T11:10:49Z,2024-03-11T13:30:38Z,,,,0,0,0,0,0
+1713070077,11463,copy to cpu without oom,open,vmmm123,2024-02-06T07:02:05Z,2024-03-08T03:18:50Z,,,,0,0,0,0,0
+1761116893,11524,fix BUG of SSDHead when predict,open,zzj403,2024-03-07T14:07:00Z,2024-03-07T14:11:29Z,,,,0,0,0,0,0
+1760564858,11522,add support for custom input & output channels in mobileNetV2,open,raushani2v,2024-03-07T09:03:09Z,2024-03-07T11:23:33Z,,,,0,0,0,0,0
+1749608948,11509,Update swinb & swinl results,open,hhaAndroid,2024-02-29T11:55:14Z,2024-03-04T11:07:55Z,,,,0,0,0,0,0
+1509128581,10907,[CodeCamp2023-683]Support grounding dino,closed,YanxingLiu,2023-09-10T12:09:23Z,2024-02-27T02:45:47Z,2023-09-18T05:21:11Z,2023-09-18T05:21:11Z,,0,0,0,0,0
+1742196213,11496,new Feature: Prompt tuning for Grounding DINO,open,CMZJIRCV,2024-02-25T14:48:57Z,2024-02-25T14:49:04Z,,,,0,0,0,0,0
+1740314520,11493,new feature: Prompt Tuning for mmGroundingDino,closed,CMZJIRCV,2024-02-23T08:38:37Z,2024-02-25T14:38:42Z,2024-02-25T14:38:41Z,,,0,0,0,0,0
+1292590364,10039,[Feature] Support Semi-automatic annotation Base Label-Studio,closed,vansinhu,2023-03-28T08:48:47Z,2024-02-25T08:15:31Z,2023-04-03T11:29:55Z,2023-04-03T11:29:54Z,,0,0,0,0,0
+1601910788,11182,Fix freeze_stage in swin.py and bug of split_outputs in dino_head.py,open,ShenghaiRong,2023-11-15T05:19:14Z,2024-02-25T05:09:54Z,,,,0,0,0,0,0
+1736855360,11488,Solving issue #11362. Creating nltk_data in the $HOME directory.,open,javierganan99,2024-02-21T13:36:15Z,2024-02-23T17:38:32Z,,,,0,0,0,0,0
+1713056912,11462,[Fix] Mismatch Between bboxes and scores During NMS in Confusion Matrix Calculation,open,mochiriku,2024-02-06T06:50:14Z,2024-02-23T09:12:18Z,,,,0,0,0,0,0
+1730809633,11477,Update customize_models.md,closed,jsanhuo,2024-02-17T12:28:05Z,2024-02-23T09:11:53Z,2024-02-23T09:11:53Z,2024-02-23T09:11:53Z,,0,0,0,0,0
+1617892144,11217,[MMSIG] Add the ovdet algorithm to the mmdet projects,open,Shengshenlan,2023-11-27T12:38:56Z,2024-02-23T09:08:46Z,,,,0,0,0,0,0
+1494864295,10856,[CodeCamp2023-488] Add new configuration files for SoftTeacher algorithm in mmdetection.,open,Shengshenlan,2023-08-30T05:33:41Z,2024-02-23T09:08:46Z,,,,0,0,0,0,0
+1718065977,11467,RTMDet训练中显存异常激增的一个修复方案,closed,Baboom-l,2024-02-08T17:17:52Z,2024-02-20T04:22:50Z,2024-02-20T04:22:50Z,,,0,0,0,0,0
+1582012211,11113,[MMSIG] MMDet 新 config 体验与适配 #355,open,Shengshenlan,2023-11-01T03:45:51Z,2024-02-11T05:11:44Z,,,,0,0,0,0,0
+1713099637,11464,"Update grounding_dino_swin-t_pretrain_obj365.py, adding GIOU loss.",closed,plutoyuxie,2024-02-06T07:27:54Z,2024-02-06T08:16:13Z,2024-02-06T08:13:21Z,,,0,0,0,0,0
+1683730438,11397,adjust avg_factor for ONNX exporter,open,prathikr,2024-01-17T21:43:12Z,2024-02-05T22:24:11Z,,,,0,0,0,0,0
+1711648157,11460,Release MM-GroundingDINO SwinB and SwinL Weights,closed,hhaAndroid,2024-02-05T13:12:27Z,2024-02-05T13:23:18Z,2024-02-05T13:23:18Z,2024-02-05T13:23:18Z,,0,0,0,0,0
+1710887502,11458,Release MM-GroundingDINO SwinB and SwinL Weights,closed,hhaAndroid,2024-02-05T04:59:03Z,2024-02-05T13:11:41Z,2024-02-05T13:11:41Z,2024-02-05T13:11:41Z,,0,0,0,0,0
+1480198057,10809,Improve DINO,closed,hhaAndroid,2023-08-18T08:30:52Z,2024-02-05T10:07:54Z,2023-08-21T05:04:54Z,2023-08-21T05:04:54Z,,0,0,0,0,0
+1685940656,11404,fix:grounding_pretrain_text_trans_negative_label,closed,Baboom-l,2024-01-19T03:43:31Z,2024-02-01T02:52:22Z,2024-02-01T02:52:22Z,2024-02-01T02:52:22Z,,0,0,0,0,0
+1701349917,11442,use `lerp` in ema,closed,RangiLyu,2024-01-30T06:20:14Z,2024-02-01T02:51:52Z,2024-02-01T02:51:51Z,2024-02-01T02:51:51Z,,0,0,0,0,0
+1702027044,11444,Support importing train.py,open,amosonn,2024-01-30T12:53:34Z,2024-02-01T02:49:45Z,,,,0,0,0,0,0
+1703910347,11451,[Bug Fix] video_demo bug fixed for issue#11353,closed,Jun0922,2024-01-31T11:45:46Z,2024-02-01T02:49:23Z,2024-02-01T02:49:23Z,2024-02-01T02:49:23Z,,0,0,0,0,0
+1703870137,11450,[Bug Fix] video_demo.py bug fixed for issue#11353,closed,Jun0922,2024-01-31T11:18:51Z,2024-01-31T11:35:33Z,2024-01-31T11:35:33Z,,,0,0,0,0,0
+1695662582,11430,[fix] use image instead of ori_mask to get shape,closed,AItairs,2024-01-25T14:01:36Z,2024-01-25T15:21:49Z,2024-01-25T15:21:49Z,,,0,0,0,0,0
+1092288213,9076,add Extended-IOU loss implementation ,open,Wwupup,2022-10-19T12:46:22Z,2024-01-25T14:08:25Z,,,,0,0,0,0,0
+1576143702,11099,[Feature] Support OC Cost metric,open,okotaku,2023-10-27T08:16:12Z,2024-01-20T15:24:34Z,,,,0,0,0,0,0
+1682506948,11392,fix_grounding_pretrain_negative_label,closed,Baboom-l,2024-01-17T08:25:03Z,2024-01-19T03:38:39Z,2024-01-19T03:38:39Z,,,0,0,0,0,0
+1682502594,11391,Fix: Obtaining cat_id through class name may cause bug in some cases,open,mjq2020,2024-01-17T08:21:56Z,2024-01-17T08:34:27Z,,,,0,0,0,0,0
+1629478869,11251,Fix bug in convert_coco_format,closed,ImJaewooChoi,2023-12-05T03:21:54Z,2024-01-16T13:15:51Z,2023-12-22T10:03:16Z,2023-12-22T10:03:16Z,,0,0,0,0,0
+1671718913,11355,Fix for None,open,godardt,2024-01-10T04:44:24Z,2024-01-10T04:45:19Z,,,,0,0,0,0,0
+1668409743,11352,adapt for moore threads MUSA,open,hanhaowen-mt,2024-01-08T07:23:21Z,2024-01-09T08:13:36Z,,,,0,0,0,0,0
+1580901815,11108,[Fix] fix incorrect kl_div_loss,open,ZaberKo,2023-10-31T12:47:55Z,2024-01-06T04:28:20Z,,,,0,0,0,0,0
+1665681289,11347,bump version to 3.3.0,closed,hhaAndroid,2024-01-05T06:04:44Z,2024-01-05T06:10:49Z,2024-01-05T06:10:48Z,2024-01-05T06:10:48Z,,0,0,0,0,0
+1662696997,11338,Bump version to 3.3.0,closed,hhaAndroid,2024-01-03T07:38:11Z,2024-01-05T06:04:09Z,2024-01-05T06:04:09Z,2024-01-05T06:04:09Z,,0,0,0,0,0
+1663343560,11340,replace '.jpg' instead of 'jpg' to guarantee replacing file ending,closed,R-Fehler,2024-01-03T14:18:58Z,2024-01-04T02:25:36Z,2024-01-04T02:25:36Z,2024-01-04T02:25:36Z,,0,0,0,0,0
+1662936615,11339,xxx,closed,hhaAndroid,2024-01-03T10:04:32Z,2024-01-03T10:04:40Z,2024-01-03T10:04:40Z,,,0,0,0,0,0
+1660501765,11325,Fix one of the CO-DETR config files,closed,adnan-mujagic,2023-12-30T20:50:53Z,2024-01-03T04:48:45Z,2024-01-03T04:48:45Z,2024-01-03T04:48:45Z,,0,0,0,0,0
+1661566515,11336,update English version of md,closed,Cycyes,2024-01-02T09:04:06Z,2024-01-03T03:25:43Z,2024-01-03T03:25:43Z,2024-01-03T03:25:43Z,,0,0,0,0,0
+1642057143,11280,Fixed mask shape after Albu postprocess,closed,ilcopione,2023-12-13T09:19:55Z,2023-12-27T19:20:30Z,2023-12-27T01:47:03Z,2023-12-27T01:47:03Z,,0,0,0,0,0
+1651383660,11298,Update README and refine of MM-GDINO,closed,hhaAndroid,2023-12-20T03:53:36Z,2023-12-26T10:20:25Z,2023-12-26T10:20:25Z,2023-12-26T10:20:25Z,,0,0,0,0,0
+1620230979,11220,Fix CO-DETR load_from url in config,closed,returnL,2023-11-28T16:08:54Z,2023-12-22T10:04:22Z,2023-12-22T10:04:22Z,2023-12-22T10:04:22Z,,0,0,0,0,0
+1633513416,11259,[Feature] RTMDet Swin / ConvNeXt,closed,okotaku,2023-12-07T01:25:20Z,2023-12-22T10:01:22Z,2023-12-22T10:01:22Z,2023-12-22T10:01:22Z,,0,0,0,0,0
+1654541521,11304,finetune MM-GDINO on ov_coco and ov_lvis,closed,xushilin1,2023-12-22T02:51:46Z,2023-12-22T05:58:06Z,2023-12-22T05:58:05Z,2023-12-22T05:58:05Z,,0,0,0,0,0
+1653021117,11300,The input for the argument k of top k is expected to be int.,closed,k-washi,2023-12-21T02:47:02Z,2023-12-21T11:55:21Z,2023-12-21T11:55:20Z,,,0,0,0,0,0
+1641651033,11276,fix cocometric if result not exists,open,kota-iizuka,2023-12-13T02:09:48Z,2023-12-18T12:14:53Z,,,,0,0,0,0,0
+1648318445,11295,MMGroundingDINO-A replicable and more comprehensive GroundingDINO,closed,hhaAndroid,2023-12-18T10:50:10Z,2023-12-18T12:12:09Z,2023-12-18T12:12:08Z,2023-12-18T12:12:08Z,,0,0,0,0,0
+1648168272,11293,Support pretrain,closed,hhaAndroid,2023-12-18T09:42:00Z,2023-12-18T09:42:18Z,2023-12-18T09:42:18Z,,,0,0,0,0,0
+1110392845,9235,fix mean_ap,closed,MambaWong,2022-11-04T05:28:11Z,2023-12-08T00:02:13Z,2023-12-08T00:02:13Z,,,0,0,0,0,0
+1069323442,8893,refactor WIDERFaceDataset,closed,MambaWong,2022-09-28T00:33:22Z,2023-12-08T00:02:03Z,2023-12-08T00:02:02Z,,,0,0,0,0,0
+1588876618,11135,[MMSIG] Add new configs for mask2former_vis,open,Crescent-Saturn,2023-11-06T15:33:03Z,2023-12-01T14:40:42Z,,,,0,0,0,0,0
+1595538746,11152,Support pretraining of Grounding DINO,closed,hhaAndroid,2023-11-10T04:56:41Z,2023-11-27T01:56:15Z,2023-11-27T01:56:15Z,,,0,0,0,0,0
+1451576760,10714,Support OneFormer,open,HuYanchen-hub,2023-07-27T08:40:39Z,2023-11-23T12:20:29Z,,,,0,0,0,0,0
+1605822981,11187,"Add GroundingDINO on ODinW results, and support caption prompt of GroundingDINO",closed,Cycyes,2023-11-17T07:23:32Z,2023-11-21T01:13:27Z,2023-11-21T01:13:27Z,2023-11-21T01:13:27Z,,0,0,0,0,0
+1600243093,11175,add odinw configs and evaluation results,closed,Cycyes,2023-11-14T08:07:16Z,2023-11-20T01:50:12Z,2023-11-15T12:19:33Z,2023-11-15T12:19:33Z,,0,0,0,0,0
+1592359694,11143,add odinw configs and eval results,closed,Cycyes,2023-11-08T10:52:38Z,2023-11-20T01:50:10Z,2023-11-14T08:01:36Z,,,0,0,0,0,0
+1601890476,11181,fix swin about _freeze_stages,closed,ShenghaiRong,2023-11-15T04:52:47Z,2023-11-15T05:07:48Z,2023-11-15T05:07:48Z,,,0,0,0,0,0
+1600103187,11173,Replace partially weighted download links with OpenXLab for the Faster-RCNN,closed,keyhsw,2023-11-14T05:52:07Z,2023-11-14T06:35:35Z,2023-11-14T06:35:35Z,2023-11-14T06:35:35Z,,0,0,0,0,0
+1599996887,11172,Update README.md,closed,keyhsw,2023-11-14T03:30:11Z,2023-11-14T05:45:38Z,2023-11-14T05:45:38Z,,,0,0,0,0,0
+1595457590,11151,Update README.md (Replace Faster-RCNN partially weighted download links with OpenXLab),closed,keyhsw,2023-11-10T03:31:58Z,2023-11-14T03:29:47Z,2023-11-14T03:29:47Z,,,0,0,0,0,0
+1598743997,11168,[WIP][MMSIG]Add support for the yolov5 txt data format in mmdet.,open,SimonGuoNjust,2023-11-13T12:06:49Z,2023-11-13T12:06:58Z,,,,0,0,0,0,0
+1595400086,11150,针对dyhead中hight-level feature中存在modulated DCN output和offset不对齐现象,open,Bonbon-Tang,2023-11-10T02:20:45Z,2023-11-10T04:44:20Z,,,,0,0,0,0,0
+1047687003,8744,Add crowddet,closed,yuyoujiang,2022-09-06T14:58:11Z,2023-11-09T14:53:37Z,2022-11-02T11:09:28Z,2022-11-02T11:09:28Z,,0,0,0,0,0
+1590086961,11136,Support LVIS chunked evaluation and image chunked inference of GLIP,closed,hhaAndroid,2023-11-07T08:19:03Z,2023-11-09T06:27:16Z,2023-11-09T06:27:16Z,2023-11-09T06:27:16Z,,0,0,0,0,0
+1582343450,11117,[Feature] Add optional score threshold option to coco_error_analysis.py,closed,guyleaf,2023-11-01T09:33:15Z,2023-11-07T01:30:59Z,2023-11-07T01:30:59Z,2023-11-07T01:30:59Z,,0,0,0,0,0
+1577845026,11104,Enable customization of kernel size in CSPLayer and DarknetBottleneck while preserving previously default kernel size,open,handleandwheel,2023-10-29T12:23:01Z,2023-11-06T13:31:36Z,,,,0,0,0,0,0
+1572529810,11087,[Fix]Fixed the issue where tensor would cause training to exit with a…,open,LRJKD,2023-10-25T09:33:31Z,2023-11-06T09:09:40Z,,,,0,0,0,0,0
+1581087114,11109,[MMSIG#357] Add new configs for panoptic_fpn,closed,Crescent-Saturn,2023-10-31T14:28:51Z,2023-11-06T08:36:08Z,2023-11-06T08:36:08Z,2023-11-06T08:36:08Z,,0,0,0,0,0
+1578813400,11105,Support ODinW and evaluate,closed,hhaAndroid,2023-10-30T11:00:08Z,2023-11-06T08:29:19Z,2023-11-06T08:29:19Z,2023-11-06T08:29:19Z,,0,0,0,0,0
+1572485315,11085,[Fix]Fixed the issue where type and by_epoch in loop_cfg exist simult…,closed,LRJKD,2023-10-25T09:06:40Z,2023-10-26T11:36:26Z,2023-10-26T11:36:25Z,2023-10-26T11:36:25Z,,0,0,0,0,0
+1572497155,11086,[Fix]Fixed the issue where the directory level of the youtubevis2coco…,closed,LRJKD,2023-10-25T09:13:47Z,2023-10-26T11:34:22Z,2023-10-26T11:34:22Z,2023-10-26T11:34:22Z,,0,0,0,0,0
+1572440962,11084,[Fix]Fixed the issue where type and by_epoch in loop_cfg exist simult…,closed,LRJKD,2023-10-25T08:39:49Z,2023-10-25T09:35:57Z,2023-10-25T08:56:49Z,,,0,0,0,0,0
+785370218,6557,Fix dist runs,closed,vakker,2021-11-21T11:06:30Z,2023-10-23T15:47:59Z,2023-10-23T15:47:59Z,,,0,0,0,0,0
+1562213277,11056,Update bytetrack_yolox_x_8xb4-80e_crowdhuman-mot17halftrain_test-mot1…,open,DeXNaoh,2023-10-18T09:11:56Z,2023-10-23T01:59:37Z,,,,0,0,0,0,0
+1562617423,11060,Fix broken links in README.md,closed,aaronzs,2023-10-18T13:03:36Z,2023-10-20T02:43:56Z,2023-10-20T02:18:44Z,2023-10-20T02:18:44Z,,0,0,0,0,0
+1565049696,11066,Fix Grounding DINO nan when class tokens exceeds 256,closed,Divadi,2023-10-19T14:42:47Z,2023-10-20T02:18:16Z,2023-10-20T02:18:16Z,2023-10-20T02:18:16Z,,0,0,0,0,0
+1562245750,11058,fix docstring for dimension of targets argument,closed,AwePhD,2023-10-18T09:30:50Z,2023-10-18T10:47:27Z,2023-10-18T10:09:22Z,2023-10-18T10:09:22Z,,0,0,0,0,0
+1307136460,10120,[MMSIG-21] Migrate Eqlv2 loss to MMDet 3.x,closed,xin-li-67,2023-04-10T07:02:33Z,2023-10-14T11:33:36Z,2023-05-08T03:05:49Z,2023-05-08T03:05:49Z,,0,0,0,0,0
+1519344948,10944,[CodeCamp2023-685] DINOv2 (self-supervised algorithm) backbone + DINO (detection algorithm),open,zhangyiyuan1112,2023-09-18T11:46:54Z,2023-10-12T14:03:53Z,,,,0,0,0,0,0
+1553563720,11030,Bump version to v3.2.0,closed,hhaAndroid,2023-10-12T07:07:25Z,2023-10-12T07:43:04Z,2023-10-12T07:43:04Z,2023-10-12T07:43:04Z,,0,0,0,0,0
+1553376996,11029,Bump version to v3.2.0,closed,hhaAndroid,2023-10-12T04:04:16Z,2023-10-12T07:06:33Z,2023-10-12T07:06:32Z,2023-10-12T07:06:32Z,,0,0,0,0,0
+1451191352,10711,Update Instance segmentation Tutorial,closed,ytzfhqs,2023-07-27T01:38:11Z,2023-10-12T07:04:09Z,2023-08-16T11:40:25Z,2023-08-16T11:40:25Z,,0,0,0,0,0
+1549047513,11017,Update configs of Detic,closed,ryylcc,2023-10-10T05:03:17Z,2023-10-12T07:04:03Z,2023-10-12T07:04:02Z,2023-10-12T07:04:02Z,,0,0,0,0,0
+1551637948,11025,Update train.py to compat with new config,closed,hhaAndroid,2023-10-11T08:47:51Z,2023-10-12T02:19:13Z,2023-10-12T02:19:12Z,2023-10-12T02:19:12Z,,0,0,0,0,0
+1531742313,10981,Add FSDP and DeepSpeed training example,closed,hhaAndroid,2023-09-27T06:20:21Z,2023-10-11T02:15:25Z,2023-10-11T02:15:25Z,2023-10-11T02:15:25Z,,0,0,0,0,0
+1537518718,10993,[Feature] RTMDet-X p6,closed,okotaku,2023-10-02T06:54:21Z,2023-10-11T01:57:59Z,2023-10-11T01:57:59Z,2023-10-11T01:57:59Z,,0,0,0,0,0
+1548981807,11016,Update configs of Detic_new,closed,ryylcc,2023-10-10T04:14:00Z,2023-10-10T04:20:41Z,2023-10-10T04:20:41Z,,,0,0,0,0,0
+1547204552,11012,Add custom dataset of grounding dino,closed,hhaAndroid,2023-10-09T05:31:21Z,2023-10-09T05:37:05Z,2023-10-09T05:37:05Z,2023-10-09T05:37:05Z,,0,0,0,0,0
+1525870250,10960,[CodeCamp2023-603]Add new configuration files for MaskFormer algorithm in mmdetection,closed,SimonGuoNjust,2023-09-22T02:58:28Z,2023-10-09T02:36:21Z,2023-10-09T02:36:21Z,2023-10-09T02:36:21Z,,0,0,0,0,0
+1540508900,10997,Fix Pad Shape,closed,agpeshal,2023-10-03T18:40:37Z,2023-10-09T02:34:57Z,2023-10-09T02:34:57Z,2023-10-09T02:34:57Z,,0,0,0,0,0
+1511379996,10915,Support Roboflow 100 Benchmark,closed,hhaAndroid,2023-09-12T05:11:33Z,2023-10-08T05:57:53Z,2023-10-08T05:57:53Z,2023-10-08T05:57:53Z,,0,0,0,0,0
+1546277505,11004,[Fix] Fix incorrect behavior to access train pipeline from `ConcatDataset` in analyze_results.py,closed,guyleaf,2023-10-07T07:33:57Z,2023-10-08T01:29:51Z,2023-10-08T01:29:51Z,2023-10-08T01:29:51Z,,0,0,0,0,0
+1465427685,10755,[CodeCamp2023-475] Add new configuration files for Mask2Former algorithm in mmdetection.,closed,ChengAoShen,2023-08-07T15:01:40Z,2023-10-07T06:12:04Z,2023-10-07T06:12:04Z,,,0,0,0,0,0
+1515687017,10926,Support Detic and Multi-Datasets training,closed,ryylcc,2023-09-14T13:09:36Z,2023-09-27T12:04:06Z,2023-09-27T12:04:06Z,2023-09-27T12:04:06Z,,0,0,0,0,0
+1532252395,10984,test new model,closed,hhaAndroid,2023-09-27T11:44:30Z,2023-09-27T11:59:56Z,2023-09-27T11:59:56Z,2023-09-27T11:59:56Z,,0,0,0,0,0
+1529803608,10976,Fix typo,closed,hhaAndroid,2023-09-26T03:29:43Z,2023-09-26T03:40:19Z,2023-09-26T03:40:19Z,2023-09-26T03:40:19Z,,0,0,0,0,0
+1528208667,10970,Fix some errors of grounding dino,closed,YanxingLiu,2023-09-25T07:08:58Z,2023-09-26T03:30:21Z,2023-09-26T03:30:20Z,,,0,0,0,0,0
+1523119684,10954,Support GroundingDINO finetune,closed,Johnson-Wang,2023-09-20T13:28:13Z,2023-09-26T03:25:39Z,2023-09-26T03:25:38Z,2023-09-26T03:25:38Z,,0,0,0,0,0
+1527695428,10967,[CodeCamp2023-684] Provide training configuration and code support for eva02+dino based on the DINO algorithm in mmdet.,open,xiangyw99,2023-09-24T12:49:51Z,2023-09-26T03:08:04Z,,,,0,0,0,0,0
+1528212065,10971,[MMSIG]ECMLoss 算法支持 #173,open,zhangyiyuan1112,2023-09-25T07:11:30Z,2023-09-25T07:11:35Z,,,,0,0,0,0,0
+1328978579,10228,[Feature] Support plot PR Curve,open,BIGWangYuDong,2023-04-26T15:35:31Z,2023-09-24T05:00:42Z,,,,0,0,0,0,0
+1283692352,10000,[Feature] Support Bytetrack,closed,zwhus,2023-03-21T06:34:40Z,2023-09-22T11:36:12Z,2023-03-24T12:16:31Z,2023-03-24T12:16:30Z,,0,0,0,0,0
+1490897411,10843,Support AlignDETR ,closed,jiongjiongli,2023-08-27T08:33:33Z,2023-09-21T02:10:54Z,2023-09-21T02:10:54Z,2023-09-21T02:10:54Z,,0,0,0,0,0
+1255430693,9843,[Refactor] Refactor LVIS metric with MMEval.,open,RangiLyu,2023-02-27T12:58:43Z,2023-09-20T02:21:29Z,,,,0,0,0,0,0
+1520598054,10946,Fix import error in downstream repo,closed,hhaAndroid,2023-09-19T03:49:58Z,2023-09-19T04:44:54Z,2023-09-19T04:44:54Z,2023-09-19T04:44:54Z,,0,0,0,0,0
+1518557518,10938,Support V3Det: Vast Vocabulary Visual Detection Dataset (ICCV 2023 Oral),closed,V3Det,2023-09-17T18:08:28Z,2023-09-19T01:33:48Z,2023-09-19T01:33:48Z,2023-09-19T01:33:48Z,,0,0,0,0,0
+1505892748,10893,Support H-DINO,closed,PhoenixZ810,2023-09-07T09:02:59Z,2023-09-19T01:30:56Z,2023-09-19T01:30:56Z,2023-09-19T01:30:56Z,,0,0,0,0,0
+1517756542,10934,[fix]fix torch version comparison,closed,Kuro96,2023-09-15T18:18:30Z,2023-09-18T10:39:01Z,2023-09-18T09:26:48Z,2023-09-18T09:26:48Z,,0,0,0,0,0
+1519146459,10943,Support checkpoint_wrapper,closed,hhaAndroid,2023-09-18T09:35:16Z,2023-09-18T09:41:48Z,2023-09-18T09:41:47Z,2023-09-18T09:41:47Z,,0,0,0,0,0
+1518091786,10936,[CodeCamp2023-605] Add new configs of deformable_detr,closed,RangeKing,2023-09-16T03:04:43Z,2023-09-18T09:41:02Z,2023-09-18T09:41:01Z,2023-09-18T09:41:01Z,,0,0,0,0,0
+1519108844,10942,Add OpenXLab Badge ,closed,ZhaoQiiii,2023-09-18T09:10:12Z,2023-09-18T09:17:54Z,2023-09-18T09:17:53Z,2023-09-18T09:17:53Z,,0,0,0,0,0
+1515349042,10925,Fix GLIP eval in training,closed,hhaAndroid,2023-09-14T09:39:53Z,2023-09-18T05:07:31Z,2023-09-18T05:07:31Z,2023-09-18T05:07:31Z,,0,0,0,0,0
+1030681714,8594,[Fix] replace mmcv's function and modules imported with mmengine's,closed,chhluo,2022-08-19T03:29:05Z,2023-09-15T11:55:36Z,2022-08-23T06:34:19Z,2022-08-23T06:34:19Z,,0,0,0,0,0
+1487377646,10835,erase wrong code in tools/coco_error_analysis.py,closed,ImJaewooChoi,2023-08-24T04:58:42Z,2023-09-13T03:05:26Z,2023-09-13T03:05:13Z,,,0,0,0,0,0
+1510594740,10914,Rf100-faster-RCNN,closed,PhoenixZ810,2023-09-11T15:46:14Z,2023-09-12T05:10:54Z,2023-09-12T05:10:45Z,,,0,0,0,0,0
+1451264833,10713,Update multi_source_sampler.py,open,wanghao9610,2023-07-27T03:20:33Z,2023-09-12T01:33:47Z,,,,0,0,0,0,0
+1454656321,10721,[CodeCamp2023-489]Add new configuration files for htc in mmdetection ,open,Eiviento,2023-07-29T07:08:24Z,2023-09-12T01:30:45Z,,,,0,0,0,0,0
+1480158223,10808,[CodeCamp2023-504]Add a new script to support the WBF (Weighted Box Fusion) function in mmdetection.,closed,Morty-Xu,2023-08-18T07:57:14Z,2023-09-12T01:28:08Z,2023-09-12T01:28:08Z,2023-09-12T01:28:08Z,,0,0,0,0,0
+1508984795,10905,[CodeCamp2023-491]Add new configuration files for MaskRCNN algorithm in mmdetection.,closed,ZhaoCake,2023-09-10T02:40:20Z,2023-09-12T01:25:05Z,2023-09-12T01:25:05Z,2023-09-12T01:25:05Z,,0,0,0,0,0
+1509467299,10910,Update to support torch2onnx for DETR series models,closed,RunningLeon,2023-09-11T02:33:11Z,2023-09-12T01:24:16Z,2023-09-12T01:24:16Z,2023-09-12T01:24:16Z,,0,0,0,0,0
+1496652678,10866,Support GLIP Funtune,closed,hhaAndroid,2023-08-31T07:26:43Z,2023-09-11T05:54:09Z,2023-09-11T05:54:09Z,2023-09-11T05:54:09Z,,0,0,0,0,0
+1299712654,10076,update img_shape after Expand,open,Mactarvish,2023-04-03T09:14:47Z,2023-09-09T01:21:11Z,,,,0,0,0,0,0
+1502000195,10878,[CodeCamp2023-474] Add new configuration files for DINO algorithm in mmdetection. ,closed,Markson-Young,2023-09-05T02:05:57Z,2023-09-08T11:36:00Z,2023-09-08T11:35:59Z,,,0,0,0,0,0
+944505679,8032,Rename panoptic seg related and Realse instance seg related for Mask2Former,closed,chhluo,2022-05-23T14:17:04Z,2023-09-07T09:42:19Z,2022-05-27T08:55:11Z,2022-05-27T08:55:11Z,,0,0,0,0,0
+1494944782,10857,H-dino,closed,PhoenixZ810,2023-08-30T06:43:11Z,2023-09-07T08:16:58Z,2023-09-07T08:16:58Z,,,0,0,0,0,0
+1498534836,10869,Create SECURITY.md,open,KOSASIH,2023-09-01T09:12:39Z,2023-09-06T07:30:35Z,,,,0,0,0,0,0
+1499964138,10871,[CodeCamp2023-474] Add new configuration files for DINO algorithm in mmdetection. ,closed,Markson-Young,2023-09-02T13:44:21Z,2023-09-06T07:30:27Z,2023-09-05T01:58:05Z,,,0,0,0,0,0
+1497647064,10868,Setting scope for image reader in video_demo,closed,apatsekin,2023-08-31T18:15:54Z,2023-09-04T09:24:32Z,2023-09-04T09:24:32Z,2023-09-04T09:24:32Z,,0,0,0,0,0
+1500913934,10876,[Bugfix] analyze_results,closed,okotaku,2023-09-04T09:09:40Z,2023-09-04T09:20:12Z,2023-09-04T09:20:12Z,2023-09-04T09:20:12Z,,0,0,0,0,0
+1462957857,10746,[Fix] misspelling of 'flip',closed,RangeKing,2023-08-04T13:46:09Z,2023-09-03T12:04:23Z,2023-08-07T01:28:40Z,2023-08-07T01:28:40Z,,0,0,0,0,0
+1471700273,10784,[CodeCamp2023-602] Add docs of `Inferencer`,closed,RangeKing,2023-08-11T12:02:04Z,2023-09-03T12:04:13Z,2023-08-15T03:07:06Z,2023-08-15T03:07:06Z,,0,0,0,0,0
+1497255585,10867,[CodeCamp2023-499] Refine the docstring and typehint of `vlfuse_helper.py`,closed,RangeKing,2023-08-31T14:09:46Z,2023-09-01T04:14:45Z,2023-09-01T03:18:55Z,2023-09-01T03:18:55Z,,0,0,0,0,0
+1482330893,10815,support H-DETR,closed,PhoenixZ810,2023-08-21T07:19:25Z,2023-08-30T06:47:00Z,2023-08-30T06:47:00Z,,,0,0,0,0,0
+1492168940,10848,[CodeCamp2023-497] Translation into Chinese of an English document.,closed,timerring,2023-08-28T14:16:34Z,2023-08-30T06:08:02Z,2023-08-29T05:58:45Z,2023-08-29T05:58:45Z,,0,0,0,0,0
+1494697878,10855,[CodeCamp2023-488] Add new configuration files for SoftTeacher algorithm in mmdetection.,closed,Shengshenlan,2023-08-30T01:44:44Z,2023-08-30T06:07:59Z,2023-08-30T05:32:22Z,,,0,0,0,0,0
+1313024777,10152,Seems to correct #8208,closed,austinmw,2023-04-13T19:18:02Z,2023-08-28T21:30:27Z,2023-08-28T21:30:27Z,,,0,0,0,0,0
+1491720715,10846,Support AMP of DDQ and CO-DETR,open,hhaAndroid,2023-08-28T09:19:17Z,2023-08-28T09:19:27Z,,,,0,0,0,0,0
+1491524690,10845,Add FrozenBN,closed,hhaAndroid,2023-08-28T07:16:54Z,2023-08-28T07:24:09Z,2023-08-28T07:24:08Z,2023-08-28T07:24:08Z,,0,0,0,0,0
+846938158,7141,[WIP] Support FrozenBN,closed,hhaAndroid,2022-02-11T06:21:06Z,2023-08-28T07:16:24Z,2023-08-28T07:16:24Z,,,0,0,0,0,0
+1489783679,10840,[CodeCamp2023-493] Add new configs of RTMDet,closed,RangeKing,2023-08-25T13:53:24Z,2023-08-28T02:44:36Z,2023-08-28T02:38:22Z,2023-08-28T02:38:22Z,,0,0,0,0,0
+1489344073,10839,[WIP] Support bf16 of DINO,open,hhaAndroid,2023-08-25T08:36:41Z,2023-08-28T02:32:33Z,,,,0,0,0,0,0
+1248213683,9808,[WIP] [Feature] Support Mask DINO for panoptic segmentation in Projects,closed,Li-Qingyun,2023-02-21T06:35:37Z,2023-08-25T14:56:03Z,2023-08-25T14:56:02Z,,,0,0,0,0,0
+1486111282,10827,Support AMP of DINO ,closed,hhaAndroid,2023-08-23T09:50:35Z,2023-08-24T01:53:17Z,2023-08-24T01:53:17Z,2023-08-24T01:53:17Z,,0,0,0,0,0
+1351951949,10335,[Fix] Support AMP with DETR-detectors,closed,nijkah,2023-05-16T07:13:42Z,2023-08-24T01:40:37Z,2023-08-24T01:40:37Z,,,0,0,0,0,0
+1485722824,10826,The QR code for the QQ group has been updated to 'Miao Miao',closed,crazysteeaam,2023-08-23T04:17:58Z,2023-08-23T06:26:23Z,2023-08-23T06:26:23Z,2023-08-23T06:26:23Z,,0,0,0,0,0
+1462407160,10743,Update formatting.py,closed,captainIT,2023-08-04T06:31:39Z,2023-08-23T05:21:15Z,2023-08-08T01:48:15Z,2023-08-08T01:48:15Z,,0,0,0,0,0
+1466146554,10757,[Fix] Fix typo in mask-rcnn_r50_fpn_1x-wandb_coco,closed,aaronzs,2023-08-08T02:44:38Z,2023-08-23T05:20:58Z,2023-08-08T05:08:45Z,2023-08-08T05:08:45Z,,0,0,0,0,0
+1466115917,10756,[CodeCamp2023-498] Translation into Chinese of `tracking_train_test_zh_cn.md`,closed,zhangzhidaSunny,2023-08-08T01:54:09Z,2023-08-23T05:20:54Z,2023-08-17T09:53:54Z,2023-08-17T09:53:54Z,,0,0,0,0,0
+1468038178,10769,[Fix] fix the input variables of eval_recalls in voc_metric,closed,gotjd709,2023-08-09T06:39:09Z,2023-08-23T05:20:46Z,2023-08-09T06:55:56Z,,,0,0,0,0,0
+1468107301,10772,[CodeCamp2023-503] Add the DDQ algorithm to mmdetection,closed,jiongjiongli,2023-08-09T07:37:07Z,2023-08-23T05:20:44Z,2023-08-14T07:38:14Z,2023-08-14T07:38:14Z,,0,0,0,0,0
+1481412844,10811,test,closed,TensorNull,2023-08-19T10:05:27Z,2023-08-23T05:20:16Z,2023-08-21T06:35:25Z,,,0,0,0,0,0
+1485703719,10824,Add more feature of DINO,open,hhaAndroid,2023-08-23T03:46:58Z,2023-08-23T05:02:36Z,,,,0,0,0,0,0
+1468077538,10770,[Fix] fix the input variables of eval_recalls in voc_metric,closed,gotjd709,2023-08-09T07:12:51Z,2023-08-22T04:29:25Z,2023-08-14T05:54:53Z,2023-08-14T05:54:53Z,,0,0,0,0,0
+1461382886,10740,Support CO-DETR,closed,hhaAndroid,2023-08-03T12:28:09Z,2023-08-22T03:45:51Z,2023-08-22T03:45:51Z,2023-08-22T03:45:51Z,,0,0,0,0,0
+1479005615,10805,[CodeCamp2023-495]Translation into Chinese of an English document.,closed,yeungkong,2023-08-17T12:59:29Z,2023-08-18T08:34:29Z,2023-08-18T08:33:49Z,2023-08-18T08:33:49Z,,0,0,0,0,0
+1478439238,10803,Cuda version fix,closed,hadiyouness10,2023-08-17T06:20:31Z,2023-08-17T06:26:07Z,2023-08-17T06:21:10Z,,,0,0,0,0,0
+1447963080,10697,[CodeCamp2023-495]Translation into Chinese of an English document.(1),closed,yeungkong,2023-07-25T08:24:07Z,2023-08-17T05:48:54Z,2023-08-17T05:48:53Z,,,0,0,0,0,0
+1391973095,10509,[Feature] Support CopyPaste when mask is not available,closed,nijkah,2023-06-14T09:00:21Z,2023-08-17T02:38:30Z,2023-06-19T02:36:18Z,2023-06-19T02:36:17Z,,0,0,0,0,0
+1477023267,10797,voc2coco and divide dataset,closed,ytzfhqs,2023-08-16T08:06:26Z,2023-08-16T11:41:39Z,2023-08-16T11:41:39Z,,,0,0,0,0,0
+1477300461,10799,Support download dataset from OpenXLab,closed,hhaAndroid,2023-08-16T11:24:57Z,2023-08-16T11:36:34Z,2023-08-16T11:36:34Z,2023-08-16T11:36:34Z,,0,0,0,0,0
+1459476763,10733,Update documentation about the overlaps shape,closed,ShaneXiangH,2023-08-02T09:47:18Z,2023-08-15T03:12:55Z,2023-08-15T03:12:55Z,,,0,0,0,0,0
+1471198810,10782,Support torch2onnx for maskformer series,closed,RunningLeon,2023-08-11T03:27:00Z,2023-08-15T03:07:48Z,2023-08-15T03:07:48Z,2023-08-15T03:07:48Z,,0,0,0,0,0
+1462554071,10744,[CodeCamp2023-496] Translation into Chinese of an English document.,closed,Musiyuan,2023-08-04T08:36:19Z,2023-08-14T06:01:08Z,2023-08-14T06:01:07Z,2023-08-14T06:01:07Z,,0,0,0,0,0
+1472182771,10785,[CodeCamp2023-604] Add new configuration files for DETR algorithm in mmdetection,closed,zeyuanyin,2023-08-11T18:19:08Z,2023-08-14T05:42:09Z,2023-08-14T05:42:08Z,2023-08-14T05:42:08Z,,0,0,0,0,0
+1447817074,10694,fixed export to torcheserve,closed,ODAncona,2023-07-25T06:29:58Z,2023-08-08T01:54:27Z,2023-08-08T01:54:27Z,2023-08-08T01:54:27Z,,0,0,0,0,0
+1081445935,8982,add assert,closed,MambaWong,2022-10-10T01:52:06Z,2023-08-05T17:18:40Z,2022-10-12T07:32:30Z,2022-10-12T07:32:30Z,,0,0,0,0,0
+1301512735,10081,[Docs] Update MMDet_Tutorial.ipynb of 3.x,closed,RangeKing,2023-04-04T11:30:19Z,2023-08-04T13:23:30Z,2023-05-08T10:24:56Z,2023-05-08T10:24:56Z,,0,0,0,0,0
+1295634640,10048,[Docs] Replace relative links in `how_to.md`,closed,RangeKing,2023-03-30T05:21:19Z,2023-08-04T13:23:26Z,2023-03-31T03:05:43Z,,,0,0,0,0,0
+1451990023,10717,[CodeCamp2023-476]Add new configuration files for QDTrack algorithm in mmdetection,closed,ZhaoCake,2023-07-27T13:19:26Z,2023-08-04T02:42:06Z,2023-08-04T02:42:06Z,2023-08-04T02:42:06Z,,0,0,0,0,0
+1448651165,10700,Features/foggy cityscapes converter,open,BloomBerry,2023-07-25T15:16:32Z,2023-08-03T06:49:50Z,,,,0,0,0,0,0
+1457632771,10727,[Fix] Fix download dataset with `mim` script.,closed,Xiangxu-0103,2023-08-01T08:31:10Z,2023-08-03T01:41:29Z,2023-08-03T01:41:29Z,2023-08-03T01:41:29Z,,0,0,0,0,0
+1450448770,10709,Features/foggy cityscapes oracle,open,BloomBerry,2023-07-26T15:04:31Z,2023-07-27T06:06:55Z,,,,0,0,0,0,0
+1434116902,10639,Provide inference of Detic,closed,ryylcc,2023-07-14T04:12:00Z,2023-07-26T02:56:46Z,2023-07-19T06:56:27Z,2023-07-19T06:56:27Z,,0,0,0,0,0
+1438602191,10661,[WIP] Support OneFormer  ,closed,HuYanchen-hub,2023-07-18T06:20:39Z,2023-07-26T02:56:41Z,2023-07-21T21:15:40Z,,,0,0,0,0,0
+1441153276,10667,Fix grammar/typo,closed,taki1984,2023-07-19T14:26:52Z,2023-07-26T02:56:30Z,2023-07-21T01:51:25Z,2023-07-21T01:51:25Z,,0,0,0,0,0
+1340666766,10278,[Feature] add featuremap_vis from mmyolo,open,batman47steam,2023-05-06T06:41:44Z,2023-07-25T05:35:40Z,,,,0,0,0,0,0
+1436067896,10648,Fix: remove some unicode chars from `en/` docs,closed,evdcush,2023-07-15T20:49:43Z,2023-07-24T01:58:08Z,2023-07-24T01:58:07Z,2023-07-24T01:58:07Z,,0,0,0,0,0
+1232992286,9739,"[Docs] modify the img in inference_detector(model, img)",open,chg0901,2023-02-08T05:05:47Z,2023-07-20T12:19:23Z,,,,0,0,0,0,0
+969391335,8205,update parrots image,closed,RangiLyu,2022-06-16T14:22:40Z,2023-07-19T06:55:56Z,2023-01-29T10:50:41Z,,,0,0,0,0,0
+1411136310,10564,Support new config,closed,hhaAndroid,2023-06-28T07:14:57Z,2023-07-19T06:55:50Z,2023-06-28T08:24:34Z,,,0,0,0,0,0
+1412500293,10568,Fix  `demo/video_gpuaccel_demo.py` scripts,closed,jjjkkkjjj,2023-06-28T22:44:41Z,2023-07-18T11:06:55Z,2023-06-30T07:00:55Z,2023-06-30T07:00:55Z,,0,0,0,0,0
+1420357189,10595,Fix name error in detr metafile.yml,closed,hhaAndroid,2023-07-05T03:58:50Z,2023-07-05T09:50:31Z,2023-07-05T09:50:30Z,2023-07-05T09:50:30Z,,0,0,0,0,0
+1419131889,10587,Update useful_tools.md,closed,YQisme,2023-07-04T07:33:29Z,2023-07-05T02:01:41Z,2023-07-05T01:56:27Z,2023-07-05T01:56:27Z,,0,0,0,0,0
+1419845733,10591,fix typo,closed,YQisme,2023-07-04T15:30:22Z,2023-07-05T02:01:13Z,2023-07-05T01:55:54Z,2023-07-05T01:55:54Z,,0,0,0,0,0
+1412940762,10572,Release v3.1.0 ,closed,hhaAndroid,2023-06-29T08:31:43Z,2023-06-30T07:37:45Z,2023-06-30T07:37:44Z,2023-06-30T07:37:44Z,,0,0,0,0,0
+1412973900,10573,Add more new configs,closed,hhaAndroid,2023-06-29T08:56:52Z,2023-06-30T06:59:21Z,2023-06-30T06:59:20Z,2023-06-30T06:59:20Z,,0,0,0,0,0
+1412920646,10571,Bump version to 3.1.0,closed,hhaAndroid,2023-06-29T08:17:08Z,2023-06-29T08:30:52Z,2023-06-29T08:30:51Z,2023-06-29T08:30:51Z,,0,0,0,0,0
+1411223933,10566,Support new config,closed,hhaAndroid,2023-06-28T08:25:37Z,2023-06-29T07:32:32Z,2023-06-29T07:32:31Z,2023-06-29T07:32:31Z,,0,0,0,0,0
+1391787420,10508,Inference fix,closed,hadiyouness10,2023-06-14T06:58:28Z,2023-06-28T15:23:28Z,2023-06-14T06:58:49Z,,,0,0,0,0,0
+1394527008,10519,[Fix] hide progress if requested w/ show_progress = False,closed,amaizr,2023-06-15T17:37:58Z,2023-06-28T15:23:18Z,2023-06-19T03:05:31Z,2023-06-19T03:05:31Z,,0,0,0,0,0
+1384113853,10472,[MMSIG-176] Add GLIP demo to Inference.md,closed,xin-li-67,2023-06-08T09:48:58Z,2023-06-28T10:19:04Z,2023-06-28T09:33:54Z,2023-06-28T09:33:54Z,,0,0,0,0,0
+1411166209,10565,Fix some metafile.yml files,closed,hhaAndroid,2023-06-28T07:40:54Z,2023-06-28T08:18:30Z,2023-06-28T08:18:29Z,2023-06-28T08:18:29Z,,0,0,0,0,0
+1382106836,10460,Add mim download odl dataset,closed,hhaAndroid,2023-06-07T07:37:58Z,2023-06-28T07:13:06Z,2023-06-28T07:13:06Z,2023-06-28T07:13:06Z,,0,0,0,0,0
+1406517581,10545,replace mmcls with mmpretrain,closed,hhaAndroid,2023-06-25T07:09:27Z,2023-06-28T05:53:55Z,2023-06-28T05:53:54Z,2023-06-28T05:53:54Z,,0,0,0,0,0
+1409626474,10558,[Enhance] Accelerate training through cpu affinity on arm.,open,Ginray,2023-06-27T11:10:02Z,2023-06-27T11:10:10Z,,,,0,0,0,0,0
+1403372749,10539,[Feature] Add support for the Lamb optimizer.,closed,syo093c,2023-06-22T11:45:35Z,2023-06-25T06:27:16Z,2023-06-25T06:27:16Z,,,0,0,0,0,0
+1373160485,10423,[fix] fix `pred` and `weight` dims unmatch in [Smooth]L1Loss,closed,MambaWong,2023-06-01T01:41:18Z,2023-06-25T02:37:48Z,2023-06-19T03:21:46Z,2023-06-19T03:21:46Z,,0,0,0,0,0
+1397897358,10531,remove some model,closed,hhaAndroid,2023-06-19T09:48:14Z,2023-06-19T09:48:27Z,2023-06-19T09:48:26Z,2023-06-19T09:48:26Z,,0,0,0,0,0
+1395574235,10526,Update Benchmark list,closed,hhaAndroid,2023-06-16T11:52:03Z,2023-06-19T09:39:37Z,2023-06-19T09:39:37Z,2023-06-19T09:39:36Z,,0,0,0,0,0
+1397579270,10530,Add VISION dataset,closed,hhaAndroid,2023-06-19T06:01:28Z,2023-06-19T06:25:41Z,2023-06-19T06:25:41Z,2023-06-19T06:25:41Z,,0,0,0,0,0
+1394465148,10518,[Fix][New Config] Fix None scope error in inference,closed,HAOCHENYE,2023-06-15T16:45:07Z,2023-06-19T03:24:29Z,2023-06-19T03:24:28Z,2023-06-19T03:24:28Z,,0,0,0,0,0
+1383723303,10469,[Docs] Add docstring.,closed,Lum1104,2023-06-08T04:41:55Z,2023-06-19T03:07:18Z,2023-06-19T03:07:18Z,2023-06-19T03:07:18Z,,0,0,0,0,0
+1289962689,10028,[Feature] Support iSAID dataset,closed,Renzhihan,2023-03-25T08:13:55Z,2023-06-19T02:26:43Z,2023-06-19T02:26:42Z,2023-06-19T02:26:42Z,,0,0,0,0,0
+1345100447,10308,[Feature] Support tracking algorithms,closed,zwhus,2023-05-10T10:06:07Z,2023-06-18T00:27:27Z,2023-05-11T02:43:04Z,2023-05-11T02:43:04Z,,0,0,0,0,0
+1344681585,10304,[Feature] Support tracking algorithm,closed,zwhus,2023-05-10T04:09:48Z,2023-06-18T00:27:24Z,2023-05-10T06:47:30Z,2023-05-10T06:47:30Z,,0,0,0,0,0
+1344854081,10307,[Feature] Support tracking algorithm,closed,zwhus,2023-05-10T07:23:32Z,2023-06-18T00:27:22Z,2023-05-10T09:14:39Z,2023-05-10T09:14:39Z,,0,0,0,0,0
+1320966723,10191,Fixed typo and missing link,closed,yalibian,2023-04-20T06:54:09Z,2023-06-18T00:27:15Z,2023-04-27T03:44:08Z,2023-04-27T03:44:08Z,,0,0,0,0,0
+1391661850,10505,Support XDecoder inference and eval,closed,hhaAndroid,2023-06-14T04:55:36Z,2023-06-16T10:17:43Z,2023-06-16T09:53:02Z,2023-06-16T09:53:02Z,,0,0,0,0,0
+1381717887,10457,Correct the typo in config_migration.md,closed,harimkang,2023-06-07T00:32:44Z,2023-06-16T10:09:37Z,2023-06-16T10:09:37Z,,,0,0,0,0,0
+1392867886,10510,Update focal_loss.py to consist with the original formula.,closed,yarkable,2023-06-14T18:09:47Z,2023-06-16T10:05:59Z,2023-06-16T10:05:58Z,2023-06-16T10:05:58Z,,0,0,0,0,0
+1393932191,10517,[Docs] Fix wrong doc in Mosaic and CachedMosaic,closed,jamiechoi1995,2023-06-15T11:17:39Z,2023-06-16T10:04:20Z,2023-06-16T10:04:19Z,2023-06-16T10:04:19Z,,0,0,0,0,0
+1395286768,10524,Add refcoco results,closed,xiexinch,2023-06-16T08:13:09Z,2023-06-16T09:19:25Z,2023-06-16T09:19:24Z,2023-06-16T09:19:24Z,,0,0,0,0,0
+1395021238,10523,update doc,closed,hhaAndroid,2023-06-16T03:14:26Z,2023-06-16T08:53:44Z,2023-06-16T08:53:43Z,2023-06-16T08:53:43Z,,0,0,0,0,0
+1393888893,10516,Refcoco results,closed,xiexinch,2023-06-15T10:50:35Z,2023-06-16T02:33:12Z,2023-06-16T02:33:11Z,2023-06-16T02:33:11Z,,0,0,0,0,0
+1393652393,10514,Add unittest,closed,hhaAndroid,2023-06-15T08:15:51Z,2023-06-15T09:11:44Z,2023-06-15T09:11:44Z,2023-06-15T09:11:44Z,,0,0,0,0,0
+1393596172,10512,Format code,closed,hhaAndroid,2023-06-15T07:38:45Z,2023-06-15T07:40:12Z,2023-06-15T07:40:12Z,2023-06-15T07:40:12Z,,0,0,0,0,0
+1393374386,10511,fix ade panoptic,closed,hhaAndroid,2023-06-15T03:41:47Z,2023-06-15T06:41:02Z,2023-06-15T06:41:02Z,2023-06-15T06:41:02Z,,0,0,0,0,0
+1391749116,10506,Add some docstring,closed,hhaAndroid,2023-06-14T06:25:16Z,2023-06-14T12:40:52Z,2023-06-14T12:40:52Z,2023-06-14T12:40:52Z,,0,0,0,0,0
+1391608458,10504,Add ade doc,closed,xiexinch,2023-06-14T03:37:55Z,2023-06-14T12:39:53Z,2023-06-14T12:39:53Z,2023-06-14T12:39:53Z,,0,0,0,0,0
+1355350514,10353,[WIP] MMSIG-114 Migrate Consistent Teacher to v3.x,closed,xin-li-67,2023-05-18T08:25:45Z,2023-06-14T06:00:02Z,2023-06-14T06:00:01Z,,,0,0,0,0,0
+1391548323,10503,Fix cfg,closed,hhaAndroid,2023-06-14T02:27:32Z,2023-06-14T04:03:54Z,2023-06-14T04:03:54Z,2023-06-14T04:03:54Z,,0,0,0,0,0
+1384143559,10473,[Fix] Fixed the issue of mismatched index between out_indices and layers.,closed,tyl0622,2023-06-08T10:05:41Z,2023-06-13T23:12:21Z,2023-06-08T10:54:33Z,,,0,0,0,0,0
+1390016838,10495,Fix Panoptic config,closed,hhaAndroid,2023-06-13T07:26:48Z,2023-06-13T09:16:51Z,2023-06-13T09:16:51Z,2023-06-13T09:16:51Z,,0,0,0,0,0
+1388246203,10490,[Fix] sync_random_seed func adapts to different devices,closed,Ginray,2023-06-12T08:51:15Z,2023-06-13T07:31:14Z,2023-06-13T07:31:14Z,2023-06-13T07:31:14Z,,0,0,0,0,0
+1385375308,10477,support refcocog eval,closed,xiexinch,2023-06-09T02:19:28Z,2023-06-09T09:17:52Z,2023-06-09T09:17:52Z,2023-06-09T09:17:52Z,,0,0,0,0,0
+1385541442,10478,Fix ref seg,closed,hhaAndroid,2023-06-09T05:51:25Z,2023-06-09T05:53:08Z,2023-06-09T05:53:08Z,2023-06-09T05:53:08Z,,0,0,0,0,0
+1383875826,10471,add coco semseg dataset,closed,hhaAndroid,2023-06-08T07:17:12Z,2023-06-08T11:46:11Z,2023-06-08T11:46:11Z,2023-06-08T11:46:11Z,,0,0,0,0,0
+1383694625,10468,Update XDecoder,closed,hhaAndroid,2023-06-08T03:56:38Z,2023-06-08T03:57:45Z,2023-06-08T03:57:45Z,2023-06-08T03:57:45Z,,0,0,0,0,0
+1383640571,10466,Fix semseg eval,closed,xiexinch,2023-06-08T02:37:23Z,2023-06-08T03:21:36Z,2023-06-08T03:21:36Z,2023-06-08T03:21:36Z,,0,0,0,0,0
+1381856676,10458,refactor config,closed,hhaAndroid,2023-06-07T03:54:07Z,2023-06-07T11:58:56Z,2023-06-07T11:58:56Z,2023-06-07T11:58:56Z,,0,0,0,0,0
+1373366160,10424,One iter for mmcv 2.0,closed,wey-code,2023-06-01T05:49:34Z,2023-06-07T07:25:09Z,2023-06-01T05:50:30Z,,,0,0,0,0,0
+1380493180,10452,Add semseg eval result,closed,xiexinch,2023-06-06T09:24:41Z,2023-06-07T04:59:04Z,2023-06-07T04:59:03Z,2023-06-07T04:59:03Z,,0,0,0,0,0
+1380680491,10453,fix caption eval,closed,hhaAndroid,2023-06-06T11:26:13Z,2023-06-07T03:38:57Z,2023-06-07T03:38:56Z,2023-06-07T03:38:56Z,,0,0,0,0,0
+1380290896,10450,update xdecoder,closed,hhaAndroid,2023-06-06T07:05:19Z,2023-06-06T07:39:44Z,2023-06-06T07:39:43Z,2023-06-06T07:39:43Z,,0,0,0,0,0
+1380267220,10449,[FIx] Fix ade20k dataset wrong return typing,closed,xiexinch,2023-06-06T06:47:12Z,2023-06-06T06:52:33Z,2023-06-06T06:52:33Z,2023-06-06T06:52:33Z,,0,0,0,0,0
+1380152111,10448,refactor xdecoder,closed,hhaAndroid,2023-06-06T04:38:03Z,2023-06-06T04:40:56Z,2023-06-06T04:40:55Z,2023-06-06T04:40:55Z,,0,0,0,0,0
+1361292404,10377,Support X-Decoder,closed,hhaAndroid,2023-05-23T12:10:54Z,2023-06-05T08:16:08Z,2023-06-05T08:16:08Z,2023-06-05T08:16:08Z,,0,0,0,0,0
+1373941566,10426,[Feature] support mIoU metric,closed,xiexinch,2023-06-01T11:58:14Z,2023-06-05T08:09:01Z,2023-06-05T08:09:00Z,2023-06-05T08:09:00Z,,0,0,0,0,0
+1277802328,9957,Update yolact_head.py,closed,pangkun248,2023-03-16T02:44:15Z,2023-06-02T06:12:31Z,2023-06-02T06:12:30Z,,,0,0,0,0,0
+1301270385,10080,Create dedicated Neptune hook for metadata logging,open,AleksanderWWW,2023-04-04T08:33:08Z,2023-05-31T19:47:01Z,,,,0,0,0,0,0
+1371388333,10418,[Feature] Support refcoco datasets,closed,xiexinch,2023-05-31T02:57:24Z,2023-05-31T12:03:23Z,2023-05-31T12:03:23Z,2023-05-31T12:03:23Z,,0,0,0,0,0
+1371625713,10420,Add coco caption dataset,closed,hhaAndroid,2023-05-31T07:38:00Z,2023-05-31T11:38:15Z,2023-05-31T11:38:15Z,2023-05-31T11:38:15Z,,0,0,0,0,0
+1367059772,10403,[Docs]bjzhb666/update docs/zh_cn/user_guides/train.md,closed,bjzhb666,2023-05-27T03:22:33Z,2023-05-31T03:12:34Z,2023-05-29T05:05:14Z,2023-05-29T05:05:14Z,,0,0,0,0,0
+1367049530,10402,update docs/zh_cn/user_guides/train.md and its English version,closed,bjzhb666,2023-05-27T02:43:17Z,2023-05-31T03:12:32Z,2023-05-27T03:21:31Z,,,0,0,0,0,0
+1365682050,10397,[Feature] Support ade20k dataset,closed,xiexinch,2023-05-26T04:08:38Z,2023-05-29T11:38:50Z,2023-05-29T11:38:49Z,2023-05-29T11:38:49Z,,0,0,0,0,0
+1346570197,10315,[Feature] Support tracking algorithms,closed,zwhus,2023-05-11T07:25:11Z,2023-05-29T03:43:10Z,2023-05-12T02:16:43Z,2023-05-12T02:16:43Z,,0,0,0,0,0
+1364614415,10394,Fix NLTK download link,closed,hhaAndroid,2023-05-25T11:58:13Z,2023-05-26T04:05:08Z,2023-05-26T04:05:07Z,2023-05-26T04:05:07Z,,0,0,0,0,0
+1364455134,10392,Fix GLIP dependence,closed,hhaAndroid,2023-05-25T09:59:43Z,2023-05-25T10:43:00Z,2023-05-25T10:42:59Z,2023-05-25T10:42:59Z,,0,0,0,0,0
+1358677354,10365,[Fix] Fix typos in dense_heads,closed,MambaWong,2023-05-22T07:11:30Z,2023-05-25T05:39:51Z,2023-05-25T02:10:38Z,2023-05-25T02:10:38Z,,0,0,0,0,0
+1328523515,10227,[Feature] Support GLIP Inference ,closed,hhaAndroid,2023-04-26T10:30:46Z,2023-05-23T09:24:55Z,2023-05-23T09:24:55Z,2023-05-23T09:24:55Z,,0,0,0,0,0
+1356578106,10359,[Docs] Adapt to new AutoAugment params in user_guides/new_model.md,closed,jamiechoi1995,2023-05-19T04:57:27Z,2023-05-23T07:59:58Z,2023-05-23T06:51:33Z,2023-05-23T06:51:33Z,,0,0,0,0,0
+1355034123,10349,修复rtmdet-ins tiny没有开启recompute_bbox导致bbox和mask对不上的bug,open,zylo117,2023-05-18T02:01:38Z,2023-05-23T06:56:05Z,,,,0,0,0,0,0
+1355082072,10350,Fix a wrong link in MMDet_InstanceSeg_Tutorial.ipynb,closed,YQisme,2023-05-18T03:32:58Z,2023-05-23T06:54:39Z,2023-05-23T06:54:38Z,2023-05-23T06:54:38Z,,0,0,0,0,0
+1358907424,10366,[Feature] New config type,closed,HAOCHENYE,2023-05-22T09:40:37Z,2023-05-23T06:03:53Z,2023-05-23T06:03:53Z,2023-05-23T06:03:53Z,,0,0,0,0,0
+1356826741,10360,Fix maskformer metafile link,closed,hhaAndroid,2023-05-19T08:54:33Z,2023-05-19T09:40:59Z,2023-05-19T09:40:59Z,2023-05-19T09:40:59Z,,0,0,0,0,0
+1350154152,10328,[Fix] Fix typehint in XMLDataset,closed,MambaWong,2023-05-15T05:58:16Z,2023-05-18T02:54:04Z,2023-05-18T01:46:55Z,2023-05-18T01:46:55Z,,0,0,0,0,0
+1305626398,10102,[Docs] add MMPreTrain in README,closed,LEFTeyex,2023-04-07T07:22:54Z,2023-05-18T01:50:41Z,2023-05-18T01:50:40Z,,,0,0,0,0,0
+1305960595,10107,[Doc]: Update README.md(dev-3.x),closed,MingqiangNing,2023-04-07T14:32:42Z,2023-05-18T01:50:13Z,2023-05-18T01:50:13Z,,,0,0,0,0,0
+1341722063,10290,[Feature] add SIoULoss implementation,closed,xiuqhou,2023-05-08T08:00:50Z,2023-05-18T01:48:25Z,2023-05-18T01:48:25Z,2023-05-18T01:48:25Z,,0,0,0,0,0
+1351605782,10331,update version in config_migration.md,closed,tall-josh,2023-05-16T00:01:16Z,2023-05-18T01:46:31Z,2023-05-18T01:46:30Z,2023-05-18T01:46:30Z,,0,0,0,0,0
+1353707701,10347,[Docs] Fix a wrong link in MMDet_Tutorial.ipynb,closed,RangeKing,2023-05-17T08:22:23Z,2023-05-18T00:16:52Z,2023-05-17T10:06:45Z,2023-05-17T10:06:45Z,,0,0,0,0,0
+1349411245,10324,[Fix] Remove the duplicate `_resize_seg` function,closed,MambaWong,2023-05-13T06:06:21Z,2023-05-15T05:50:57Z,2023-05-15T02:31:28Z,2023-05-15T02:31:28Z,,0,0,0,0,0
+1331497703,10247,A draft PR used by mmengine,closed,zhouzaida,2023-04-28T08:21:36Z,2023-05-15T02:33:54Z,2023-05-15T02:33:54Z,,,0,0,0,0,0
+1344286597,10301,Update information about `config_migration.md`,closed,lucianovk,2023-05-09T19:22:37Z,2023-05-15T02:33:06Z,2023-05-15T02:33:06Z,2023-05-15T02:33:06Z,,0,0,0,0,0
+1347996588,10320,[Feature] support uninext for vis task,open,zwhus,2023-05-12T03:04:01Z,2023-05-15T02:32:01Z,,,,0,0,0,0,0
+1350014863,10327,Add `centernet-update_r50-caffe_fpn_ms-1x_coco` weights,closed,hhaAndroid,2023-05-15T02:28:04Z,2023-05-15T02:31:48Z,2023-05-15T02:31:48Z,2023-05-15T02:31:48Z,,0,0,0,0,0
+1348355304,10322,[Fix] fix seaborn import error,closed,zwhus,2023-05-12T09:10:31Z,2023-05-12T09:16:24Z,2023-05-12T09:16:24Z,2023-05-12T09:16:24Z,,0,0,0,0,0
+1348288238,10321,[Fix] fix downstream repo ci error,closed,zwhus,2023-05-12T08:17:43Z,2023-05-12T08:44:24Z,2023-05-12T08:44:24Z,2023-05-12T08:44:24Z,,0,0,0,0,0
+1347991925,10319,[Feature] Support Uninext for vis task,closed,zwhus,2023-05-12T02:57:51Z,2023-05-12T03:03:15Z,2023-05-12T03:00:33Z,,,0,0,0,0,0
+1344810437,10305,Tracking,closed,hhaAndroid,2023-05-10T06:49:17Z,2023-05-10T08:12:40Z,2023-05-10T08:12:40Z,,,0,0,0,0,0
+1280920103,9984,[FIX] Fix cityscapes import error,closed,zwhus,2023-03-18T03:37:09Z,2023-05-10T04:02:45Z,2023-03-18T06:11:48Z,2023-03-18T06:11:48Z,,0,0,0,0,0
+1275051332,9944,[Feature] Add tracking useful tools,closed,zwhus,2023-03-14T13:30:31Z,2023-05-10T04:02:43Z,2023-03-23T09:09:22Z,2023-03-23T09:09:22Z,,0,0,0,0,0
+1269668407,9910,[Feature] Add tracking evaluation,closed,zwhus,2023-03-09T13:37:26Z,2023-05-10T04:02:41Z,2023-03-23T10:54:24Z,2023-03-23T10:54:24Z,,0,0,0,0,0
+1269250124,9908,[Feature] Add tracking demo and visulization,closed,zwhus,2023-03-09T09:46:32Z,2023-05-10T04:02:38Z,2023-03-23T09:05:47Z,2023-03-23T09:05:47Z,,0,0,0,0,0
+1295740675,10051,【Fix】fix compute flops error,closed,zwhus,2023-03-30T07:20:51Z,2023-05-10T04:02:35Z,2023-03-31T02:55:46Z,2023-03-31T02:55:46Z,,0,0,0,0,0
+1340723137,10279,[Feature] Support MaskTrack_Rcnn for vis,closed,zwhus,2023-05-06T10:11:17Z,2023-05-10T04:02:25Z,2023-05-06T11:18:08Z,2023-05-06T11:18:08Z,,0,0,0,0,0
+1340746954,10280,[Fix] Fix doc ci error and file backend error,closed,zwhus,2023-05-06T11:47:59Z,2023-05-10T04:02:22Z,2023-05-08T02:07:43Z,2023-05-08T02:07:43Z,,0,0,0,0,0
+1341914771,10293,[Feature] Support StrongSORT and OCSORT,closed,zwhus,2023-05-08T10:05:28Z,2023-05-08T10:30:20Z,2023-05-08T10:30:20Z,2023-05-08T10:30:20Z,,0,0,0,0,0
+1329210811,10230,add per class validation to FAQ page,open,GeorgePearse,2023-04-26T18:43:23Z,2023-05-08T02:10:56Z,,,,0,0,0,0,0
+1330491941,10245,[Feature] support mask2former for vis,closed,zwhus,2023-04-27T14:21:25Z,2023-05-06T09:44:47Z,2023-05-06T09:44:47Z,2023-05-06T09:44:47Z,,0,0,0,0,0
+1275052801,9945,[Feature] Add tracking docs,closed,zwhus,2023-03-14T13:31:22Z,2023-05-05T02:31:01Z,2023-05-05T02:31:01Z,2023-05-05T02:31:00Z,,0,0,0,0,0
+1306773046,10116,[Fix] YOLOXModeSwitchHook does not switch the mode when resumed from the checkpoint after switched,closed,i-aki-y,2023-04-09T15:06:40Z,2023-05-05T02:28:49Z,2023-05-05T02:28:49Z,2023-05-05T02:28:49Z,,0,0,0,0,0
+1330014094,10240,[Feature] support sort and deepsort,closed,zwhus,2023-04-27T09:04:36Z,2023-04-28T02:22:48Z,2023-04-28T02:22:48Z,2023-04-28T02:22:48Z,,0,0,0,0,0
+1104763450,9192,[Fix] Fix solov2 cannot dealing with empty gt image,closed,BIGWangYuDong,2022-10-31T03:08:41Z,2023-04-27T18:04:08Z,2022-11-01T01:17:39Z,2022-11-01T01:17:39Z,,0,0,0,0,0
+1104733642,9185,[Fix] Fix solov2 cannot dealing with empty gt image,closed,BIGWangYuDong,2022-10-31T02:15:02Z,2023-04-27T18:04:08Z,2022-10-31T08:14:47Z,2022-10-31T08:14:47Z,,0,0,0,0,0
+1041169990,8672,[Feature] Support using mmengine to train detectron2,closed,BIGWangYuDong,2022-08-30T15:46:58Z,2023-04-27T18:04:08Z,2022-11-01T08:53:33Z,2022-11-01T08:53:33Z,,0,0,0,0,0
+1307100888,10119,Release SoftTeacher checkpoints.,closed,Czm369,2023-04-10T06:19:07Z,2023-04-27T04:33:26Z,2023-04-27T04:33:26Z,2023-04-27T04:33:26Z,,0,0,0,0,0
+1319122325,10181,minor bugfix. RandomChoiceResize should get scales instead of scale.,closed,gihanjayatilaka,2023-04-19T00:53:52Z,2023-04-27T03:49:39Z,2023-04-27T03:49:39Z,2023-04-27T03:49:39Z,,0,0,0,0,0
+1319855388,10188,[Feature] Wrap untraceable functions with torch.fx.wrap (for MMRazor) ,open,HIT-cwh,2023-04-19T12:56:04Z,2023-04-27T03:47:24Z,,,,0,0,0,0,0
+1324010487,10206,[Feature] Support Label-Studio SAM Semi-Label,closed,vansin,2023-04-22T15:01:23Z,2023-04-27T03:46:13Z,2023-04-27T03:46:13Z,,,0,0,0,0,0
+1328018095,10222,[Fix]fix empty stats error in show mask,closed,Renzhihan,2023-04-26T02:43:47Z,2023-04-27T03:45:52Z,2023-04-27T03:45:51Z,2023-04-27T03:45:51Z,,0,0,0,0,0
+1315977176,10165,Improve some inappropriate descriptions in the docstring of DinoTransformerDecoder.,closed,ZelkovaLuo,2023-04-17T05:23:10Z,2023-04-27T03:44:57Z,2023-04-27T03:44:57Z,2023-04-27T03:44:57Z,,0,0,0,0,0
+1329656922,10233,update readme of projects,closed,hhaAndroid,2023-04-27T03:37:09Z,2023-04-27T03:40:36Z,2023-04-27T03:40:36Z,2023-04-27T03:40:36Z,,0,0,0,0,0
+884132526,7467,Mosaic documentation enhancements,closed,bunge-bedstraw-herb,2022-03-20T09:24:47Z,2023-04-26T15:28:32Z,2022-03-20T09:42:18Z,,,0,0,0,0,0
+1305691407,10105,[Fix] Fix the script gather_models.,closed,Czm369,2023-04-07T08:49:14Z,2023-04-26T12:13:40Z,2023-04-26T12:13:40Z,2023-04-26T12:13:40Z,,0,0,0,0,0
+1324775789,10213,[Fix]  fix mask2former config,closed,zwhus,2023-04-24T05:55:04Z,2023-04-24T06:06:14Z,2023-04-24T06:06:14Z,2023-04-24T06:06:14Z,,0,0,0,0,0
+1319838972,10187,[Feature] Wrap untraceable functions with torch.fx.wrap (for MMRazor),closed,HIT-cwh,2023-04-19T12:46:08Z,2023-04-19T12:54:52Z,2023-04-19T12:54:51Z,,,0,0,0,0,0
+1246598651,9801,[Feature] Support DSDL Dataset,closed,wufan-tb,2023-02-20T03:16:06Z,2023-04-18T09:13:17Z,2023-04-18T09:13:17Z,2023-04-18T09:13:17Z,,0,0,0,0,0
+1308997314,10132,[Doc] Update pre-trained rtmdet-ins pth file's path in README.md,closed,lovelykite,2023-04-11T13:12:18Z,2023-04-17T10:40:43Z,2023-04-17T03:11:04Z,2023-04-17T03:11:04Z,,0,0,0,0,0
+1302935232,10089,Update dino_layers.py,closed,ZelkovaLuo,2023-04-05T10:09:36Z,2023-04-17T05:28:21Z,2023-04-17T05:28:21Z,,,0,0,0,0,0
+1305958693,10106,[Doc]: Update README_zh-CN.md(dev-3.x),closed,MingqiangNing,2023-04-07T14:30:10Z,2023-04-17T03:45:30Z,2023-04-17T03:16:11Z,2023-04-17T03:16:11Z,,0,0,0,0,0
+1302763799,10086,git test,closed,matrju,2023-04-05T08:00:37Z,2023-04-17T03:19:10Z,2023-04-17T03:19:10Z,,,0,0,0,0,0
+1308377013,10128,[Fix] benchmark in windows.,closed,ryan-minato,2023-04-11T04:28:44Z,2023-04-17T03:12:04Z,2023-04-17T03:12:03Z,2023-04-17T03:12:03Z,,0,0,0,0,0
+1272894048,9929,[Feature] Support QDTrack,closed,JingweiZhang12,2023-03-13T09:07:53Z,2023-04-17T02:01:48Z,2023-04-17T02:01:48Z,2023-04-17T02:01:48Z,,0,0,0,0,0
+1126358809,9345,implement configs/mask2former/mask2former_r50_lsj_8x2_50e_coco-panoptic.py's data path and add comment for val_pipeline,closed,LIQiushui2427,2022-11-17T17:55:55Z,2023-04-14T08:19:12Z,2022-11-17T18:06:23Z,,,0,0,0,0,0
+1136648225,9394,[Fix]: fix checking masks on MMDetWandbHook (open-mmlab#8455),open,nanpuhaha,2022-11-27T09:47:33Z,2023-04-14T08:16:26Z,,,,0,0,0,0,0
+364395347,1998,Add env setup bash,closed,skyz8421,2020-01-18T05:46:22Z,2023-04-14T08:09:53Z,2020-01-18T05:48:08Z,,,0,0,0,0,0
+723031311,5982,[ONNX export] Support for image normalization in model graph.,closed,francescorubbo,2021-08-31T05:25:34Z,2023-04-14T08:09:25Z,2022-06-05T09:33:08Z,,,0,0,0,0,0
+723140110,5989,Merge pull request #1 from open-mmlab/master,closed,Attendfov163com,2021-08-31T08:26:38Z,2023-04-14T08:09:05Z,2021-08-31T11:23:52Z,,,0,0,0,0,0
+725773407,6019,[Tools] Add swin convert weight scripts,open,wwqgtxx,2021-09-02T11:26:20Z,2023-04-14T08:08:15Z,,,,0,0,0,0,0
+735332429,6116,Merge pull request #1 from open-mmlab/master,closed,92ypli,2021-09-16T10:13:55Z,2023-04-14T08:06:30Z,2021-09-17T12:12:00Z,,,0,0,0,0,0
+736258440,6123,CVS-58726 On commit check,closed,waldekpi,2021-09-17T10:26:51Z,2023-04-14T08:06:11Z,2021-09-17T10:40:29Z,,,0,0,0,0,0
+740295291,6147,bug fix - BBoxTestMixin.simple_test_bboxes,closed,SkyErnest,2021-09-22T09:47:51Z,2023-04-14T08:05:50Z,2021-10-27T03:08:04Z,,,0,0,0,0,0
+756298791,6266,[Fix] Fix IndexError in MixUp and Mosaic,closed,note823,2021-10-12T15:22:09Z,2023-04-14T08:04:28Z,2021-10-14T01:23:46Z,,,0,0,0,0,0
+758332633,6282,SimpleCopy Paste Augmentation Implementation ,closed,sudz123,2021-10-14T13:08:03Z,2023-04-14T08:03:34Z,2022-04-08T08:27:05Z,,,0,0,0,0,0
+770525380,6425,++ggfocal,closed,TheRochVoices,2021-11-01T13:27:02Z,2023-04-14T08:02:04Z,2021-11-07T17:39:36Z,,,0,0,0,0,0
+779234858,6490,fix jpg->png,closed,Neesky,2021-11-12T09:38:55Z,2023-04-14T07:59:52Z,2022-10-20T07:00:14Z,,,0,0,0,0,0
+780593357,6508,Fkutsepx/lb/reallife training tests fish,closed,0de554K,2021-11-15T11:22:00Z,2023-04-14T07:59:30Z,2021-11-15T12:32:51Z,,,0,0,0,0,0
+782326408,6527,[Fix] add --format-options arg for test to allow --eval and --format_only concurrently,closed,XenonPDash,2021-11-17T03:39:44Z,2023-04-14T07:59:11Z,2021-11-17T08:39:38Z,,,0,0,0,0,0
+782672616,6529,fix LoadAnnotations representation wrong message,closed,hyq12358,2021-11-17T12:24:25Z,2023-04-14T07:58:28Z,2021-12-01T08:39:57Z,,,0,0,0,0,0
+1101053581,9150,add multi channel input image,closed,zkccpro,2022-10-27T01:39:52Z,2023-04-14T07:54:19Z,2022-10-27T01:40:15Z,,,0,0,0,0,0
+1144461057,9436,Test,closed,liulingyi601,2022-12-03T20:58:50Z,2023-04-14T04:29:14Z,2022-12-04T16:02:29Z,,,0,0,0,0,0
+1146574760,9448,Update get_started.md,closed,michael-selasi-dzamesi,2022-12-05T13:06:46Z,2023-04-14T04:28:43Z,2022-12-06T09:48:26Z,,,0,0,0,0,0
+1167708678,9499,Support installation on Windows,closed,ppmzhang2,2022-12-16T02:27:20Z,2023-04-14T04:25:13Z,2023-02-02T03:07:09Z,,,0,0,0,0,0
+854242827,7173,remove self.training check for VFNet head,closed,dnth,2022-02-16T10:38:38Z,2023-04-14T02:50:00Z,2022-02-17T09:58:29Z,,,0,0,0,0,0
+858753323,7206,Retinaface reimplementation,open,warrentdrew,2022-02-20T06:00:03Z,2023-04-14T02:49:04Z,,,,0,0,0,0,0
+1176768087,9529,training 5 labels only,closed,aditya1503,2022-12-23T20:03:58Z,2023-04-13T11:43:54Z,2022-12-26T03:34:20Z,,,0,0,0,0,0
+1194772298,9620,Feature/c2f layer for yolov8,closed,ryan-minato,2023-01-12T05:03:53Z,2023-04-13T11:40:33Z,2023-01-12T05:09:32Z,,,0,0,0,0,0
+316019860,1375,Add LRP Performance Metric,closed,kemaloksuz,2019-09-10T14:20:30Z,2023-04-13T07:28:57Z,2019-09-13T11:05:37Z,,,0,0,0,0,0
+459858982,3447,Add SOLO for instance segmentation,closed,WXinlong,2020-07-31T07:16:06Z,2023-04-13T07:28:09Z,2021-07-01T05:32:24Z,,,0,0,0,0,0
+462101247,3475,fix: correct hrnet forward func,closed,royxue,2020-08-03T10:45:36Z,2023-04-13T07:27:59Z,2020-10-14T01:23:05Z,,,0,0,0,0,0
+462713301,3487,fix label index,closed,sailfish009,2020-08-04T11:44:11Z,2023-04-13T07:27:50Z,2020-08-25T08:09:56Z,,,0,0,0,0,0
+462815993,3488,Assignment,closed,kartikwar,2020-08-04T14:48:25Z,2023-04-13T07:27:40Z,2020-08-04T16:13:12Z,,,0,0,0,0,0
+469693926,3576,Yolo 2.0 solve conflicts,closed,sudo-rm-covid19,2020-08-18T19:30:46Z,2023-04-13T07:26:21Z,2020-08-19T13:29:13Z,,,0,0,0,0,0
+482514638,3719,Add dynamic loss scale support (from apex),closed,halostorm,2020-09-09T05:21:14Z,2023-04-13T07:25:08Z,2020-09-09T05:27:22Z,,,0,0,0,0,0
+487142562,3768,Changed Albu return mask type to expexted,closed,PawelFaron,2020-09-15T08:53:54Z,2023-04-13T07:24:59Z,2020-09-15T13:05:45Z,,,0,0,0,0,0
+489889908,3801,first commit,closed,AlphaGoMK,2020-09-20T11:10:25Z,2023-04-13T07:24:41Z,2020-09-20T11:11:23Z,,,0,0,0,0,0
+505974697,3958,Open mmlab migrate,closed,dimahwang88,2020-10-19T13:39:05Z,2023-04-13T07:24:16Z,2020-10-19T13:40:46Z,,,0,0,0,0,0
+509609027,3996,Signed-off-by: yian454 <yian454@163.com>,closed,yian454,2020-10-25T15:15:36Z,2023-04-13T07:24:06Z,2020-10-25T15:17:34Z,,,0,0,0,0,0
+515156241,4059,merge request of new version,closed,bradduy,2020-11-04T06:07:54Z,2023-04-13T07:23:47Z,2020-11-04T06:08:45Z,,,0,0,0,0,0
+526946269,4173,Update vfnet_head.py,closed,carry-xz,2020-11-25T01:34:47Z,2023-04-13T07:23:20Z,2020-11-28T15:58:50Z,,,0,0,0,0,0
+543264675,4333,add scipy for Dockerfile,closed,mukangt,2020-12-21T06:39:45Z,2023-04-13T07:22:46Z,2020-12-24T01:05:47Z,,,0,0,0,0,0
+543971078,4341,Fix: change DefaultFormatBundle to ImageToTensor in test_pipline,closed,lfydegithub,2020-12-22T08:51:42Z,2023-04-13T07:22:33Z,2020-12-22T08:53:17Z,,,0,0,0,0,0
+545115525,4348,Create Zx,closed,Alan-yly,2020-12-24T03:14:40Z,2023-04-13T07:21:49Z,2020-12-24T06:00:18Z,,,0,0,0,0,0
+546208752,4363,Fix reading nncf config from metainfo,closed,LeonidBeynenson,2020-12-28T19:23:49Z,2023-04-13T07:21:21Z,2020-12-28T19:24:37Z,,,0,0,0,0,0
+1281120015,9988,Dev 3.x - pass argument device in rtmdet_ins_head.py,closed,liulongbiao,2023-03-18T15:29:37Z,2023-04-13T07:16:59Z,2023-03-18T15:30:27Z,,,0,0,0,0,0
+1281602602,9990,[Fix Bug] record img_shape: x.shape -> x.shape[:2],closed,YiqunChen1999,2023-03-19T12:36:16Z,2023-04-13T07:16:48Z,2023-03-20T06:49:04Z,,,0,0,0,0,0
+1283507817,9998,Fix - AttributeError: 'ConfigDict' object has no attribute 'device',closed,Shib-Das,2023-03-21T01:37:21Z,2023-04-13T07:16:38Z,2023-03-29T20:36:42Z,,,0,0,0,0,0
+1288661574,10022,Add PyTriton demo ,open,VanderBieu,2023-03-24T08:33:18Z,2023-04-13T07:16:02Z,,,,0,0,0,0,0
+1198727471,9637,add type hints,closed,cyhrane,2023-01-16T09:45:09Z,2023-04-13T04:37:56Z,2023-01-16T10:45:56Z,,,0,0,0,0,0
+554802848,4453,Add shufflenetv2_x1.0 on pascal_voc,closed,Tianyi-THU,2021-01-14T09:37:21Z,2023-04-13T02:55:43Z,2021-01-14T09:41:15Z,,,0,0,0,0,0
+556602603,4469,Mobilenetv2,closed,zyzzu,2021-01-18T07:57:09Z,2023-04-13T02:53:53Z,2021-01-18T09:30:22Z,,,0,0,0,0,0
+578007049,4656,The 'plot_curve' function isn't working well,closed,tuskininja,2021-02-22T23:11:19Z,2023-04-13T02:48:50Z,2021-03-18T06:31:03Z,,,0,0,0,0,0
+583913707,4705,Fetch COCO class names from label file,closed,KamalM9,2021-03-03T12:17:53Z,2023-04-13T02:48:37Z,2021-03-04T15:08:33Z,,,0,0,0,0,0
+592534424,4765,demo,closed,chrisclear3,2021-03-14T12:35:17Z,2023-04-13T02:48:25Z,2021-03-19T11:00:40Z,,,0,0,0,0,0
+594495457,4783,Merge pull request #1 from open-mmlab/master,closed,formorebeat,2021-03-17T08:05:05Z,2023-04-13T02:48:12Z,2021-03-17T08:05:36Z,,,0,0,0,0,0
+608067314,4887,Reppoints,closed,durgas16,2021-04-02T14:54:16Z,2023-04-13T02:47:47Z,2021-04-02T14:58:20Z,,,0,0,0,0,0
+616578110,4983,update 2021/4/16,closed,Icecream-blue-sky,2021-04-16T06:37:18Z,2023-04-13T02:46:51Z,2021-04-16T07:09:47Z,,,0,0,0,0,0
+620812776,5041,Add files via upload,closed,lmk123568,2021-04-22T06:52:36Z,2023-04-13T02:46:37Z,2021-05-13T06:46:53Z,,,0,0,0,0,0
+635774730,5130,Fixed casting error in mmdet/core/mask/structures.py,closed,darshan2412,2021-05-09T12:00:14Z,2023-04-13T02:45:36Z,2021-05-31T08:21:20Z,,,0,0,0,0,0
+649876932,5199,Update structures.py,closed,simon-hoon,2021-05-21T11:08:43Z,2023-04-13T02:44:29Z,2021-05-21T11:24:55Z,,,0,0,0,0,0
+657436605,5248,support condinst,closed,jiangzhengkai,2021-05-29T09:38:40Z,2023-04-13T02:41:58Z,2022-07-28T02:52:02Z,,,0,0,0,0,0
+657888635,5254,One demo.py  file for saving the results of multi-images after detecting images.,closed,AndyVerne,2021-05-31T02:27:16Z,2023-04-13T02:41:30Z,2021-08-16T03:08:36Z,,,0,0,0,0,0
+678323899,5459,test PR,closed,zhengmingzhang,2021-06-26T11:41:22Z,2023-04-13T02:38:57Z,2021-06-28T06:50:24Z,,,0,0,0,0,0
+678659823,5467,test,closed,linxi1158,2021-06-28T02:58:03Z,2023-04-13T02:35:46Z,2021-06-28T06:50:05Z,,,0,0,0,0,0
+680762567,5492,Kcz/integrate collsys to sc sdk tests,closed,krzyczar,2021-06-30T11:06:32Z,2023-04-13T02:34:18Z,2021-06-30T11:49:11Z,,,0,0,0,0,0
+681735664,5498,add test.txt,closed,Liaoqing-up,2021-07-01T10:49:42Z,2023-04-13T02:32:20Z,2021-07-02T00:53:31Z,,,0,0,0,0,0
+707377633,5852,Centernetv2,closed,huimlight,2021-08-10T13:54:34Z,2023-04-13T02:23:00Z,2021-08-10T14:00:09Z,,,0,0,0,0,0
+713178439,5893,allow change channel order in LoadImageFromFile,closed,yogurt7771,2021-08-16T07:13:33Z,2023-04-13T02:22:45Z,2021-08-18T07:29:27Z,,,0,0,0,0,0
+998869932,8375,backup,closed,jiminl-princeton,2022-07-18T04:03:49Z,2023-04-13T01:15:08Z,2022-07-18T04:04:17Z,,,0,0,0,0,0
+1024810489,8555,fix config dump to support img_scale modification,closed,awarebayes,2022-08-12T10:50:19Z,2023-04-13T01:14:29Z,2022-08-12T11:00:36Z,,,0,0,0,0,0
+1029467895,8586,aces-vision compatible なデータセットクラスの作成とサンプル yaml の追加,closed,Itto1992,2022-08-18T02:48:45Z,2023-04-13T01:14:26Z,2022-08-18T02:48:53Z,,,0,0,0,0,0
+890930581,7541,[Enhance] Added label smoothing to cross entropy loss,open,tjaffri,2022-03-27T07:18:47Z,2023-04-12T08:50:35Z,,,,0,0,0,0,0
+816934808,6969,Dev v2.19.0,closed,lenardxu,2022-01-08T22:48:04Z,2023-04-12T08:45:07Z,2022-01-08T22:48:47Z,,,0,0,0,0,0
+797831973,6734,Update video_demo.py,open,GuangjiHuang,2021-12-08T13:26:47Z,2023-04-12T08:41:36Z,,,,0,0,0,0,0
+793571943,6668,fixed spell errors for `confusion matrix`,closed,Gladiator07,2021-12-02T10:55:56Z,2023-04-12T08:41:10Z,2022-02-08T11:16:09Z,,,0,0,0,0,0
+894661357,7589,Double Head Extension,closed,tuannguyenanh177,2022-03-30T16:31:03Z,2023-04-12T08:39:34Z,2022-03-30T16:32:24Z,,,0,0,0,0,0
+974878979,8235,Self experiment faster rcnn cpu,closed,JustWeZero,2022-06-22T10:05:32Z,2023-04-12T04:31:23Z,2022-06-22T10:08:35Z,,,0,0,0,0,0
+967753333,8192,test,closed,ZacharyXue,2022-06-15T06:50:45Z,2023-04-12T04:31:20Z,2022-06-15T06:52:39Z,,,0,0,0,0,0
+964732913,8169,Add onnx_export method to PanopticFPN,closed,daigo0927,2022-06-11T11:08:17Z,2023-04-12T04:31:16Z,2022-06-25T03:17:32Z,,,0,0,0,0,0
+952213957,8101,Feature/replace tood dcn,closed,brodriguez-aicradle,2022-05-31T17:00:39Z,2023-04-12T04:31:02Z,2022-05-31T17:01:18Z,,,0,0,0,0,0
+948235801,8059,Docker modify,closed,saulgoldsaga,2022-05-26T12:53:02Z,2023-04-12T04:30:58Z,2022-05-27T07:44:16Z,,,0,0,0,0,0
+1271988776,9921,[Fix] docker build for ampere gpus and cuda11,open,KleinYuan,2023-03-11T08:20:11Z,2023-04-12T04:26:56Z,,,,0,0,0,0,0
+1266605676,9898,fix: warning msg floordiv is deprecated,open,theoh-io,2023-03-07T16:39:39Z,2023-04-12T04:26:46Z,,,,0,0,0,0,0
+383564203,2199,add CPU only mode which can be activated during install,closed,yossibiton,2020-03-04T13:43:58Z,2023-04-12T04:26:22Z,2020-04-03T06:50:08Z,,,0,0,0,0,0
+382276564,2191,underwater,closed,TWSFar,2020-03-02T09:38:21Z,2023-04-12T04:26:20Z,2020-03-02T09:39:50Z,,,0,0,0,0,0
+373496809,2075,add reasoning module,closed,TaoBowoa180011,2020-02-11T06:40:40Z,2023-04-12T04:26:15Z,2020-02-11T06:42:15Z,,,0,0,0,0,0
+370648395,2048,1,closed,meiyu422321,2020-02-04T05:04:45Z,2023-04-12T04:26:10Z,2020-02-04T05:10:32Z,,,0,0,0,0,0
+368472415,2028,signature verification scripts,closed,chendongliang87,2020-01-29T10:11:14Z,2023-04-12T04:26:07Z,2020-01-29T10:11:36Z,,,0,0,0,0,0
+359429236,1927,Code for faceboxes(paper 2017) faceboxes_v2(paper 2019) ultra_slim,closed,likun-205,2020-01-06T07:39:43Z,2023-04-12T04:26:03Z,2022-06-05T09:49:20Z,,,0,0,0,0,0
+352218599,1796,add her2 dataset,closed,stanliangreal,2019-12-12T03:46:35Z,2023-04-12T04:25:58Z,2019-12-12T03:51:38Z,,,0,0,0,0,0
+352210936,1795,Mitosis,closed,leowangzi,2019-12-12T03:11:12Z,2023-04-12T04:25:56Z,2019-12-12T03:11:43Z,,,0,0,0,0,0
+352185877,1794,同步,closed,xiayongtao,2019-12-12T01:10:50Z,2023-04-12T04:25:54Z,2019-12-12T01:11:22Z,,,0,0,0,0,0
+346412738,1722,Merge pull request #1 from open-mmlab/master,closed,fehmikahraman,2019-11-27T20:23:18Z,2023-04-12T04:25:52Z,2019-11-27T20:26:21Z,,,0,0,0,0,0
+343793749,1695,Implementing YOLOv3 architecture,closed,wuhy08,2019-11-21T00:57:49Z,2023-04-12T04:25:50Z,2020-10-14T01:26:54Z,,,0,0,0,0,0
+332857913,1590,"fix bug of ""Expected object of scalar type Float but got scalar type Double for argument #2 'other'""",closed,hzzh11856,2019-10-27T13:56:19Z,2023-04-12T04:25:45Z,2019-11-06T06:52:42Z,,,0,0,0,0,0
+330866318,1572,fix a bug in issue #1570,closed,xuhuasheng,2019-10-22T08:28:19Z,2023-04-12T04:25:43Z,2019-10-23T08:17:47Z,,,0,0,0,0,0
+323559852,1484,Objects as points,closed,Ridhwanluthra,2019-10-02T03:06:46Z,2023-04-12T04:25:41Z,2021-05-31T09:35:42Z,,,0,0,0,0,0
+312702644,1307,Add Cascade RCNN + HRNet W18 & W48 config files,closed,adampower48,2019-08-30T11:39:30Z,2023-04-12T04:17:43Z,2021-05-31T09:34:17Z,,,0,0,0,0,0
+305430798,1148,bug fix for retinanet with 2 classes (fg/bg),closed,quantumcrystals,2019-08-08T06:40:07Z,2023-04-12T04:17:39Z,2019-11-27T14:44:40Z,,,0,0,0,0,0
+297399527,991,update ,closed,CurryYuan,2019-07-14T14:13:33Z,2023-04-12T04:17:34Z,2019-07-14T14:14:04Z,,,0,0,0,0,0
+293466387,909,Added validation each N epochs in _non_dist_train,closed,canorbal,2019-07-01T19:22:13Z,2023-04-12T04:17:32Z,2020-10-14T01:35:12Z,,,0,0,0,0,0
+288749565,818,m2det first version. To be updated,closed,lzy00codeforfun,2019-06-17T08:47:02Z,2023-04-12T04:17:30Z,2019-06-17T08:52:24Z,,,0,0,0,0,0
+288596811,811,Carbonate,closed,Hellcatzm,2019-06-16T03:58:54Z,2023-04-12T04:17:25Z,2019-11-29T14:13:34Z,,,0,0,0,0,0
+281755466,701,Docker image for mmdetection,closed,TezRomacH,2019-05-23T19:37:49Z,2023-04-12T04:17:21Z,2020-05-23T15:36:59Z,,,0,0,0,0,0
+281614726,698,Pr/1,closed,szqxx,2019-05-23T13:32:42Z,2023-04-12T04:17:19Z,2019-05-23T13:37:08Z,,,0,0,0,0,0
+280525758,675,FSAF Module,closed,zccstig,2019-05-20T20:11:45Z,2023-04-12T04:17:17Z,2020-05-21T14:45:24Z,,,0,0,0,0,0
+264433467,443,ROI Align CPU support.,closed,qinjian623,2019-03-26T09:22:38Z,2023-04-12T04:17:15Z,2020-05-23T15:35:34Z,,,0,0,0,0,0
+261983494,412,Fix some errors in soft_nms,closed,JincanDeng,2019-03-18T09:52:12Z,2023-04-12T04:17:12Z,2019-06-15T07:04:33Z,,,0,0,0,0,0
+242579087,240,(mistake click),closed,laycoding,2019-01-07T07:54:17Z,2023-04-12T04:17:10Z,2019-01-07T07:54:26Z,,,0,0,0,0,0
+238310827,181,Docker,closed,SunnyCat2013,2018-12-13T09:01:34Z,2023-04-12T04:17:08Z,2018-12-13T09:03:30Z,,,0,0,0,0,0
+929295496,7915,update,closed,cm-nakamura-shogo,2022-05-06T03:25:11Z,2023-04-12T04:09:06Z,2022-06-05T09:24:30Z,,,0,0,0,0,0
+920534914,7844,Along gxl,closed,ALmagical,2022-04-27T11:34:03Z,2023-04-12T04:08:44Z,2022-04-27T11:44:23Z,,,0,0,0,0,0
+912216737,7748,ProfilerHook Bug Fix,closed,ammaryasirnaich,2022-04-18T17:17:12Z,2023-04-12T04:08:34Z,2022-04-22T09:20:13Z,,,0,0,0,0,0
+485929325,3744,only call `get_subset_by_classes` during training,closed,jonbakerfish,2020-09-12T15:00:17Z,2023-04-12T03:09:55Z,2020-09-17T01:03:50Z,,,0,0,0,0,0
+455542520,3389,Add mosaic augmentation,closed,MingtaoFu,2020-07-23T08:02:15Z,2023-04-12T03:08:47Z,2021-04-14T03:23:43Z,,,0,0,0,0,0
+455413714,3383,[WIP] Xception Backend ,open,roya0045,2020-07-23T00:03:02Z,2023-04-12T03:08:08Z,,,,0,0,0,0,0
+444499546,3217,initial commit,closed,cyrilcero,2020-07-06T02:07:00Z,2023-04-12T03:07:04Z,2020-07-06T02:08:49Z,,,0,0,0,0,0
+444283628,3203,comment,closed,Xudong07,2020-07-04T13:15:45Z,2023-04-12T03:06:08Z,2020-07-21T05:07:04Z,,,0,0,0,0,0
+437422371,3085, docs/HTTP/README.md,closed,LionPhong,2020-06-20T15:00:45Z,2023-04-12T03:05:43Z,2020-07-01T17:11:42Z,,,0,0,0,0,0
+422355920,2802,Fix missing filtering the masks in RandomCrop,closed,kondou-shouichi-hro,2020-05-24T03:09:47Z,2023-04-12T03:05:17Z,2020-06-09T00:51:56Z,,,0,0,0,0,0
+421144280,2786,modify mmdet/models/detectors/base.py and mmdet/models/detectors/casc…,closed,Tord-Zhang,2020-05-21T04:36:53Z,2023-04-12T03:04:08Z,2020-05-27T09:14:46Z,,,0,0,0,0,0
+419881804,2760,Update coco_detection.py,closed,Gugan0905,2020-05-19T05:12:51Z,2023-04-12T03:03:41Z,2020-05-19T07:17:42Z,,,0,0,0,0,0
+416902507,2702,merging from base repo,closed,ganesmo,2020-05-12T18:42:02Z,2023-04-12T03:02:41Z,2020-05-12T18:46:16Z,,,0,0,0,0,0
+415011131,2648,王,closed,wangning7149,2020-05-08T02:28:12Z,2023-04-12T03:02:13Z,2020-05-08T03:26:54Z,,,0,0,0,0,0
+412571686,2594,ddd,closed,QiangZhu123,2020-05-03T08:59:32Z,2023-04-12T02:59:58Z,2020-05-03T09:08:59Z,,,0,0,0,0,0
+412537827,2587,Implement Improvements in FCOS,closed,ZhongYingMatrix,2020-05-03T02:32:05Z,2023-04-12T02:59:26Z,2020-05-03T02:50:10Z,,,0,0,0,0,0
+410026981,2559,"fix bug of openssl, error message as below",closed,mengzhibin,2020-04-28T10:27:49Z,2023-04-12T02:59:00Z,2020-05-08T07:23:52Z,,,0,0,0,0,0
+402315825,2437,fix typos in config file,closed,hello-jinwoo,2020-04-12T10:06:17Z,2023-04-12T02:58:33Z,2020-04-23T17:12:47Z,,,0,0,0,0,0
+396113404,2362,Add Rtx server branch,closed,StringBottle,2020-03-31T06:49:26Z,2023-04-12T02:57:38Z,2020-03-31T06:59:01Z,,,0,0,0,0,0
+396009346,2357,Model config,closed,gengxqa,2020-03-31T01:44:43Z,2023-04-12T02:57:11Z,2020-03-31T01:47:14Z,,,0,0,0,0,0
+386613953,2238,Merge pull request #1 from open-mmlab/master,closed,dreadlord1984,2020-03-11T10:47:14Z,2023-04-12T02:56:38Z,2020-03-11T14:20:13Z,,,0,0,0,0,0
+1073917049,8929,Readme: update py39,closed,breznak,2022-10-02T18:45:14Z,2023-04-11T14:51:47Z,2022-10-05T12:36:34Z,,,0,0,0,0,0
+1072219387,8919,Custom iou_thrs cause bbox_mAP_50 and bbox_mAP_75 equal to -1,closed,Hellcat1005,2022-09-30T06:09:22Z,2023-04-11T14:51:05Z,2022-09-30T06:20:27Z,,,0,0,0,0,0
+1053054466,8772,Check for empty predictions in DetLocalVisualizer._draw_instances,closed,levan92,2022-09-12T09:47:00Z,2023-04-11T14:47:51Z,2022-09-19T10:38:29Z,,,0,0,0,0,0
+1052567408,8769,add missing install command,closed,franchesoni,2022-09-11T18:25:21Z,2023-04-11T14:47:35Z,2022-09-12T05:08:53Z,,,0,0,0,0,0
+1048399187,8749,Solo preprocess,closed,RadekPazderka,2022-09-07T07:55:37Z,2023-04-11T14:47:00Z,2022-09-07T11:07:04Z,,,0,0,0,0,0
+1045521007,8722,Add mmengine installation to the get started docs,closed,argenisleon,2022-09-03T16:44:27Z,2023-04-11T14:46:45Z,2022-09-05T02:49:19Z,,,0,0,0,0,0
+1041144365,8671,"Refactor filtering mask, fix attribute error",closed,christian-hiebl,2022-08-30T15:26:07Z,2023-04-11T14:37:21Z,2022-08-30T22:16:55Z,,,0,0,0,0,0
+1032739096,8611,Create 1.py,closed,Hfhstrive,2022-08-22T12:11:14Z,2023-04-11T14:36:58Z,2022-08-23T03:53:18Z,,,0,0,0,0,0
+1123631242,9330,[datasets] cityscapes.py: complement necessary arg seg_suffix,closed,sjiang95,2022-11-16T01:08:52Z,2023-04-10T13:31:35Z,2022-11-21T08:53:49Z,2022-11-21T08:53:49Z,,0,0,0,0,0
+1292698524,10040,Update type hints on part 10.,closed,IRONICBo,2023-03-28T10:02:18Z,2023-04-10T04:43:47Z,2023-04-04T02:55:42Z,2023-04-04T02:55:42Z,,0,0,0,0,0
+298746599,1016,Change 'modelzoo' to 'torchvision',closed,yeliudev,2019-07-18T03:54:55Z,2023-04-07T12:22:29Z,2019-08-02T09:19:37Z,2019-08-02T09:19:37Z,,0,0,0,0,0
+380278359,2165,Fix datasets builder,closed,Mxbonn,2020-02-26T13:52:31Z,2023-04-07T12:22:27Z,2020-02-27T06:25:59Z,2020-02-27T06:25:59Z,,0,0,0,0,0
+679726203,5479,Update analyze_logs.py,closed,Y-M-Y,2021-06-29T08:41:04Z,2023-04-07T12:22:22Z,2021-06-29T11:32:30Z,2021-06-29T11:32:30Z,,0,0,0,0,0
+670027931,5357,Fix Grid-RCNN error when there is no bbox result,closed,jiangwenj02,2021-06-15T03:45:41Z,2023-04-07T12:22:18Z,2021-06-22T08:55:08Z,2021-06-22T08:55:08Z,,0,0,0,0,0
+888025552,7521,"Bug fix: RuntimeError: Expected all tensors to be on the same device,…",closed,Youth-Got,2022-03-24T07:24:29Z,2023-04-07T12:21:49Z,2022-03-24T11:06:59Z,2022-03-24T11:06:59Z,,0,0,0,0,0
+917129158,7794,fixtypo:name of default act func is wrong,closed,DarthThomas,2022-04-23T04:55:56Z,2023-04-07T12:21:31Z,2022-05-08T05:27:35Z,2022-05-08T05:27:35Z,,0,0,0,0,0
+453580737,3361,Fix topk bug in ATSSAssigner,closed,shinya7y,2020-07-20T15:47:38Z,2023-04-07T11:45:29Z,2020-07-20T16:24:05Z,2020-07-20T16:24:05Z,,0,0,0,0,0
+1008754266,8437,[Feature] Add CrowdHumanDataset and Metric,closed,yuyoujiang,2022-07-26T16:46:10Z,2023-04-07T11:39:18Z,2022-10-08T11:42:03Z,2022-10-08T11:42:03Z,,0,0,0,0,0
+1033525013,8612,correct spelling error,closed,shuxp,2022-08-23T01:26:41Z,2023-04-07T11:37:57Z,2022-08-23T01:50:31Z,2022-08-23T01:50:31Z,,0,0,0,0,0
+1089432369,9054,Wrong image linked on line 93,closed,akshaygulabrao,2022-10-17T14:21:44Z,2023-04-07T11:35:02Z,2022-10-18T04:38:52Z,2022-10-18T04:38:52Z,,0,0,0,0,0
+292230789,881,Refactor compilation into single setup.py,closed,dsuess,2019-06-27T02:09:53Z,2023-04-07T10:43:14Z,2019-07-11T08:11:57Z,2019-07-11T08:11:57Z,,0,0,0,0,0
+334732120,1610,Fix Sampler bug: index out of range when num_extra < len(indice),closed,stevehjc,2019-10-31T08:04:28Z,2023-04-07T10:43:05Z,2019-11-05T07:40:44Z,2019-11-05T07:40:44Z,,0,0,0,0,0
+359899597,1938,Update GETTING_STARTED.md ,closed,fanqie03,2020-01-07T09:26:32Z,2023-04-07T10:42:48Z,2020-01-07T11:34:46Z,2020-01-07T11:34:46Z,,0,0,0,0,0
+362993753,1985,bug for distributed training,closed,ghost,2020-01-15T07:24:24Z,2023-04-07T10:42:39Z,2020-01-18T15:06:59Z,2020-01-18T15:06:59Z,,0,0,0,0,0
+517289492,4078,add aLRP-Loss,closed,cancam,2020-11-08T11:17:38Z,2023-04-07T10:42:30Z,2020-11-10T07:20:47Z,2020-11-10T07:20:47Z,,0,0,0,0,0
+375981898,2107,no weight decay in depthwise convolution,closed,rydenisbak,2020-02-17T07:33:18Z,2023-04-07T10:42:10Z,2020-02-25T17:30:09Z,2020-02-25T17:30:09Z,,0,0,0,0,0
+460825128,3456,YOLACT,closed,chongzhou96,2020-08-01T06:02:52Z,2023-04-07T10:42:01Z,2020-09-26T15:56:41Z,2020-09-26T15:56:41Z,,0,0,0,0,0
+381986634,2181,fix typo mmedetection -> mmdetection,closed,hkzhang95,2020-03-01T03:23:08Z,2023-04-07T10:41:49Z,2020-03-01T03:47:22Z,2020-03-01T03:47:22Z,,0,0,0,0,0
+391429594,2301,fix bug of mse_loss,closed,penghaozhou,2020-03-20T09:25:28Z,2023-04-07T10:41:41Z,2020-03-21T04:01:27Z,2020-03-21T04:01:27Z,,0,0,0,0,0
+400117872,2408,Support for custom classes,closed,igonro,2020-04-07T08:26:54Z,2023-04-07T10:41:32Z,2020-04-11T10:35:22Z,2020-04-11T10:35:22Z,,0,0,0,0,0
+403666753,2457,consummating xml_style.py,closed,yuzhj,2020-04-15T10:11:47Z,2023-04-07T10:41:16Z,2020-04-26T16:55:33Z,2020-04-26T16:55:32Z,,0,0,0,0,0
+414183480,2630,typo in model zoo,closed,hiyyg,2020-05-06T15:53:04Z,2023-04-07T10:40:50Z,2020-05-06T15:54:53Z,2020-05-06T15:54:53Z,,0,0,0,0,0
+415901411,2682,Implement NASFCOS,closed,Chrisfsj2051,2020-05-11T06:42:58Z,2023-04-07T10:40:38Z,2020-05-24T09:41:32Z,2020-05-24T09:41:32Z,,0,0,0,0,0
+417524748,2713,added missing cython to docker file,closed,aboettcher,2020-05-13T18:04:02Z,2023-04-07T10:40:27Z,2020-05-14T05:28:49Z,2020-05-14T05:28:49Z,,0,0,0,0,0
+476814532,3666,VarifocalNet,closed,hyz-xmaster,2020-09-01T05:12:55Z,2023-04-07T10:40:08Z,2020-10-29T03:17:23Z,2020-10-29T03:17:23Z,,0,0,0,0,0
+435251141,3045,fix config bug in docs/tutorials/finetune.md,closed,mrbulb,2020-06-16T14:22:43Z,2023-04-07T10:39:56Z,2020-06-16T15:19:48Z,2020-06-16T15:19:48Z,,0,0,0,0,0
+457022094,3420,add GUI link in getting_started.md,closed,Chien-Hung,2020-07-27T09:14:02Z,2023-04-07T10:39:25Z,2020-07-27T13:36:13Z,2020-07-27T13:36:13Z,,0,0,0,0,0
+469429526,3575,Do not rescale boxes when their number is 0,closed,mprzewie,2020-08-18T11:16:55Z,2023-04-07T10:34:15Z,2020-08-18T15:35:57Z,2020-08-18T15:35:57Z,,0,0,0,0,0
+497200943,3876,[Docs] Fix typo in docs/tutorials/new_dataset.md,closed,LabMemNo003,2020-10-03T02:28:57Z,2023-04-07T10:32:55Z,2020-10-03T08:11:25Z,2020-10-03T08:11:25Z,,0,0,0,0,0
+512801130,4031,Refactor doc,closed,AemikaChow,2020-10-30T06:56:50Z,2023-04-07T10:32:15Z,2020-11-01T04:56:57Z,2020-11-01T04:56:57Z,,0,0,0,0,0
+513581522,4041,fix errors in docs/2_new_data_model.md,closed,miaosakurai,2020-11-01T09:34:43Z,2023-04-07T10:32:05Z,2020-11-01T14:05:59Z,2020-11-01T14:05:59Z,,0,0,0,0,0
+523848054,4145,Update get_started.md,closed,renjithbaby23,2020-11-19T10:43:19Z,2023-04-07T10:31:47Z,2020-11-21T03:43:38Z,2020-11-21T03:43:38Z,,0,0,0,0,0
+530022498,4210,Update gfl_head.py,closed,ace7chan,2020-12-01T06:32:47Z,2023-04-07T10:31:03Z,2020-12-08T05:56:24Z,2020-12-08T05:56:24Z,,0,0,0,0,0
+531432083,4224,Update cross_entropy_loss.py,closed,ggjy,2020-12-03T03:36:56Z,2023-04-07T10:30:51Z,2020-12-06T12:16:48Z,2020-12-06T12:16:48Z,,0,0,0,0,0
+536561975,4283,"add missing mode ""giou"" in comments for iou2d_calculator.py",closed,kaiyux,2020-12-11T06:52:16Z,2023-04-07T10:30:24Z,2020-12-11T08:00:36Z,2020-12-11T08:00:36Z,,0,0,0,0,0
+552837000,4429,Corrected the get_started.md example inference,closed,kazet,2021-01-11T15:46:42Z,2023-04-07T10:29:30Z,2021-01-12T09:11:17Z,2021-01-12T09:11:17Z,,0,0,0,0,0
+559647520,4510,Updated 404 link for Cityscape setup,closed,digantamisra98,2021-01-22T01:37:37Z,2023-04-07T10:29:12Z,2021-01-25T12:35:51Z,2021-01-25T12:35:51Z,,0,0,0,0,0
+601633933,4836,doc(quickrun): minor syntax typo fix,closed,tczhao,2021-03-26T13:53:41Z,2023-04-07T10:27:40Z,2021-03-26T13:55:17Z,2021-03-26T13:55:17Z,,0,0,0,0,0
+606818000,4875,fix bug in mean_ap by 11 points,closed,ZephyrusKylin,2021-04-01T03:33:51Z,2023-04-07T10:27:21Z,2021-04-06T08:57:22Z,2021-04-06T08:57:22Z,,0,0,0,0,0
+607643550,4880,move mmpycocotools version check to when it is used,closed,ppwwyyxx,2021-04-01T20:11:09Z,2023-04-07T10:27:11Z,2021-04-02T07:17:43Z,2021-04-02T07:17:43Z,,0,0,0,0,0
+613184660,4936,[Fix] check for CLASSES in checkpoint meta,closed,agim-a,2021-04-12T00:43:26Z,2023-04-07T10:26:44Z,2021-04-12T03:49:51Z,2021-04-12T03:49:50Z,,0,0,0,0,0
+617786529,5013,Fix typo,closed,adursun,2021-04-19T08:38:24Z,2023-04-07T10:26:23Z,2021-04-19T08:42:42Z,2021-04-19T08:42:42Z,,0,0,0,0,0
+632419355,5121,fixed torch.nonzero warning,closed,namihagi,2021-05-07T08:45:53Z,2023-04-07T10:25:04Z,2021-05-08T14:05:41Z,2021-05-08T14:05:41Z,,0,0,0,0,0
+234136900,127,support training on dataset with multiple ann_files,closed,wangg12,2018-11-28T03:34:24Z,2023-04-07T03:04:50Z,2018-11-30T08:00:34Z,2018-11-30T08:00:34Z,,0,0,0,0,0
+613356298,4943,update mmcv install method,closed,hjin2902,2021-04-12T07:37:39Z,2023-04-07T03:04:00Z,2021-04-14T05:11:38Z,2021-04-14T05:11:38Z,,0,0,0,0,0
+652396504,5218,Make YOLOv3 neck more flexible,closed,hokmund,2021-05-25T14:19:29Z,2023-04-07T03:01:15Z,2021-06-16T13:37:44Z,2021-06-16T13:37:44Z,,0,0,0,0,0
+286391728,771,Ignore .log.json,closed,innerlee,2019-06-08T09:22:56Z,2023-04-07T02:54:52Z,2019-06-09T04:46:24Z,2019-06-09T04:46:24Z,,0,0,0,0,0
+591515292,4758,add Localization Distillation for Object Detection ,closed,HikariTJU,2021-03-12T09:31:35Z,2023-04-07T02:51:15Z,2021-03-30T07:59:07Z,2021-03-30T07:59:06Z,,0,0,0,0,0
+1292507929,10038,[WIP][Fix] Solve the problem of lvis AP degradation in 3.x,closed,BIGWangYuDong,2023-03-28T07:46:47Z,2023-04-06T15:54:48Z,2023-04-06T15:54:39Z,,,0,0,0,0,0
+955487693,8118,changed example hook name it was specified wrongly in useful_hook doc.,closed,p-mishra1,2022-06-02T05:23:37Z,2023-04-06T12:34:59Z,2022-06-07T10:56:47Z,2022-06-07T10:56:47Z,,0,0,0,0,0
+957779787,8127,Fix swin backbone absolute pos_embed,closed,normster,2022-06-03T19:23:15Z,2023-04-06T12:34:56Z,2022-08-23T04:01:59Z,2022-08-23T04:01:59Z,,0,0,0,0,0
+1218655044,9666,Bump onnx from 1.7.0 to 1.13.0 in /requirements,open,dependabot[bot],2023-01-27T01:13:11Z,2023-04-06T06:59:01Z,,,,0,0,0,0,0
+1304195551,10092,Bump version to 3.0.0,closed,hhaAndroid,2023-04-06T06:41:38Z,2023-04-06T06:55:28Z,2023-04-06T06:55:28Z,2023-04-06T06:55:28Z,,0,0,0,0,0
+1304061764,10091,Update version and README,closed,hhaAndroid,2023-04-06T03:30:59Z,2023-04-06T06:38:48Z,2023-04-06T06:38:48Z,2023-04-06T06:38:48Z,,0,0,0,0,0
+239948098,194,Update TECHNICAL_DETAILS.md,closed,patrick-llgc,2018-12-19T19:24:29Z,2023-04-06T06:27:29Z,2018-12-20T07:51:56Z,2018-12-20T07:51:56Z,,0,0,0,0,0
+246477081,279,fix docstring,closed,qianyizhang,2019-01-22T04:49:44Z,2023-04-06T06:26:52Z,2019-01-22T05:29:24Z,2019-01-22T05:29:24Z,,0,0,0,0,0
+273461483,545,Fix error at `DeformConvPack` module,closed,lyuwenyu,2019-04-25T10:14:54Z,2023-04-06T06:25:12Z,2019-04-25T23:21:47Z,2019-04-25T23:21:47Z,,0,0,0,0,0
+278038308,630,fix bug of show_result,closed,zhijl,2019-05-12T08:53:36Z,2023-04-06T06:24:26Z,2019-05-12T23:58:17Z,2019-05-12T23:58:16Z,,0,0,0,0,0
+281896611,706,"Code for ""Gradient Harmonized Single-stage Detector""",closed,libuyu,2019-05-24T07:22:55Z,2023-04-06T06:23:57Z,2019-05-28T11:44:28Z,2019-05-28T11:44:28Z,,0,0,0,0,0
+283518482,737,Fix aug_test_rpn error,closed,sty-yyj,2019-05-30T05:14:32Z,2023-04-06T06:23:07Z,2019-06-12T14:21:56Z,2019-06-12T14:21:55Z,,0,0,0,0,0
+283920881,739,update GETTING_STARTED.md,closed,SlideLucask,2019-05-31T06:56:05Z,2023-04-06T06:22:28Z,2019-05-31T07:30:28Z,2019-05-31T07:30:28Z,,0,0,0,0,0
+288557681,809,"Code for ""Double-Head RCNN: Rethinking Classification and Localization for Object Detection""",closed,wuyuebupt,2019-06-15T13:42:31Z,2023-04-06T06:21:23Z,2019-07-29T13:13:06Z,2019-07-29T13:13:06Z,,0,0,0,0,0
+288559456,810,"Code for ""Grid R-CNN""",closed,luxiin,2019-06-15T14:14:37Z,2023-04-06T06:20:22Z,2019-06-24T15:21:21Z,2019-06-24T15:21:21Z,,0,0,0,0,0
+290541257,846,fix potential bug in binary_cross_entropy,closed,chensnathan,2019-06-21T09:52:18Z,2023-04-06T06:18:25Z,2019-06-21T10:47:04Z,2019-06-21T10:47:04Z,,0,0,0,0,0
+1301004706,10079,Update 3.x link to main,closed,hhaAndroid,2023-04-04T03:57:32Z,2023-04-06T03:03:22Z,2023-04-06T03:03:22Z,2023-04-06T03:03:22Z,,0,0,0,0,0
+754753163,6252,Fix link error in the config documentation,closed,AndreaPi,2021-10-10T18:04:22Z,2023-04-04T13:28:40Z,2021-10-11T01:52:13Z,2021-10-11T01:52:13Z,,0,0,0,0,0
+797602847,6725,[Docs]  Add Chinese version of customize_models,closed,jliu-ac,2021-12-08T08:34:38Z,2023-04-04T13:17:35Z,2022-01-12T14:20:41Z,2022-01-12T14:20:41Z,,0,0,0,0,0
+810657762,6906,Fix the config link of the on the maskrcnn_fp16,closed,kimnamu,2021-12-28T00:49:35Z,2023-04-04T13:12:16Z,2021-12-28T07:22:06Z,2021-12-28T07:22:06Z,,0,0,0,0,0
+812279439,6936,Fix typo in code snippet,closed,srishilesh,2021-12-31T07:53:18Z,2023-04-04T13:10:31Z,2022-01-05T15:58:03Z,2022-01-05T15:58:03Z,,0,0,0,0,0
+816102461,6966,Fix BadZipFile Error when build docker,closed,DIYer22,2022-01-07T05:24:44Z,2023-04-04T13:09:04Z,2022-01-19T12:14:05Z,2022-01-19T12:14:05Z,,0,0,0,0,0
+817191059,6973,Update retinanet_swin-t-p4-w7_fpn_1x_coco.py,closed,ShengliLiu,2022-01-10T02:48:40Z,2023-04-04T13:05:56Z,2022-01-13T03:22:59Z,2022-01-13T03:22:59Z,,0,0,0,0,0
+826068232,7033,Update useful_tools.md,closed,ciusji,2022-01-19T03:13:42Z,2023-04-04T13:02:07Z,2022-01-19T11:18:06Z,2022-01-19T11:18:06Z,,0,0,0,0,0
+1186769242,9578,"[Doc]: update user guide: ""finetune.md, inference.md""",closed,DanShouzhu,2023-01-05T16:39:53Z,2023-04-04T10:44:30Z,2023-02-23T05:01:40Z,2023-02-23T05:01:40Z,,0,0,0,0,0
+832887876,7080,[Fix] Fix MixUp transform filter boxes failing case,closed,dvansa,2022-01-26T23:08:25Z,2023-04-04T10:01:47Z,2022-02-09T12:00:28Z,2022-02-09T12:00:28Z,,0,0,0,0,0
+1215796202,9663,Fix validation loss logging,closed,eantono,2023-01-24T22:25:57Z,2023-04-04T10:00:54Z,2023-01-28T06:54:01Z,2023-01-28T06:54:01Z,,0,0,0,0,0
+834661522,7095,Update useful_tools.md,closed,AntoAndGar,2022-01-28T17:22:18Z,2023-04-04T10:00:27Z,2022-02-08T03:24:31Z,2022-02-08T03:24:31Z,,0,0,0,0,0
+835136879,7101,[Fix] cannot to save the best checkpoint when the key_score is None,closed,huang-jesse,2022-01-29T14:07:55Z,2023-04-04T09:58:45Z,2022-02-09T11:57:49Z,2022-02-09T11:57:49Z,,0,0,0,0,0
+841449844,7124,fix typos in comment,closed,topsy404,2022-02-07T08:29:20Z,2023-04-04T09:55:22Z,2022-02-08T02:20:25Z,2022-02-08T02:20:25Z,,0,0,0,0,0
+854654283,7175,Remove the inplace addition in `FPN`,closed,zhijian-liu,2022-02-16T17:30:22Z,2023-04-04T09:51:03Z,2022-02-22T11:18:09Z,2022-02-22T11:18:09Z,,0,0,0,0,0
+1270615674,9915,[Feature] support multi test for mlu,closed,fwenguang,2023-03-10T04:40:53Z,2023-04-04T09:23:08Z,2023-03-13T13:22:30Z,2023-03-13T13:22:29Z,,0,0,0,0,0
+1056875938,8799,[Docs] Add mmengine in readme,closed,hewanru-bit,2022-09-15T05:18:50Z,2023-04-04T09:07:24Z,2022-09-15T08:09:23Z,2022-09-15T08:09:23Z,,0,0,0,0,0
+1057209204,8803,[Docs] Fix Faster R-CNN Readme,closed,sudoAimer,2022-09-15T10:43:07Z,2023-04-04T09:06:56Z,2022-09-21T05:52:47Z,2022-09-21T05:52:47Z,,0,0,0,0,0
+1057275285,8805,[PR from 3.x_doc] Update FasterRCNN doc with the right URL of R-50-FPN with BoundedIoULoss ,closed,songyuc,2022-09-15T11:41:21Z,2023-04-04T09:06:29Z,2022-09-19T08:40:59Z,2022-09-19T08:40:59Z,,0,0,0,0,0
+673571945,5389,allow to configure out the mask_head of the HTC algorithm,closed,mxotten,2021-06-18T15:39:26Z,2023-04-04T06:16:03Z,2021-06-25T12:33:50Z,2021-06-25T12:33:50Z,,0,0,0,0,0
+683113490,5521,fixing crash caused by `get_root_logger`,closed,qingswu,2021-07-04T04:36:09Z,2023-04-04T06:14:40Z,2021-07-05T01:36:42Z,2021-07-05T01:36:42Z,,0,0,0,0,0
+701238071,5756,make output result of ImageToTensor contiguous,closed,zywvvd,2021-08-02T08:09:08Z,2023-04-04T06:10:07Z,2021-08-16T01:47:52Z,2021-08-16T01:47:52Z,,0,0,0,0,0
+701899420,5767,[Feature] Add YOLOXLrUpdaterHOOK,closed,HsLOL,2021-08-03T02:15:25Z,2023-04-04T06:09:37Z,2021-08-06T05:03:48Z,2021-08-06T05:03:48Z,,0,0,0,0,0
+1299352597,10069,Add changelog of v3.0.0,closed,hhaAndroid,2023-04-03T03:11:50Z,2023-04-04T03:57:49Z,2023-04-04T03:57:49Z,,,0,0,0,0,0
+1279839678,9970,[Refactor] Refactor WIDERFace dataset based on #8468,closed,RangiLyu,2023-03-17T08:15:15Z,2023-04-04T03:09:21Z,2023-04-03T06:31:09Z,2023-04-03T06:31:09Z,,0,0,0,0,0
+1228985427,9723,Support to modify `non_blocking` parameters,closed,hhaAndroid,2023-02-04T06:34:08Z,2023-04-04T03:09:21Z,2023-02-08T13:52:42Z,2023-02-08T13:52:42Z,,0,0,0,0,0
+291473642,865,Update GETTING_STARTED.md,closed,nattichai,2019-06-25T09:47:39Z,2023-04-04T03:06:39Z,2019-06-25T12:07:05Z,2019-06-25T12:07:05Z,,0,0,0,0,0
+291489380,867,Update INSTALL.md,closed,ozps,2019-06-25T10:28:45Z,2023-04-04T03:06:37Z,2019-06-25T12:06:42Z,2019-06-25T12:06:41Z,,0,0,0,0,0
+292281819,882,Only import torch.distributed when needed,closed,zhangtemplar,2019-06-27T06:08:13Z,2023-04-04T03:05:32Z,2019-06-27T16:37:49Z,2019-06-27T16:37:49Z,,0,0,0,0,0
+296383230,975,Add exceptions handling while validating,closed,TzuChanChuang,2019-07-10T23:00:47Z,2023-04-04T03:05:27Z,2019-07-25T03:02:20Z,2019-07-25T03:02:20Z,,0,0,0,0,0
+297779036,1004,pytorch checkpoint files added to gitignore,closed,run-me,2019-07-15T20:40:31Z,2023-04-04T03:05:25Z,2019-07-20T13:42:26Z,2019-07-20T13:42:26Z,,0,0,0,0,0
+303820899,1107,"fixed a misspell in the ""filename"" key of img_info",closed,IliaLarchenko,2019-08-02T14:55:00Z,2023-04-04T03:05:18Z,2019-08-02T14:58:35Z,2019-08-02T14:58:35Z,,0,0,0,0,0
+303853615,1108,fixed typo in readme -- from colledges to colleges,closed,ramkakarala,2019-08-02T16:27:44Z,2023-04-04T03:05:15Z,2019-08-02T16:28:41Z,2019-08-02T16:28:40Z,,0,0,0,0,0
+304028269,1115,Added vertical flipping in bbox_flip,closed,dhananjaisharma10,2019-08-03T22:05:46Z,2023-04-04T03:05:13Z,2019-08-07T05:06:18Z,2019-08-07T05:06:18Z,,0,0,0,0,0
+310654355,1250,add g++ requirement for INSTALL.md.,closed,gfjiangly,2019-08-25T03:07:51Z,2023-04-04T03:05:08Z,2019-08-25T06:04:16Z,2019-08-25T06:04:16Z,,0,0,0,0,0
+312674082,1306,Optimize Dockerfile,closed,yansun1996,2019-08-30T10:10:13Z,2023-04-04T03:05:03Z,2019-08-31T15:41:40Z,2019-08-31T15:41:40Z,,0,0,0,0,0
+313758573,1326,[DeformConv] Fix zero outputs when not running on cuda:0,closed,Lyken17,2019-09-03T20:45:32Z,2023-04-04T03:04:59Z,2019-09-05T03:20:10Z,2019-09-05T03:20:10Z,,0,0,0,0,0
+317734571,1399,add multi nodes distributed test support,closed,valuefish,2019-09-16T06:30:35Z,2023-04-04T03:04:56Z,2019-11-29T15:28:59Z,2019-11-29T15:28:59Z,,0,0,0,0,0
+317802509,1404,Fix #1223,closed,Zidet,2019-09-16T10:01:55Z,2023-04-04T03:04:54Z,2019-09-25T07:35:42Z,2019-09-25T07:35:42Z,,0,0,0,0,0
+1297687553,10060,task #11: Add translation of models.,closed,jts250,2023-03-31T12:35:05Z,2023-04-04T02:53:30Z,2023-04-04T02:53:30Z,,,0,0,0,0,0
+1073915147,8928,ci: add minimum GitHub token permissions for workflows,closed,ashishkurmi,2022-10-02T18:36:04Z,2023-04-03T15:03:08Z,2022-12-12T03:55:19Z,2022-12-12T03:55:19Z,,0,0,0,0,0
+1093309895,9086,add eiou impl,closed,Wwupup,2022-10-20T06:52:37Z,2023-04-03T14:39:49Z,2022-10-27T03:57:31Z,2022-10-27T03:57:31Z,,0,0,0,0,0
+826040942,7032,[Fix] Keep the same weights before reassign in the PAA head,closed,zimoqingfeng,2022-01-19T02:13:18Z,2023-04-03T11:31:21Z,2022-02-08T08:24:18Z,2022-02-08T08:24:18Z,,0,0,0,0,0
+1000948215,8391,Add checkpoint file download link for doc,closed,xiaoyuan0203,2022-07-19T15:42:33Z,2023-04-03T10:43:12Z,2022-07-27T02:40:18Z,2022-07-27T02:40:18Z,,0,0,0,0,0
+293389094,907,fix typo,closed,eugenelawrence,2019-07-01T15:20:44Z,2023-04-03T10:22:14Z,2019-07-01T15:22:10Z,2019-07-01T15:22:10Z,,0,0,0,0,0
+309675278,1233,move  docs to particular folders,closed,Borda,2019-08-21T20:31:57Z,2023-04-03T10:03:48Z,2019-08-22T09:06:26Z,2019-08-22T09:06:26Z,,0,0,0,0,0
+300503570,1049,Added an option to save inference results to the json file,closed,ternaus,2019-07-23T23:10:05Z,2023-04-03T10:03:44Z,2019-07-25T03:10:27Z,2019-07-25T03:10:27Z,,0,0,0,0,0
+343586156,1693,shuffle passed as function argument instead of kwargs,closed,defqoon,2019-11-20T19:19:54Z,2023-04-03T10:03:39Z,2019-11-24T14:00:45Z,2019-11-24T14:00:44Z,,0,0,0,0,0
+275672722,576,fix a bug in basicblock,closed,liuzili97,2019-05-03T11:03:27Z,2023-04-03T10:03:37Z,2019-05-04T01:41:46Z,2019-05-04T01:41:46Z,,0,0,0,0,0
+347555389,1739,add instaboost in coco.py,closed,GothicAi,2019-12-02T10:41:55Z,2023-04-03T10:03:35Z,2020-01-04T13:40:47Z,2020-01-04T13:40:47Z,,0,0,0,0,0
+358289842,1899,fix annotation mistake according to (#1858),closed,CuriousCat-7,2019-12-31T06:50:37Z,2023-04-03T10:03:29Z,2019-12-31T12:15:54Z,2019-12-31T12:15:54Z,,0,0,0,0,0
+358549322,1906,solve the bug when seg_prefix is list,closed,saltknox,2020-01-02T04:22:09Z,2023-04-03T10:03:26Z,2020-01-02T08:05:05Z,2020-01-02T08:05:05Z,,0,0,0,0,0
+356889301,1872,"Code for Paper ""Bridging the Gap Between Anchor-based and Anchor-free…",closed,hust-kevin,2019-12-26T06:51:36Z,2023-04-03T10:03:24Z,2020-01-21T12:56:15Z,2020-01-21T12:56:15Z,,0,0,0,0,0
+315063454,1354,Albumentations augs wrapper,closed,tyomj,2019-09-06T18:20:59Z,2023-04-03T10:03:22Z,2019-10-05T06:57:14Z,2019-10-05T06:57:14Z,,0,0,0,0,0
+374647734,2093,fix pad_val not used in class Pad when pad to a fixed size,closed,lhcalibur,2020-02-13T03:18:00Z,2023-04-03T10:03:01Z,2020-02-13T03:48:31Z,2020-02-13T03:48:31Z,,0,0,0,0,0
+375798332,2103,fix workflow problem,closed,abcxs,2020-02-16T07:55:40Z,2023-04-03T10:02:34Z,2020-02-17T04:22:18Z,2020-02-17T04:22:18Z,,0,0,0,0,0
+330994611,1573,Fix wrong keyword argument 'nms_cfg' in htc,closed,WangChuanYuan,2019-10-22T13:32:24Z,2023-04-03T10:02:10Z,2019-10-23T10:32:03Z,2019-10-23T10:32:03Z,,0,0,0,0,0
+365631854,2007,Fix typo activatation -> activation,closed,whikwon,2020-01-22T02:24:13Z,2023-04-03T10:01:52Z,2020-01-22T03:18:24Z,2020-01-22T03:18:24Z,,0,0,0,0,0
+391426747,2300,Fix a documentation error in GETTING_STARTED.md,closed,Msirte,2020-03-20T09:18:15Z,2023-04-03T10:00:55Z,2020-03-20T10:59:35Z,2020-03-20T10:59:35Z,,0,0,0,0,0
+388580662,2261,save file instead of show image in windows,closed,MeepoAII,2020-03-15T05:30:19Z,2023-04-03T10:00:34Z,2020-03-15T09:23:27Z,2020-03-15T09:23:27Z,,0,0,0,0,0
+407359940,2507,add dilation to conv_offset,closed,vanpersie32,2020-04-22T15:18:54Z,2023-04-03T09:58:13Z,2020-04-24T05:13:53Z,2020-04-24T05:13:53Z,,0,0,0,0,0
+1246227119,9797,Update customize_runtime.md,closed,co63oc,2023-02-19T08:09:06Z,2023-04-03T09:12:15Z,2023-02-19T13:45:09Z,2023-02-19T13:45:09Z,,0,0,0,0,0
+1102852595,9175,Delete redundant Chinese characters in config,closed,BainOuO,2022-10-28T09:26:38Z,2023-04-03T09:07:58Z,2022-10-28T10:23:02Z,2022-10-28T10:23:02Z,,0,0,0,0,0
+1260230388,9861,[Fix] fix Sequence import error,closed,yukke42,2023-03-02T10:37:35Z,2023-04-03T09:05:51Z,2023-03-03T02:12:06Z,2023-03-03T02:12:05Z,,0,0,0,0,0
+1049673452,8755,[Fix ] MMDetWandbHook does not support offline mode,closed,i-aki-y,2022-09-08T07:40:43Z,2023-04-03T08:56:52Z,2022-09-19T10:55:06Z,2022-09-19T10:55:06Z,,0,0,0,0,0
+1193657127,9614,Suitable for Ascend. Modify SSD and RetinaHead Model,closed,akstt,2023-01-11T11:17:25Z,2023-04-03T08:55:33Z,2023-01-18T11:14:52Z,2023-01-18T11:14:52Z,,0,0,0,0,0
+1189177763,9589,[Fix] Fix mmdet flops error,closed,zwhus,2023-01-07T11:30:30Z,2023-04-03T08:35:18Z,2023-01-18T11:50:42Z,2023-01-18T11:50:42Z,,0,0,0,0,0
+886038135,7498,Update README.md,closed,osbm,2022-03-22T13:15:39Z,2023-04-03T08:07:49Z,2022-03-23T00:53:52Z,2022-03-23T00:53:52Z,,0,0,0,0,0
+886814445,7507,update-mosaic-to-how-to,closed,bunge-bedstraw-herb,2022-03-23T06:29:39Z,2023-04-03T08:06:45Z,2022-03-23T07:53:13Z,2022-03-23T07:53:13Z,,0,0,0,0,0
+886881720,7510,Frozen misspelled in docs,closed,ceroytres,2022-03-23T07:44:46Z,2023-04-03T08:06:01Z,2022-03-23T07:49:48Z,2022-03-23T07:49:47Z,,0,0,0,0,0
+1299550252,10074,Add RTMDet-Nano WiderFace config,open,hhaAndroid,2023-04-03T07:14:30Z,2023-04-03T07:52:14Z,,,,0,0,0,0,0
+894528813,7586,[WIP] Support Mobilenetv3 (Draft PR),closed,HJoonKwon,2022-03-30T14:34:40Z,2023-04-03T07:32:46Z,2023-04-03T07:32:46Z,,,0,0,0,0,0
+871787658,7322,[Fix] Fix num_last_epochs logic for the hooks in YOLOX training,closed,HJoonKwon,2022-03-04T15:50:06Z,2023-04-03T07:32:46Z,2023-04-03T07:32:46Z,,,0,0,0,0,0
+713557746,5897,[Enchance] Add filter rules of Mosaic transform,closed,zhaojinjian0000,2021-08-16T15:57:14Z,2023-04-03T07:13:56Z,2021-09-14T13:26:15Z,2021-09-14T13:26:15Z,,0,0,0,0,0
+713889067,5899,[Fix] fix a yolox bug when applying bbox rescaling in test mode (reopened),closed,viibridges,2021-08-17T03:39:38Z,2023-04-03T07:13:04Z,2021-08-25T07:51:30Z,2021-08-25T07:51:29Z,,0,0,0,0,0
+715252282,5915,[Docs]Add Chinese translation of docs_zh-CN/tutorials/customize_dataset.md,closed,justiceeem,2021-08-18T16:37:30Z,2023-04-03T07:12:36Z,2021-09-14T13:20:26Z,2021-09-14T13:20:26Z,,0,0,0,0,0
+717931042,5935,Adapt browse_dataset for concatenated datasets.,closed,guigarfr,2021-08-23T15:16:30Z,2023-04-03T07:07:37Z,2021-08-30T02:32:18Z,2021-08-30T02:32:18Z,,0,0,0,0,0
+726797939,6034,Fix missing '**kwargs' parameters passing to imshow_bboxes(),closed,MartaYang,2021-09-03T13:10:51Z,2023-04-03T07:05:45Z,2021-09-07T07:42:52Z,2021-09-07T07:42:52Z,,0,0,0,0,0
+737790746,6140,extra_repr for DropBlock layer,closed,guillaumefrd,2021-09-20T17:37:42Z,2023-04-03T07:03:36Z,2021-09-27T12:46:41Z,2021-09-27T12:46:41Z,,0,0,0,0,0
+754981011,6256,Fix kwargs parameter missing error in two_stage,closed,pingguokiller,2021-10-11T07:09:34Z,2023-04-03T06:58:12Z,2021-10-12T01:42:34Z,2021-10-12T01:42:34Z,,0,0,0,0,0
+755484057,6259,auto_augment: img_shape broken,closed,yellowdolphin,2021-10-11T17:12:59Z,2023-04-03T06:55:20Z,2021-10-18T15:07:58Z,2021-10-18T15:07:58Z,,0,0,0,0,0
+1299515960,10073,Fix metainfo of softteacher,closed,hhaAndroid,2023-04-03T06:47:14Z,2023-04-03T06:50:51Z,2023-04-03T06:50:50Z,2023-04-03T06:50:50Z,,0,0,0,0,0
+1297322908,10058,Translating visualization documents into English,closed,xiejiajiannb,2023-03-31T07:56:00Z,2023-04-03T01:55:13Z,2023-04-03T01:55:13Z,2023-04-03T01:55:13Z,,0,0,0,0,0
+409186257,2548,Fix loss_bbox in fovea_head.py when num_pos=0,closed,anurag1paul,2020-04-27T00:15:20Z,2023-03-31T09:51:50Z,2020-05-03T11:47:19Z,2020-05-03T11:47:18Z,,0,0,0,0,0
+415002233,2647,spelling miss,closed,tinunkai,2020-05-08T01:48:26Z,2023-03-31T09:51:43Z,2020-05-08T03:27:16Z,2020-05-08T03:27:16Z,,0,0,0,0,0
+417661211,2714,adds note to remove build folder when rebuilding,closed,grayson-hilliard,2020-05-13T23:16:09Z,2023-03-31T09:48:46Z,2020-05-15T05:57:13Z,2020-05-15T05:57:13Z,,0,0,0,0,0
+420092508,2768,Fix typos in getting_start.md,closed,kinredon,2020-05-19T12:39:22Z,2023-03-31T09:48:28Z,2020-05-19T13:19:00Z,2020-05-19T13:19:00Z,,0,0,0,0,0
+430323585,2932,Update transforms.py,closed,DacDinh147,2020-06-07T19:39:37Z,2023-03-31T09:48:23Z,2020-06-08T13:16:48Z,2020-06-08T13:16:48Z,,0,0,0,0,0
+415895457,2681,fix bug. use f-string format,closed,bailiqun,2020-05-11T06:26:34Z,2023-03-31T09:48:11Z,2020-05-11T06:48:12Z,2020-05-11T06:48:12Z,,0,0,0,0,0
+432217418,2968,add mmfashion dataset,closed,veralauee,2020-06-10T05:46:10Z,2023-03-31T09:48:02Z,2020-06-17T04:51:35Z,2020-06-17T04:51:35Z,,0,0,0,0,0
+437064832,3077,doc: Update install.md,closed,nguyenhoan1988,2020-06-19T12:07:35Z,2023-03-31T09:47:58Z,2020-07-04T17:34:34Z,2020-07-04T17:34:34Z,,0,0,0,0,0
+444014526,3194,Add transform types todo,closed,AlphonsG,2020-07-03T11:42:46Z,2023-03-31T09:47:39Z,2020-07-03T11:52:32Z,2020-07-03T11:52:32Z,,0,0,0,0,0
+433950474,2999,Fixed nan loss by filtering out-of-frame gt_bboxes in coco.py,closed,Jokoe66,2020-06-13T03:10:18Z,2023-03-31T09:46:09Z,2020-06-15T05:23:14Z,2020-06-15T05:23:14Z,,0,0,0,0,0
+448701780,3308,Fix config directories in getting started Doc,closed,kaushikb11,2020-07-14T07:31:10Z,2023-03-31T09:45:10Z,2020-07-14T11:43:30Z,2020-07-14T11:43:30Z,,0,0,0,0,0
+780276520,6501,[Fix] Avoid infinite GPU waiting in dist training,closed,fingertap,2021-11-15T03:44:47Z,2023-03-31T09:42:39Z,2021-11-24T07:10:43Z,2021-11-24T07:10:42Z,,0,0,0,0,0
+222939202,28,"update coco dataset to support proposals with shapes (n, 5)",closed,myownskyW7,2018-10-15T15:02:39Z,2023-03-31T09:28:33Z,2018-10-15T15:26:20Z,2018-10-15T15:26:20Z,,0,0,0,0,0
+759578554,6293,randomaffine bbox coordinate recorrection,closed,DapangpangX,2021-10-16T02:32:48Z,2023-03-31T09:12:57Z,2021-10-25T03:07:13Z,2021-10-25T03:07:13Z,,0,0,0,0,0
+766440170,6378,Fix the bug: 'Upsample' object has no attribute 'weight',closed,boyden,2021-10-26T13:01:33Z,2023-03-31T09:08:02Z,2021-10-27T08:58:20Z,2021-10-27T08:58:20Z,,0,0,0,0,0
+766870394,6382,fix obsoleted Colab link in MMDetection Tutorial,closed,onnkeat,2021-10-26T21:49:40Z,2023-03-31T09:07:25Z,2021-10-27T03:00:12Z,2021-10-27T03:00:12Z,,0,0,0,0,0
+412450699,2584,roi_extractors: GRoIE addition,closed,hachreak,2020-05-02T13:20:06Z,2023-03-31T09:03:40Z,2020-06-08T15:51:31Z,2020-06-08T15:51:31Z,,0,0,0,0,0
+777399364,6476,Create 2_new_data_model.md,closed,siatwangmin,2021-11-10T09:39:35Z,2023-03-31T08:57:42Z,2022-02-13T09:32:55Z,2022-02-13T09:32:55Z,,0,0,0,0,0
+781306054,6514,Make OHEM work with seesaw loss,closed,ohwi,2021-11-16T04:53:32Z,2023-03-31T08:27:32Z,2021-11-19T11:34:20Z,2021-11-19T11:34:20Z,,0,0,0,0,0
+584695925,4712,improve coco_error_analysis.py,closed,fcakyon,2021-03-04T10:40:11Z,2023-03-31T07:54:44Z,2021-03-25T13:29:28Z,2021-03-25T13:29:28Z,,0,0,0,0,0
+722356613,5975,fix  clerical error,closed,www516717402,2021-08-30T10:16:42Z,2023-03-31T07:30:39Z,2021-09-01T01:16:56Z,2021-09-01T01:16:56Z,,0,0,0,0,0
+455963507,3394,Update iou_loss.py,closed,PeterVennerstrom,2020-07-23T21:33:29Z,2023-03-31T07:29:39Z,2020-07-24T10:49:13Z,2020-07-24T10:49:13Z,,0,0,0,0,0
+894088827,7578,feat(mlu): Support PyTorch backend on MLU.,closed,zhangsanfeng2022,2022-03-30T07:55:34Z,2023-03-31T07:28:43Z,2022-04-22T11:32:47Z,2022-04-22T11:32:47Z,,0,0,0,0,0
+901553785,7647,Dice cost,closed,FANG-MING,2022-04-06T14:02:42Z,2023-03-31T07:24:40Z,2022-04-13T13:50:38Z,2022-04-13T13:50:38Z,,0,0,0,0,0
+930676224,7937,convert scale_factors from list to array to prevent UserWarning,closed,austinmw,2022-05-09T03:41:07Z,2023-03-31T07:20:01Z,2022-05-11T14:46:29Z,2022-05-11T14:46:29Z,,0,0,0,0,0
+557215009,4474,fix: repr formats,closed,LutingWang,2021-01-19T07:02:48Z,2023-03-31T07:19:33Z,2021-01-19T07:38:31Z,2021-01-19T07:38:31Z,,0,0,0,0,0
+897690954,7610,Fixed spelling errors,closed,mattcasey02,2022-04-01T18:18:35Z,2023-03-31T07:07:29Z,2022-04-05T09:55:15Z,2022-04-05T09:55:15Z,,0,0,0,0,0
+1024241106,8549,Added tuple support in formatting results,closed,fathomson,2022-08-11T19:29:01Z,2023-03-31T06:15:59Z,2022-08-12T10:55:17Z,2022-08-12T10:55:17Z,,0,0,0,0,0
+1026180886,8564,Added missed Chinese tutorial link,closed,ShunchiZhang,2022-08-15T08:22:50Z,2023-03-31T06:06:11Z,2022-08-17T06:07:21Z,2022-08-17T06:07:21Z,,0,0,0,0,0
+1028496256,8578,[repeat] CascadeRPNHead,closed,ceasona,2022-08-17T08:29:31Z,2023-03-31T05:56:44Z,2022-08-19T03:41:52Z,2022-08-19T03:41:52Z,,0,0,0,0,0
+1290350021,10033,Update coco_metric.py,closed,yarkable,2023-03-26T13:41:29Z,2023-03-31T03:35:05Z,2023-03-31T03:35:05Z,2023-03-31T03:35:05Z,,0,0,0,0,0
+1297058976,10056,[Fix] Fix common/ms_3x_coco-instance.py,closed,RangiLyu,2023-03-31T02:12:14Z,2023-03-31T02:48:06Z,2023-03-31T02:48:06Z,2023-03-31T02:48:06Z,,0,0,0,0,0
+1295855005,10054,Support setting the `cache_size_limit` parameter of dynamo in PyTorch 2.0,closed,hhaAndroid,2023-03-30T08:50:28Z,2023-03-31T02:19:17Z,2023-03-31T02:19:17Z,2023-03-31T02:19:17Z,,0,0,0,0,0
+1167212876,9498,Deprecating `np.bool` Type Alias,closed,zachcoleman,2022-12-15T18:35:55Z,2023-03-30T07:37:39Z,2022-12-22T07:21:40Z,2022-12-22T07:21:40Z,,0,0,0,0,0
+1168318432,9503,delete parrots-awared code of roi extractor,closed,chenyuwang814,2022-12-16T12:39:34Z,2023-03-30T07:33:51Z,2022-12-19T07:09:13Z,2022-12-19T07:09:13Z,,0,0,0,0,0
+682462733,5511,[Docs] Fix typo,closed,BuxianChen,2021-07-02T09:05:48Z,2023-03-30T07:30:31Z,2021-07-05T01:27:22Z,2021-07-05T01:27:22Z,,0,0,0,0,0
+1263938354,9887,[Docs] Replace options with eval-options,closed,Renzhihan,2023-03-06T07:14:52Z,2023-03-30T07:29:07Z,2023-03-06T15:08:07Z,2023-03-06T15:08:07Z,,0,0,0,0,0
+1295689885,10050,Fix accepting an unexpected argument local-rank in PyTorch 2.0,closed,hhaAndroid,2023-03-30T06:32:34Z,2023-03-30T06:52:58Z,2023-03-30T06:52:58Z,2023-03-30T06:52:58Z,,0,0,0,0,0
+1295555476,10046,Update some docs,closed,hhaAndroid,2023-03-30T03:22:21Z,2023-03-30T03:39:38Z,2023-03-30T03:39:38Z,2023-03-30T03:39:38Z,,0,0,0,0,0
+1274318817,9938,Add visualization docs,closed,hhaAndroid,2023-03-14T03:21:08Z,2023-03-30T02:51:57Z,2023-03-30T02:51:56Z,2023-03-30T02:51:56Z,,0,0,0,0,0
+1264039485,9889,fix conditional DETR AP and Log,closed,LYMDLUT,2023-03-06T08:42:42Z,2023-03-29T09:09:22Z,2023-03-29T07:10:38Z,2023-03-29T07:10:38Z,,0,0,0,0,0
+1293121299,10042,[Docs] Add rtmder config introduce,closed,Zheng-LinXiao,2023-03-28T14:27:19Z,2023-03-29T06:57:14Z,2023-03-29T06:57:14Z,2023-03-29T06:57:14Z,,0,0,0,0,0
+1236506036,9752,fix: add update skip type keys interface for concat dataset,open,wep21,2023-02-10T10:59:56Z,2023-03-28T10:12:27Z,,,,0,0,0,0,0
+1220473244,9670,fix amp pooling overflow,closed,zylo117,2023-01-29T03:02:04Z,2023-03-28T09:49:08Z,2023-01-30T05:11:29Z,2023-01-30T05:11:29Z,,0,0,0,0,0
+1289991913,10030,fix conflict bug in train_cfg,closed,yechenzhi,2023-03-25T10:23:21Z,2023-03-28T01:59:21Z,2023-03-28T01:59:21Z,2023-03-28T01:59:21Z,,0,0,0,0,0
+1288606372,10020,[Doc]: Add more social networking links,closed,bobo0810,2023-03-24T07:43:58Z,2023-03-24T08:57:17Z,2023-03-24T08:57:17Z,2023-03-24T08:57:17Z,,0,0,0,0,0
+1288656429,10021,[Doc]: Add more social networking links(dev-3.x),closed,bobo0810,2023-03-24T08:28:29Z,2023-03-24T08:38:59Z,2023-03-24T08:38:59Z,2023-03-24T08:38:59Z,,0,0,0,0,0
+1288408745,10018,[Feature] Support DINO fp16 training,open,RangiLyu,2023-03-24T03:35:54Z,2023-03-24T05:57:46Z,,,,0,0,0,0,0
+1263826472,9883,[Docs] update zh_cn doc error,closed,zgzhengSEU,2023-03-06T05:15:06Z,2023-03-23T15:24:03Z,2023-03-22T02:19:45Z,2023-03-22T02:19:45Z,,0,0,0,0,0
+1274290398,9935,refine data_prepare docs,closed,hhaAndroid,2023-03-14T02:39:09Z,2023-03-22T02:18:05Z,2023-03-22T02:18:05Z,2023-03-22T02:18:05Z,,0,0,0,0,0
+1272583811,9927,[Feature] Release DINO Swin-L 36e model,closed,okotaku,2023-03-13T03:18:59Z,2023-03-22T02:16:17Z,2023-03-22T02:16:17Z,2023-03-22T02:16:17Z,,0,0,0,0,0
+1278069398,9960,[Doc] Config migration guide.,closed,RangiLyu,2023-03-16T07:47:14Z,2023-03-22T02:14:01Z,2023-03-22T02:14:00Z,2023-03-22T02:14:00Z,,0,0,0,0,0
+1282204301,9992,[Fix] Fix YOLOv3 TTA,closed,RangiLyu,2023-03-20T08:28:14Z,2023-03-22T02:12:29Z,2023-03-22T02:12:29Z,2023-03-22T02:12:29Z,,0,0,0,0,0
+1283591900,9999,[WIP] Support PCB defect detection in projects application,open,vansinhu,2023-03-21T04:19:49Z,2023-03-21T04:20:55Z,,,,0,0,0,0,0
+1261553202,9865,fix benchmark,closed,ghlerrix,2023-03-03T06:50:36Z,2023-03-20T14:53:47Z,2023-03-06T15:13:00Z,2023-03-06T15:13:00Z,,0,0,0,0,0
+1279862881,9971,[Fix] Fix inference benchmark ut.,closed,RangiLyu,2023-03-17T08:37:21Z,2023-03-17T14:45:34Z,2023-03-17T14:43:13Z,2023-03-17T14:43:13Z,,0,0,0,0,0
+1028547822,8582,Test 3.0.0rc0,closed,ZwwWayne,2022-08-17T09:17:27Z,2023-03-17T14:45:19Z,2022-08-17T10:17:41Z,2022-08-17T10:17:41Z,,0,0,0,0,0
+1279771223,9969,[Fix] delete `data_root` in `CocoOccludedSeparatedMetric` to fix bug,closed,BIGWangYuDong,2023-03-17T07:04:20Z,2023-03-17T14:39:59Z,2023-03-17T14:39:59Z,2023-03-17T14:39:58Z,,0,0,0,0,0
+1261588124,9866,Fix some cfg error,closed,hhaAndroid,2023-03-03T07:20:32Z,2023-03-17T07:26:33Z,2023-03-17T07:26:32Z,2023-03-17T07:26:32Z,,0,0,0,0,0
+1226046587,9709,[Feature] File I/O migration and reconstruction,closed,zwhus,2023-02-02T06:55:25Z,2023-03-17T06:57:30Z,2023-03-17T06:57:29Z,2023-03-17T06:57:29Z,,0,0,0,0,0
+1278503282,9966,[Fix] Fix img_shape.,closed,RangiLyu,2023-03-16T12:30:04Z,2023-03-17T06:56:34Z,2023-03-17T06:56:33Z,2023-03-17T06:56:33Z,,0,0,0,0,0
+1279553082,9967,[Fix] add boxinst r101 config,closed,JosonChan1998,2023-03-17T01:53:15Z,2023-03-17T05:55:09Z,2023-03-17T05:55:09Z,2023-03-17T05:55:09Z,,0,0,0,0,0
+1278459708,9964,[Fix] Fix RTMDetIns prior generator device.,closed,RangiLyu,2023-03-16T12:03:02Z,2023-03-17T02:09:32Z,2023-03-17T02:09:32Z,2023-03-17T02:09:32Z,,0,0,0,0,0
+1268982913,9906,[Feature] Add common tracking transforms,closed,JingweiZhang12,2023-03-09T06:40:08Z,2023-03-16T03:44:04Z,2023-03-16T03:44:04Z,2023-03-16T03:44:04Z,,0,0,0,0,0
+1266362193,9897,[Feature] Add tracking data structures and data flow,closed,JingweiZhang12,2023-03-07T14:10:38Z,2023-03-16T03:43:40Z,2023-03-16T03:43:40Z,2023-03-16T03:43:40Z,,0,0,0,0,0
+1092754439,9079,"[Refactor] Refactor COCOMetric, CocoOccludedSeparatedMetric, and ProposalRecallMetric by using MMEval",open,BIGWangYuDong,2022-10-19T18:55:05Z,2023-03-15T05:10:34Z,,,,0,0,0,0,0
+1257188482,9850,[Refactor] Refactor CityScapesMetric by using MMEval,open,BIGWangYuDong,2023-02-28T14:00:30Z,2023-03-15T05:08:33Z,,,,0,0,0,0,0
+1263434295,9879,[Fix] Fix VOCDataset print wrong class names (#9878),closed,LoSealL,2023-03-05T14:45:29Z,2023-03-13T15:37:01Z,2023-03-13T13:25:02Z,2023-03-13T13:25:02Z,,0,0,0,0,0
+1264092172,9890,[Fix] Fix metafile.,closed,RangiLyu,2023-03-06T09:18:02Z,2023-03-13T13:28:50Z,2023-03-13T13:28:49Z,2023-03-13T13:28:49Z,,0,0,0,0,0
+1271941634,9918,[Fix] albu augmentation with mask shape,closed,JosonChan1998,2023-03-11T03:51:06Z,2023-03-13T13:18:53Z,2023-03-13T13:18:52Z,2023-03-13T13:18:52Z,,0,0,0,0,0
+1136666675,9396,[Docs] Fix zh_cn `faq.md`,closed,RangeKing,2022-11-27T11:22:34Z,2023-03-13T04:22:20Z,2022-11-29T02:16:23Z,2022-11-29T02:16:23Z,,0,0,0,0,0
+1248302497,9810,[Feature] Support EfficientDet in projects,closed,zwhus,2023-02-21T07:53:59Z,2023-03-10T13:41:32Z,2023-03-10T13:41:32Z,2023-03-10T13:41:32Z,,0,0,0,0,0
+1199890746,9644,Projects/EfficientDet,closed,zwhus,2023-01-17T08:03:51Z,2023-03-09T13:40:43Z,2023-01-31T06:27:39Z,2023-01-31T06:27:39Z,,0,0,0,0,0
+1269213562,9907,Update model-index.yml,closed,APX103,2023-03-09T09:23:49Z,2023-03-09T09:33:04Z,2023-03-09T09:32:54Z,,,0,0,0,0,0
+1267434159,9901,[NPU] Update npu.md,open,wangjiangben-hw,2023-03-08T07:13:53Z,2023-03-09T09:01:20Z,,,,0,0,0,0,0
+1267733583,9903,[Feature] Add general tracking transforms,closed,JingweiZhang12,2023-03-08T11:27:01Z,2023-03-09T06:41:09Z,2023-03-09T06:41:09Z,,,0,0,0,0,0
+1255012167,9842,vis scheduler in mmcls,open,jinxianwei,2023-02-27T07:56:21Z,2023-03-09T05:57:53Z,,,,0,0,0,0,0
+1261764330,9872,[Fix] fix only cuda device bug in datasets sampler,closed,jessiewiswjc,2023-03-03T09:38:47Z,2023-03-08T13:53:26Z,2023-03-07T07:52:48Z,2023-03-07T07:52:48Z,,0,0,0,0,0
+1256478736,9846,[Enhance] tools/test.py: add options `--show-box-only` and `--show-mask-only`,closed,sjiang95,2023-02-28T04:04:31Z,2023-03-07T12:04:39Z,2023-03-07T07:55:21Z,2023-03-07T07:55:21Z,,0,0,0,0,0
+1259879242,9858,[Fix] Fix cropping polygon mask.,closed,RangiLyu,2023-03-02T05:58:05Z,2023-03-07T11:14:48Z,2023-03-07T11:14:48Z,2023-03-07T11:14:48Z,,0,0,0,0,0
+1261410633,9864,[Enhance] Add DINO Swin-L,closed,okotaku,2023-03-03T03:23:44Z,2023-03-07T07:52:21Z,2023-03-07T07:52:20Z,2023-03-07T07:52:20Z,,0,0,0,0,0
+1263897791,9885,Fix metafile error,closed,hhaAndroid,2023-03-06T06:35:41Z,2023-03-07T07:51:08Z,2023-03-07T07:51:07Z,2023-03-07T07:51:07Z,,0,0,0,0,0
+1260883175,9863,[Refactor] Refactor CocoPanopticMetric by using MMEval,open,BIGWangYuDong,2023-03-02T18:25:10Z,2023-03-07T07:04:24Z,,,,0,0,0,0,0
+1238412809,9763,Support GroupDETR,open,LYMDLUT,2023-02-13T05:32:32Z,2023-03-06T15:22:37Z,,,,0,0,0,0,0
+1028018916,8575,[Fix]: Fix get train_pipeline method of val workflow,closed,Lehsuby,2022-08-16T19:56:32Z,2023-03-06T12:20:25Z,2022-08-26T10:50:19Z,2022-08-26T10:50:19Z,,0,0,0,0,0
+1263793889,9882,[Docs] Replace options with eval-options,closed,Renzhihan,2023-03-06T04:38:14Z,2023-03-06T07:08:38Z,2023-03-06T06:57:11Z,,,0,0,0,0,0
+1130311043,9362,Support 91 class CocoMetric,open,LYMDLUT,2022-11-21T16:31:11Z,2023-03-03T08:39:09Z,,,,0,0,0,0,0
+1256984423,9849,[Fix] Unifying metafile.yml,closed,RangeKing,2023-02-28T11:54:37Z,2023-03-03T02:11:57Z,2023-03-03T02:07:08Z,2023-03-03T02:07:08Z,,0,0,0,0,0
+1258929207,9855,[WIP] Add CocoPanopticMetric from mmeval.,closed,Even-ok,2023-03-01T14:32:50Z,2023-03-02T01:35:42Z,2023-03-02T01:35:42Z,,,0,0,0,0,0
+1254151361,9834,[Docs] Replace the models used in the tutorial document with RTMDet,closed,Zheng-LinXiao,2023-02-25T09:44:16Z,2023-03-01T07:42:01Z,2023-02-27T12:40:17Z,2023-02-27T12:40:17Z,,0,0,0,0,0
+1247442778,9805,[Refactor] Refactor VOCMetric and OpenImagesMetric by using MMEval,closed,BIGWangYuDong,2023-02-20T14:55:43Z,2023-02-28T07:34:06Z,2023-02-28T07:34:06Z,2023-02-28T07:34:06Z,,0,0,0,0,0
+1069533390,8897,Use MMEval VOCMeanAP and OIDMeanAP,closed,ice-tong,2022-09-28T06:21:22Z,2023-02-28T03:15:16Z,2023-02-20T14:55:52Z,,,0,0,0,0,0
+1249684198,9820,Bump version to v2.28.2,closed,hhaAndroid,2023-02-22T07:20:11Z,2023-02-28T02:17:10Z,2023-02-28T02:17:10Z,2023-02-28T02:17:10Z,,0,0,0,0,0
+1249538514,9817,Bump version to 3.0.0rc6,closed,BIGWangYuDong,2023-02-22T04:05:11Z,2023-02-27T15:39:57Z,2023-02-27T15:39:56Z,2023-02-27T15:39:56Z,,0,0,0,0,0
+1241475412,9777,[Fix] Fix compute flops problems,closed,zwhus,2023-02-15T03:51:54Z,2023-02-27T15:38:44Z,2023-02-27T15:38:43Z,2023-02-27T15:38:43Z,,0,0,0,0,0
+1254722826,9840,Fix the error when there is no prediction results and support vis,closed,hhaAndroid,2023-02-27T02:35:52Z,2023-02-27T08:20:29Z,2023-02-27T08:20:29Z,2023-02-27T08:20:29Z,,0,0,0,0,0
+1137203118,9402,Modify some typehints in csp_darknet.py,closed,hjy94wo777,2022-11-28T08:58:32Z,2023-02-27T08:18:59Z,2023-02-27T08:18:59Z,,,0,0,0,0,0
+1255007409,9841,Pr dev 3.x,closed,jinxianwei,2023-02-27T07:50:55Z,2023-02-27T07:52:09Z,2023-02-27T07:51:34Z,,,0,0,0,0,0
+1236457671,9751,[DOCS] import  `register_all_modules` and call it ,open,chg0901,2023-02-10T10:24:40Z,2023-02-27T02:30:16Z,,,,0,0,0,0,0
+1252838466,9829,[DOCS] Refactor doc about rtmdet,closed,Zheng-LinXiao,2023-02-24T08:23:12Z,2023-02-24T12:15:03Z,2023-02-24T12:15:02Z,,,0,0,0,0,0
+856289424,7194,Add alias LoadImageFromNdarray to LoadImageFromWebcam,closed,nijkah,2022-02-18T02:59:24Z,2023-02-24T08:32:49Z,2023-02-24T08:32:49Z,,,0,0,0,0,0
+1250124410,9823,[Doc] Add RTMDet-Ins deployment guide.,closed,RangiLyu,2023-02-22T13:17:08Z,2023-02-23T14:21:19Z,2023-02-23T14:21:19Z,2023-02-23T14:21:19Z,,0,0,0,0,0
+1249671326,9819,Rename EfficientDet REMEAD.md to README.md,closed,RangiLyu,2023-02-22T07:06:21Z,2023-02-23T05:01:08Z,2023-02-23T04:55:46Z,2023-02-23T04:55:45Z,,0,0,0,0,0
+1249654771,9818,Update .owners.yml,closed,RangiLyu,2023-02-22T06:46:12Z,2023-02-22T06:51:41Z,2023-02-22T06:51:41Z,2023-02-22T06:51:41Z,,0,0,0,0,0
+1237728423,9756,[WIP] K-Net 3.x,open,chhluo,2023-02-11T14:21:12Z,2023-02-22T01:19:34Z,,,,0,0,0,0,0
+1248728947,9814,[Feature] Support inference of QDTrack,closed,JingweiZhang12,2023-02-21T13:27:36Z,2023-02-21T13:28:19Z,2023-02-21T13:28:19Z,,,0,0,0,0,0
+1239962002,9768,[Feature] Fully support DiffusionDet in projects,closed,BIGWangYuDong,2023-02-14T04:05:40Z,2023-02-21T08:41:36Z,2023-02-21T08:41:35Z,2023-02-21T08:41:35Z,,0,0,0,0,0
+1185207299,9567,Projects/ViTDet,closed,zytx121,2023-01-04T17:13:35Z,2023-02-21T08:33:34Z,2023-02-21T08:33:33Z,,,0,0,0,0,0
+1093459412,9089,Add unitests for  detr 3.x,closed,LYMDLUT,2022-10-20T09:01:11Z,2023-02-20T10:11:46Z,2022-10-24T01:13:03Z,2022-10-24T01:13:03Z,,0,0,0,0,0
+1061625073,8846,Refactor conditional detr 3.x,closed,LYMDLUT,2022-09-20T13:52:26Z,2023-02-20T10:11:28Z,2023-01-29T10:35:23Z,,,0,0,0,0,0
+561695472,4534,[WIP] dla backbone,closed,yuzhj,2021-01-26T10:44:51Z,2023-02-20T09:17:20Z,2023-02-20T09:17:20Z,,,0,0,0,0,0
+1198378011,9635,Add benchmark model files,closed,hhaAndroid,2023-01-16T03:36:35Z,2023-02-20T08:39:49Z,2023-02-20T08:39:49Z,2023-02-20T08:39:49Z,,0,0,0,0,0
+1014696312,8468,[Refactor] Refactor widerface,open,chhluo,2022-08-02T07:00:54Z,2023-02-20T05:22:44Z,,,,0,0,0,0,0
+1244886128,9793,[Enhance] Should not error when wh does not exist in AspectRatioBatchSampler,open,hhaAndroid,2023-02-17T09:24:55Z,2023-02-19T13:48:03Z,,,,0,0,0,0,0
+1098530597,9135,[ERROR PR]: Add DINO on MMDetection 3.x,closed,Li-Qingyun,2022-10-25T08:00:10Z,2023-02-19T02:19:12Z,2022-10-25T08:37:46Z,,,0,0,0,0,0
+1098593108,9137,ERROR PR,closed,Li-Qingyun,2022-10-25T08:53:27Z,2023-02-19T02:18:53Z,2022-10-27T01:30:04Z,,,0,0,0,0,0
+995474336,8361,[WIP] Add conditional detr ,closed,Li-Qingyun,2022-07-13T13:03:19Z,2023-02-19T01:14:40Z,2022-08-10T06:23:35Z,,,0,0,0,0,0
+1231607658,9733,[Speed Up ] `BaseBoxes` supports `pin_memory`,open,hhaAndroid,2023-02-07T08:35:46Z,2023-02-17T10:45:35Z,,,,0,0,0,0,0
+1244613361,9791,[Doc] Fix the configuration file and log path of centernet.,closed,Ginray,2023-02-17T04:05:20Z,2023-02-17T10:42:35Z,2023-02-17T10:42:35Z,2023-02-17T10:42:35Z,,0,0,0,0,0
+1243271131,9784,[Fix] Fix VOC metrics,closed,BIGWangYuDong,2023-02-16T07:47:22Z,2023-02-17T10:41:55Z,2023-02-17T10:41:55Z,2023-02-17T10:41:55Z,,0,0,0,0,0
+1101047977,9149,[Feat] Add DINO on MMDetection 3.x,closed,Li-Qingyun,2022-10-27T01:27:36Z,2023-02-17T09:01:09Z,2022-12-19T03:09:40Z,2022-12-19T03:09:40Z,,0,0,0,0,0
+1093363688,9087,Refactor detr 3.x,closed,LYMDLUT,2022-10-20T07:43:01Z,2023-02-17T09:00:23Z,2022-10-20T09:01:20Z,,,0,0,0,0,0
+1244597757,9790,[Doc] Fix the configuration file and log path of centernet.,closed,Ginray,2023-02-17T03:35:40Z,2023-02-17T04:03:21Z,2023-02-17T04:03:21Z,,,0,0,0,0,0
+1241218658,9774,docs: Add twitter discord medium youtube link,closed,vansin,2023-02-14T21:46:41Z,2023-02-16T01:55:57Z,2023-02-16T01:55:57Z,2023-02-16T01:55:57Z,,0,0,0,0,0
+1241219581,9775,docs: Add twitter discord medium youtube link,closed,vansin,2023-02-14T21:47:42Z,2023-02-16T01:55:41Z,2023-02-16T01:55:41Z,2023-02-16T01:55:41Z,,0,0,0,0,0
+1222774734,9703,【Fix】fix ci test bug,closed,zwhus,2023-01-31T06:13:01Z,2023-02-15T11:42:14Z,2023-01-31T11:12:17Z,2023-01-31T11:12:17Z,,0,0,0,0,0
+1236982880,9753,comment repeated visualizer register refer PR 9740,open,chg0901,2023-02-10T16:36:42Z,2023-02-14T22:56:30Z,,,,0,0,0,0,0
+1238302689,9762,Replace numpy transpose with torch permute to speed-up,closed,triple-Mu,2023-02-13T03:11:02Z,2023-02-14T09:08:55Z,2023-02-14T07:04:30Z,2023-02-14T07:04:30Z,,0,0,0,0,0
+1148875750,9452,[Feature] Support TTA,closed,zytx121,2022-12-06T12:54:26Z,2023-02-14T07:03:26Z,2023-02-14T07:03:25Z,2023-02-14T07:03:25Z,,0,0,0,0,0
+1238587080,9764,[Fix] Fix potential bug in `MultiImageMixDataset`,closed,Xiangxu-0103,2023-02-13T08:32:14Z,2023-02-14T03:10:04Z,2023-02-14T02:45:05Z,2023-02-14T02:45:05Z,,0,0,0,0,0
+1233010413,9740,comment repeater visualizer register,closed,chg0901,2023-02-08T05:25:26Z,2023-02-10T17:21:44Z,2023-02-10T06:00:15Z,2023-02-10T06:00:15Z,,0,0,0,0,0
+1183157267,9561,[Feature] Support DetInferencer,closed,hhaAndroid,2023-01-03T07:33:26Z,2023-02-10T03:05:46Z,2023-02-10T03:05:46Z,2023-02-10T03:05:46Z,,0,0,0,0,0
+1226269440,9710,[Feature] Migrate occluded metric to 3.x.,closed,RangiLyu,2023-02-02T09:52:06Z,2023-02-10T02:55:20Z,2023-02-10T02:55:19Z,2023-02-10T02:55:19Z,,0,0,0,0,0
+1234606824,9747,[Fix] Fix docstring about noise in DINO,closed,nijkah,2023-02-09T06:25:00Z,2023-02-09T14:11:06Z,2023-02-09T11:27:52Z,2023-02-09T11:27:52Z,,0,0,0,0,0
+815264225,6956,Fix typo in mmdet.datasets.pipelines.formating,closed,nijkah,2022-01-06T06:25:25Z,2023-02-09T06:00:42Z,2022-01-17T05:25:12Z,2022-01-17T05:25:12Z,,0,0,0,0,0
+1221035134,9692,[dev-3.x][Fix] Fix duplicate param error in DAB-DETR,closed,nijkah,2023-01-30T05:13:23Z,2023-02-09T06:00:24Z,2023-01-30T07:59:13Z,,,0,0,0,0,0
+1232888843,9738,[Doc] update opendatalab download link (add postfix),closed,wufan-tb,2023-02-08T02:42:54Z,2023-02-09T01:04:20Z,2023-02-08T13:55:39Z,2023-02-08T13:55:39Z,,0,0,0,0,0
+1054145929,8777,[Feature] K-Net mask cost,closed,chhluo,2022-09-13T04:03:01Z,2023-02-07T16:42:41Z,2023-02-07T16:42:41Z,,,0,0,0,0,0
+1231641256,9734,[Fix] Fix WIDERFace SSD loss NAN.,closed,RangiLyu,2023-02-07T09:04:48Z,2023-02-07T12:02:58Z,2023-02-07T12:02:57Z,2023-02-07T12:02:57Z,,0,0,0,0,0
+1099927329,9143,[Feature] Support auto import modules from registry.,closed,RangiLyu,2022-10-26T08:24:17Z,2023-02-07T03:39:00Z,2023-02-07T03:38:59Z,2023-02-07T03:38:59Z,,0,0,0,0,0
+1229983064,9728,deprecate sklearn,closed,RangiLyu,2023-02-06T07:23:59Z,2023-02-07T02:27:18Z,2023-02-07T02:27:18Z,2023-02-07T02:27:18Z,,0,0,0,0,0
+1120652223,9317,[3.x] add show function,closed,sanbuphy,2022-11-14T02:14:42Z,2023-02-07T02:13:14Z,2023-02-07T02:13:14Z,,,0,0,0,0,0
+1227672376,9715,Add metafile to ConditionalDETR DABDETR and DINO,closed,LYMDLUT,2023-02-03T06:50:07Z,2023-02-06T12:39:33Z,2023-02-06T12:39:33Z,2023-02-06T12:39:33Z,,0,0,0,0,0
+1229988374,9729,fix readthedoc,closed,RangiLyu,2023-02-06T07:29:06Z,2023-02-06T12:38:58Z,2023-02-06T12:38:57Z,2023-02-06T12:38:57Z,,0,0,0,0,0
+1224717912,9708,Bump version to v2.28.1,closed,RangiLyu,2023-02-01T11:20:18Z,2023-02-01T11:29:58Z,2023-02-01T11:29:58Z,2023-02-01T11:29:58Z,,0,0,0,0,0
+1177771553,9535,[DOC] update npu doc,closed,wangjiangben-hw,2022-12-26T12:50:09Z,2023-02-01T08:20:13Z,2023-01-09T09:42:21Z,2023-01-09T09:42:21Z,,0,0,0,0,0
+1221129535,9693,make sure conv2 of CSPNeXtBlock controlled by use_depthwise,closed,zylo117,2023-01-30T07:07:47Z,2023-02-01T01:20:24Z,2023-02-01T01:20:24Z,,,0,0,0,0,0
+1192110513,9605,[Doc] add opendatalab download link,closed,wufan-tb,2023-01-10T10:01:53Z,2023-01-31T06:43:25Z,2023-01-16T07:48:00Z,2023-01-16T07:48:00Z,,0,0,0,0,0
+1199475472,9639,[Feature] Support DiffusionDet Inference in Projects,closed,BIGWangYuDong,2023-01-16T20:39:30Z,2023-01-31T06:29:21Z,2023-01-31T06:29:20Z,2023-01-31T06:29:20Z,,0,0,0,0,0
+1222649260,9699,Use official isort,closed,triple-Mu,2023-01-31T03:33:34Z,2023-01-31T05:12:33Z,2023-01-31T05:09:23Z,,,0,0,0,0,0
+1221225154,9695,[Fix]: Change MMCV minimum version to 2.0.0rc4 for dev-3.x branch,closed,KeiChiTse,2023-01-30T08:34:54Z,2023-01-31T05:11:50Z,2023-01-31T05:11:50Z,2023-01-31T05:11:50Z,,0,0,0,0,0
+1222658413,9701,dev-3.x: Use official isort,closed,triple-Mu,2023-01-31T03:39:32Z,2023-01-31T04:40:22Z,2023-01-31T04:39:26Z,2023-01-31T04:39:26Z,,0,0,0,0,0
+1222654752,9700,dev: Use official isort,closed,triple-Mu,2023-01-31T03:37:07Z,2023-01-31T04:39:15Z,2023-01-31T04:38:51Z,2023-01-31T04:38:51Z,,0,0,0,0,0
+1220542337,9683,Triplemu/fix lint,closed,triple-Mu,2023-01-29T08:31:45Z,2023-01-31T03:25:40Z,2023-01-29T10:30:47Z,,,0,0,0,0,0
+1220542281,9682,fix lint,closed,triple-Mu,2023-01-29T08:31:27Z,2023-01-31T03:25:40Z,2023-01-29T10:30:53Z,,,0,0,0,0,0
+1220542240,9681,fix lint,closed,triple-Mu,2023-01-29T08:31:10Z,2023-01-31T03:25:39Z,2023-01-29T10:30:58Z,,,0,0,0,0,0
+1220565199,9685,fix lint,closed,triple-Mu,2023-01-29T09:50:07Z,2023-01-31T03:25:37Z,2023-01-29T10:30:29Z,2023-01-29T10:30:29Z,,0,0,0,0,0
+1221193643,9694,[Fix] Fix import error.,closed,RangiLyu,2023-01-30T08:09:21Z,2023-01-30T08:13:22Z,2023-01-30T08:13:21Z,2023-01-30T08:13:21Z,,0,0,0,0,0
+1171098255,9515,[Fix] Fix MaskFormer and Mask2Former of MMDetection,closed,Li-Qingyun,2022-12-19T17:43:02Z,2023-01-30T08:11:58Z,2023-01-13T09:10:46Z,2023-01-13T09:10:46Z,,0,0,0,0,0
+936930391,7993,[Enhance] Filter out bboxes out of scale range in test-time augmentation.,open,jbwang1997,2022-05-16T01:32:09Z,2023-01-29T11:34:49Z,,,,0,0,0,0,0
+955445355,8117,Deformable DETR——Error docstring in `DeformableDetrTransformer.get_reference_points() `,open,Irvingao,2022-06-02T03:58:58Z,2023-01-29T11:30:54Z,,,,0,0,0,0,0
+1084217262,9004,feat(device): Add automatic device select for samplers,open,Qiza-lyhm,2022-10-12T06:58:26Z,2023-01-29T11:30:24Z,,,,0,0,0,0,0
+1220539710,9680,Fix isort ci,closed,sanbuphy,2023-01-29T08:18:59Z,2023-01-29T11:15:03Z,2023-01-29T09:46:23Z,2023-01-29T09:46:22Z,,0,0,0,0,0
+1040890519,8670,[Fix] Enable to set float mlp_ratio in SwinTransformer,closed,i-aki-y,2022-08-30T12:00:41Z,2023-01-29T11:04:00Z,2023-01-29T10:44:58Z,2023-01-29T10:44:58Z,,0,0,0,0,0
+1069768113,8905,copypaste_based_on_bbox,closed,JarvisKevin,2022-09-28T09:49:56Z,2023-01-29T11:03:01Z,2022-10-28T04:37:47Z,2022-10-28T04:37:46Z,,0,0,0,0,0
+710003133,5866,update digit_version,closed,ZwwWayne,2021-08-12T02:17:10Z,2023-01-29T10:53:19Z,2023-01-29T10:53:19Z,,,0,0,0,0,0
+708488622,5861,competition-centernetv2,closed,huimlight,2021-08-11T08:28:30Z,2023-01-29T10:52:40Z,2023-01-29T10:52:40Z,,,0,0,0,0,0
+976362930,8243,add yolof init_cfg,closed,twmht,2022-06-23T02:08:33Z,2023-01-29T10:50:26Z,2023-01-29T10:50:25Z,2023-01-29T10:50:25Z,,0,0,0,0,0
+970732982,8213,Optimization for PAVI startup.,closed,EvelynWang-0423,2022-06-17T15:22:21Z,2023-01-29T10:46:11Z,2023-01-29T10:46:11Z,,,0,0,0,0,0
+1057535264,8811,[Refactor]: Refactor DAB-DETR in MMDetection 3.0,closed,KeiChiTse,2022-09-15T15:09:09Z,2023-01-29T10:35:55Z,2023-01-29T10:35:54Z,,,0,0,0,0,0
+1212984583,9659,add dockerfile,closed,sanbuphy,2023-01-23T06:15:47Z,2023-01-29T08:10:16Z,2023-01-29T06:41:40Z,2023-01-29T06:41:40Z,,0,0,0,0,0
+1220248134,9668,Bump version to v2.28.0,closed,ZwwWayne,2023-01-28T10:57:04Z,2023-01-28T11:57:09Z,2023-01-28T11:57:09Z,2023-01-28T11:57:09Z,,0,0,0,0,0
+1209455184,9646,"Refactor DETRs and add C-DETR, DAB-DETR and DINO",closed,jshilong,2023-01-19T04:18:00Z,2023-01-28T11:21:38Z,2023-01-28T11:21:38Z,2023-01-28T11:21:38Z,,0,0,0,0,0
+1211809450,9656,[Fix] Prepare for merging `refactor-detr`,closed,Li-Qingyun,2023-01-20T16:44:58Z,2023-01-28T07:31:15Z,2023-01-28T06:50:29Z,2023-01-28T06:50:29Z,,0,0,0,0,0
+1209585341,9648,Ascend Acceleration Module doc and samples,closed,akstt,2023-01-19T07:24:10Z,2023-01-28T06:05:16Z,2023-01-28T04:37:07Z,2023-01-28T04:37:07Z,,0,0,0,0,0
+1198931222,9638,add type hints in Dev 3.x,closed,cyhrane,2023-01-16T12:22:28Z,2023-01-28T04:37:43Z,2023-01-28T04:37:42Z,,,0,0,0,0,0
+1200184117,9645,[Projects] Support Detic inference.,closed,RangiLyu,2023-01-17T12:09:45Z,2023-01-28T04:31:34Z,2023-01-28T04:31:33Z,2023-01-28T04:31:33Z,,0,0,0,0,0
+1215712134,9662,namespaced validation logs to prevent overwriting,closed,eantono,2023-01-24T21:07:21Z,2023-01-24T22:20:58Z,2023-01-24T22:20:49Z,,,0,0,0,0,0
+1209636128,9649,[Doc]: added missing `-` to `--format-only` option,closed,lpizzinidev,2023-01-19T08:16:43Z,2023-01-20T15:47:03Z,2023-01-20T15:47:03Z,2023-01-20T15:47:03Z,,0,0,0,0,0
+1209510843,9647,fix ci,closed,jshilong,2023-01-19T05:49:44Z,2023-01-19T09:45:13Z,2023-01-19T09:45:12Z,2023-01-19T09:45:12Z,,0,0,0,0,0
+1111756039,9248,Refactor detr 3.x conditional detr and group detr,open,LYMDLUT,2022-11-05T18:46:33Z,2023-01-19T05:21:20Z,,,,0,0,0,0,0
+1198059708,9634,[Fix] Update links in readme of DETRs and MaskFormers,closed,Li-Qingyun,2023-01-15T14:56:01Z,2023-01-19T02:27:11Z,2023-01-18T11:51:48Z,2023-01-18T11:51:48Z,,0,0,0,0,0
+1186484255,9574,[Feature] Support Separated and Occluded COCO metric.,closed,RangiLyu,2023-01-05T13:08:00Z,2023-01-18T11:10:23Z,2023-01-18T11:10:23Z,2023-01-18T11:10:22Z,,0,0,0,0,0
+1184562089,9566,Project/Centernet2,open,zytx121,2023-01-04T09:10:22Z,2023-01-18T02:04:17Z,,,,0,0,0,0,0
+1129320426,9354,[Feature] Support ViT-Adapter,open,okotaku,2022-11-21T00:55:36Z,2023-01-17T10:18:11Z,,,,0,0,0,0,0
+1191978522,9600,[Feature] Support Objects365 Dataset,closed,BIGWangYuDong,2023-01-10T08:10:34Z,2023-01-16T11:04:49Z,2023-01-16T11:04:49Z,2023-01-16T11:04:49Z,,0,0,0,0,0
+1195249770,9625,Update loading.py,closed,lyviva,2023-01-12T12:39:14Z,2023-01-16T10:50:48Z,2023-01-16T10:50:48Z,2023-01-16T10:50:48Z,,0,0,0,0,0
+1194686803,9619,[Feature] Support ConvNeXt-V2.,closed,RangiLyu,2023-01-12T02:47:57Z,2023-01-16T09:40:29Z,2023-01-16T09:40:29Z,2023-01-16T09:40:29Z,,0,0,0,0,0
+1196374192,9627,[Fix] Metafile.yml: Fix typo of all config file path.,closed,kbumsik,2023-01-13T08:32:54Z,2023-01-16T07:49:03Z,2023-01-16T07:49:03Z,2023-01-16T07:49:03Z,,0,0,0,0,0
+1195148783,9624,[Fix] Fix use_depthwise in RTMDet.,closed,RangiLyu,2023-01-12T11:12:41Z,2023-01-13T06:22:12Z,2023-01-13T06:22:12Z,2023-01-13T06:22:12Z,,0,0,0,0,0
+1192101502,9603,[Enhance] Update rtmdet config and readme.,closed,RangiLyu,2023-01-10T09:54:37Z,2023-01-12T08:22:17Z,2023-01-12T08:22:16Z,2023-01-12T08:22:16Z,,0,0,0,0,0
+1192044269,9602,[Fix] Adjust the minimum supported python version to 3.7,closed,tianleiSHI,2023-01-10T09:08:11Z,2023-01-12T08:10:03Z,2023-01-12T08:10:03Z,2023-01-12T08:10:03Z,,0,0,0,0,0
+1167711649,9500,Suitable for Ascend. Modify SSD and RetinaHead Model.,closed,akstt,2022-12-16T02:32:57Z,2023-01-11T08:20:43Z,2023-01-11T08:20:43Z,,,0,0,0,0,0
+1192283886,9607,[Fix] Fix argument name for fp32 in `DeformableDETRHead`,closed,nijkah,2023-01-10T12:15:54Z,2023-01-10T14:12:29Z,2023-01-10T14:10:35Z,2023-01-10T14:10:35Z,,0,0,0,0,0
+1192104500,9604,[Fix] Adjust the minimum supported python version to 3.7,closed,tianleiSHI,2023-01-10T09:57:04Z,2023-01-10T14:12:23Z,2023-01-10T14:12:23Z,2023-01-10T14:12:23Z,,0,0,0,0,0
+1087417082,9026,[Draft] TTA draft,closed,HAOCHENYE,2022-10-14T12:55:00Z,2023-01-10T10:26:32Z,2023-01-10T10:26:32Z,,,0,0,0,0,0
+1058612935,8817,[Draft] Add SingleStage TTAModel,closed,HAOCHENYE,2022-09-16T13:00:33Z,2023-01-10T10:26:32Z,2023-01-10T10:26:32Z,,,0,0,0,0,0
+1186083791,9570,[Fix] Fix inconsistent float precision between mmdet and mmcv,closed,jamiechoi1995,2023-01-05T08:05:31Z,2023-01-10T08:52:24Z,2023-01-09T04:48:01Z,2023-01-09T04:48:01Z,,0,0,0,0,0
+888297967,7525,[Feature] Support Objects365 Dataset,closed,BIGWangYuDong,2022-03-24T12:09:05Z,2023-01-10T08:16:35Z,2023-01-10T08:16:35Z,2023-01-10T08:16:35Z,,0,0,0,0,0
+1189666890,9591,[Fix] Add typehint for `DarknetBottleneck`,closed,PeterH0323,2023-01-08T03:52:27Z,2023-01-10T08:14:28Z,2023-01-10T08:14:28Z,2023-01-10T08:14:28Z,,0,0,0,0,0
+1191868160,9599,[Enhance] Update README document in `Project`,closed,BIGWangYuDong,2023-01-10T06:07:41Z,2023-01-10T08:13:43Z,2023-01-10T08:13:43Z,2023-01-10T08:13:43Z,,0,0,0,0,0
+1090208574,9061,fix config file error,closed,wufan-tb,2022-10-18T04:28:00Z,2023-01-10T06:51:44Z,2022-10-21T08:42:19Z,2022-10-21T08:42:19Z,,0,0,0,0,0
+1081926283,8989,"Fix index out of range problem in MixUp, Mosaic, CopyPaste",closed,BubblyYi,2022-10-10T11:48:30Z,2023-01-10T05:35:16Z,2022-10-10T11:52:07Z,,,0,0,0,0,0
+1190715184,9595,[CI] Update parrots image.,closed,RangiLyu,2023-01-09T12:29:15Z,2023-01-09T12:45:24Z,2023-01-09T12:45:24Z,,,0,0,0,0,0
+1144263393,9434,CodeCamp #34 [Docs] Add Chinese version of single_stage_as_rpn.md and test_results_submission.md,closed,137208,2022-12-03T13:10:45Z,2023-01-09T09:13:04Z,2023-01-09T09:13:04Z,2023-01-09T09:13:04Z,,0,0,0,0,0
+1188866798,9586,[pre-commit] Replace `github` with `gitee`,closed,Xiangxu-0103,2023-01-07T01:56:13Z,2023-01-09T05:06:42Z,2023-01-09T04:43:08Z,2023-01-09T04:43:08Z,,0,0,0,0,0
+884932011,7482,[Feature] Support automatically scaling LR according to GPU number and samples per GPU,closed,PeterH0323,2022-03-21T14:50:51Z,2023-01-08T03:45:52Z,2022-04-01T07:58:06Z,2022-04-01T07:58:06Z,,0,0,0,0,0
+878067503,7377,[Feature] Support automatically scaling LR according to GPU number and samples per GPU,closed,PeterH0323,2022-03-12T02:39:43Z,2023-01-08T03:45:49Z,2022-03-21T14:52:52Z,,,0,0,0,0,0
+1186506691,9575,fix rtmdet link,closed,likyoo,2023-01-05T13:25:29Z,2023-01-06T07:49:32Z,2023-01-06T07:49:32Z,2023-01-06T07:49:32Z,,0,0,0,0,0
+1186036963,9568,update v2.27.0 changelog,closed,RangiLyu,2023-01-05T07:23:40Z,2023-01-05T07:27:04Z,2023-01-05T07:27:04Z,2023-01-05T07:27:04Z,,0,0,0,0,0
+1183104986,9560,Fix master circle ci,closed,RangiLyu,2023-01-03T06:06:46Z,2023-01-05T06:56:14Z,2023-01-05T06:56:13Z,2023-01-05T06:56:13Z,,0,0,0,0,0
+894520648,7585,[Feature] Support specifying interpolation of resize in transforms.py,closed,jamiechoi1995,2022-03-30T14:28:24Z,2023-01-05T05:50:28Z,2022-03-30T14:49:33Z,2022-03-30T14:49:33Z,,0,0,0,0,0
+1146198325,9445,[Enhance] Support modifying palette through configuration,closed,hhaAndroid,2022-12-05T09:31:58Z,2023-01-05T01:53:41Z,2023-01-05T01:53:41Z,2023-01-05T01:53:41Z,,0,0,0,0,0
+1181502117,9551,[Fix] albu augmentation post process with masks,closed,JosonChan1998,2022-12-31T17:41:49Z,2023-01-04T16:58:43Z,2023-01-04T15:30:36Z,2023-01-04T15:30:36Z,,0,0,0,0,0
+1180876134,9549,[Fix] the wrong link of RTMDet-x log,closed,RangeKing,2022-12-30T11:24:22Z,2023-01-03T11:10:09Z,2023-01-03T03:03:38Z,2023-01-03T03:03:38Z,,0,0,0,0,0
+1170638995,9511,[Enhance] Update show and save mode of scripts,open,hhaAndroid,2022-12-19T11:52:10Z,2023-01-03T09:39:21Z,,,,0,0,0,0,0
+1171933868,9517,[Enhance] Convert mask to tensor in data pipeline.,open,RangiLyu,2022-12-20T09:54:06Z,2023-01-03T03:30:08Z,,,,0,0,0,0,0
+1126908147,9346,"CodeCamp #33 [Fix]:add type hints for res_layer, se_layer,normed_predictor,positional_encoding",closed,ZhikangNiu,2022-11-18T03:11:32Z,2023-01-03T03:23:11Z,2023-01-03T03:23:10Z,2023-01-03T03:23:10Z,,0,0,0,0,0
+1177580337,9531,Add changelog of v2.27.0,closed,RangiLyu,2022-12-26T07:45:15Z,2023-01-03T03:04:34Z,2023-01-03T03:04:33Z,2023-01-03T03:04:33Z,,0,0,0,0,0
+1171938162,9518,[WIP] [Feature] Refactor assigner and sampler,open,BIGWangYuDong,2022-12-20T09:57:58Z,2023-01-03T02:57:59Z,,,,0,0,0,0,0
+1174647085,9525,CodeCamp #1492: Support Boxinst,closed,JosonChan1998,2022-12-22T07:16:36Z,2023-01-01T02:11:24Z,2022-12-28T07:06:21Z,2022-12-28T07:06:21Z,,0,0,0,0,0
+1179325791,9537,[Fix] Deprecating old type alias due to new version of numpy,closed,RangeKing,2022-12-28T11:15:29Z,2022-12-30T10:54:41Z,2022-12-30T08:14:15Z,2022-12-30T08:14:15Z,,0,0,0,0,0
+1177602644,9532,Bump version to 3.0.0rc5,closed,BIGWangYuDong,2022-12-26T08:16:05Z,2022-12-27T13:13:15Z,2022-12-27T13:13:15Z,2022-12-27T13:13:15Z,,0,0,0,0,0
+1178289408,9536,[Fix] Fix dataset meta compatibility.,closed,RangiLyu,2022-12-27T07:14:14Z,2022-12-27T11:56:04Z,2022-12-27T11:56:04Z,2022-12-27T11:56:04Z,,0,0,0,0,0
+1113933694,9267,[Feature] Support mmdet with NPU backend,closed,wangjiangben-hw,2022-11-08T07:52:13Z,2022-12-26T12:42:17Z,2022-11-16T07:34:38Z,2022-11-16T07:34:38Z,,0,0,0,0,0
+1176083851,9527,[Enhance] update deployment guide,closed,lvhan028,2022-12-23T06:51:53Z,2022-12-26T03:24:11Z,2022-12-26T03:24:10Z,2022-12-26T03:24:10Z,,0,0,0,0,0
+390007768,2283,Add class to load multi-channel images from a list of files,closed,melikovk,2020-03-17T18:33:43Z,2022-12-22T14:22:04Z,2020-03-20T15:53:49Z,2020-03-20T15:53:49Z,,0,0,0,0,0
+967677296,8191,Support receptive field search of CNN models. (TPAMI paper rf-next) ,closed,gasvn,2022-06-15T04:48:40Z,2022-12-22T08:00:31Z,2022-12-22T08:00:30Z,2022-12-22T08:00:30Z,,0,0,0,0,0
+1174501988,9524,[Fix]: Add segm evaluator in ms-poly_3x_coco_insatnce config,closed,JosonChan1998,2022-12-22T03:43:15Z,2022-12-22T07:52:19Z,2022-12-22T07:20:57Z,2022-12-22T07:20:57Z,,0,0,0,0,0
+1111962985,9252,Refactor DAB-DETR in MMDetection 3.x,closed,KeiChiTse,2022-11-06T13:49:05Z,2022-12-22T07:25:18Z,2022-12-22T07:25:17Z,2022-12-22T07:25:17Z,,0,0,0,0,0
+1172067754,9519,Update pytorch2onnx.py,closed,KerwinKai,2022-12-20T11:46:58Z,2022-12-21T03:15:18Z,2022-12-21T03:12:27Z,,,0,0,0,0,0
+1167895628,9501,Update doc and unittest of `det_data_sample`,open,Xiangxu-0103,2022-12-16T06:27:01Z,2022-12-21T02:16:16Z,,,,0,0,0,0,0
+1122549042,9324,[BC Breaking] Make sure the pipeline input shape is in WH order,closed,hhaAndroid,2022-11-15T08:50:22Z,2022-12-20T02:13:30Z,2022-12-20T02:13:30Z,2022-12-20T02:13:30Z,,0,0,0,0,0
+1112717529,9255,[Feature] Support YOLOX-PAI 3.x,open,okotaku,2022-11-07T12:38:34Z,2022-12-20T01:02:11Z,,,,0,0,0,0,0
+1155329107,9468,CodeCamp #33,closed,QJC123654,2022-12-09T04:40:39Z,2022-12-19T09:29:35Z,2022-12-19T09:29:34Z,2022-12-19T09:29:34Z,,0,0,0,0,0
+1170128242,9510,Fix the error that Readthedocs API cannot be displayed,closed,hhaAndroid,2022-12-19T03:36:29Z,2022-12-19T08:37:45Z,2022-12-19T08:37:44Z,2022-12-19T08:37:44Z,,0,0,0,0,0
+1166602457,9494,[Feature] Support RTMDet-Ins and improve RTMDet test config.,closed,RangiLyu,2022-12-15T11:01:26Z,2022-12-19T07:43:42Z,2022-12-19T07:42:29Z,2022-12-19T07:42:29Z,,0,0,0,0,0
+1136718120,9397,"[Fix] add type hints of part 8 including iou_loss.py, etc.",closed,lihua199710,2022-11-27T15:23:03Z,2022-12-19T07:26:06Z,2022-12-19T07:26:06Z,2022-12-19T07:26:06Z,,0,0,0,0,0
+1109570268,9225,[Fix]: fix handle coco subsets on MMDet 3.x,closed,JosonChan1998,2022-11-03T13:07:41Z,2022-12-19T06:39:14Z,2022-11-04T11:45:18Z,2022-11-04T11:45:17Z,,0,0,0,0,0
+1115346385,9284,[Enhance]: Add resume from specific checkpoint in CLI,closed,JosonChan1998,2022-11-09T02:39:58Z,2022-12-19T06:38:54Z,2022-11-23T08:00:14Z,2022-11-23T08:00:14Z,,0,0,0,0,0
+1160573505,9480,[Docs] Update `get_started`,closed,Xiangxu-0103,2022-12-12T10:58:17Z,2022-12-19T03:07:37Z,2022-12-19T02:56:39Z,2022-12-19T02:56:39Z,,0,0,0,0,0
+1129455718,9356,Only keep meta and state_dict when publish model.,closed,RangiLyu,2022-11-21T04:05:06Z,2022-12-19T03:04:08Z,2022-12-19T03:04:08Z,2022-12-19T03:04:08Z,,0,0,0,0,0
+1160373188,9479,[Refactor] Remove legacy builder.py,closed,RangiLyu,2022-12-12T09:04:12Z,2022-12-19T02:59:07Z,2022-12-19T02:59:07Z,2022-12-19T02:59:06Z,,0,0,0,0,0
+1151461120,9460,[Refactor] Change to BNC data flow for all DETRs,closed,KeiChiTse,2022-12-07T12:28:48Z,2022-12-18T14:22:47Z,2022-12-11T03:08:16Z,2022-12-11T03:08:16Z,,0,0,0,0,0
+882512375,7449,[Fix] Fix reduction=mean in CELoss.,closed,RangiLyu,2022-03-17T14:20:59Z,2022-12-17T03:42:32Z,2022-03-25T15:01:32Z,2022-03-25T15:01:32Z,,0,0,0,0,0
+820862506,7001,[Feature] ResNet Strikes Back.,closed,RangiLyu,2022-01-13T12:41:54Z,2022-12-17T03:42:28Z,2022-02-24T13:58:50Z,2022-02-24T13:58:50Z,,0,0,0,0,0
+834976223,7098,[Enhance] Speed up SimOTA matching.,closed,RangiLyu,2022-01-29T05:44:47Z,2022-12-17T03:42:25Z,2022-02-22T11:26:05Z,2022-02-22T11:26:05Z,,0,0,0,0,0
+831151660,7074,[Fix] Fix bbox clamp in pt1.10,closed,RangiLyu,2022-01-25T07:26:33Z,2022-12-17T03:42:21Z,2022-01-26T12:09:20Z,2022-01-26T12:09:20Z,,0,0,0,0,0
+826243139,7036,[Enhance] Add setup multi-processing both in train and test.,closed,RangiLyu,2022-01-19T08:23:09Z,2022-12-17T03:42:19Z,2022-01-25T08:40:15Z,2022-01-25T08:40:15Z,,0,0,0,0,0
+1066734230,8882,fix rtmdet-s link,closed,RangiLyu,2022-09-26T07:43:19Z,2022-12-17T03:42:15Z,2022-09-26T07:57:35Z,2022-09-26T07:57:35Z,,0,0,0,0,0
+1068036407,8887,[Feature] Support imagenet pre-training for RTMDet's backbone.,closed,RangiLyu,2022-09-27T04:49:47Z,2022-12-17T03:42:12Z,2022-09-28T02:17:14Z,2022-09-28T02:17:14Z,,0,0,0,0,0
+1080946694,8966,fix issue template,closed,RangiLyu,2022-10-08T07:19:17Z,2022-12-17T03:42:10Z,2022-10-08T11:35:25Z,2022-10-08T11:35:25Z,,0,0,0,0,0
+1081744990,8988,[Enhance] Jitter instance color.,closed,RangiLyu,2022-10-10T09:06:07Z,2022-12-17T03:42:08Z,2022-10-12T07:06:59Z,2022-10-12T07:06:59Z,,0,0,0,0,0
+646650333,5181,[Enhance] Better YOLOv3 head initialization,closed,RangiLyu,2021-05-18T11:07:28Z,2022-12-17T03:41:58Z,2021-05-26T05:20:21Z,2021-05-26T05:20:21Z,,0,0,0,0,0
+632421890,5122,[Feature] Add MobileNetV2 backbone and inverted residual block,closed,RangiLyu,2021-05-07T08:48:30Z,2022-12-17T03:41:55Z,2021-05-23T08:13:44Z,2021-05-23T08:13:44Z,,0,0,0,0,0
+653663228,5229,Update YOLOv3 models,closed,RangiLyu,2021-05-26T11:58:45Z,2022-12-17T03:41:53Z,2021-05-27T12:19:45Z,2021-05-27T12:19:45Z,,0,0,0,0,0
+665617996,5321,[Doc] Add install guide with MIM,closed,RangiLyu,2021-06-09T06:56:18Z,2022-12-17T03:41:51Z,2021-06-09T12:39:46Z,2021-06-09T12:39:46Z,,0,0,0,0,0
+665887117,5325,[Feature] Add dev_script to generate metafile.,closed,RangiLyu,2021-06-09T13:03:26Z,2022-12-17T03:41:50Z,2021-06-14T01:54:50Z,2021-06-14T01:54:50Z,,0,0,0,0,0
+670063226,5359,[Fix]Config path in metafile script,closed,RangiLyu,2021-06-15T05:20:20Z,2022-12-17T03:41:49Z,2021-06-15T07:35:27Z,2021-06-15T07:35:27Z,,0,0,0,0,0
+654442889,5233,[Feature] Add Mask R-CNN 3x mstrain config,closed,RangiLyu,2021-05-27T03:01:07Z,2022-12-17T03:41:47Z,2021-06-16T13:37:00Z,2021-06-16T13:37:00Z,,0,0,0,0,0
+684808540,5552,Fix browse_dataset bug when using dataset wrappers,closed,RangiLyu,2021-07-07T02:28:48Z,2022-12-17T03:41:42Z,2021-07-07T03:16:05Z,2021-07-07T03:16:04Z,,0,0,0,0,0
+708786349,5862,Fix CI out of memory & add PyTorch1.9 Python3.9 unit tests,closed,RangiLyu,2021-08-11T11:47:22Z,2022-12-17T03:41:41Z,2021-09-08T15:27:16Z,2021-09-08T15:27:16Z,,0,0,0,0,0
+733439475,6100,[Feature]: Add swin coco pretrained models.,closed,RangiLyu,2021-09-14T08:26:08Z,2022-12-17T03:41:39Z,2021-09-14T14:07:29Z,2021-09-14T14:07:28Z,,0,0,0,0,0
+723294459,5991,[Enhance]: Speedup yolov3 inference.,closed,RangiLyu,2021-08-31T11:47:24Z,2022-12-17T03:41:38Z,2021-09-15T08:34:58Z,2021-09-15T08:34:58Z,,0,0,0,0,0
+735361680,6117,[Enhance]: Support onnxsim with dynamic input shape.,closed,RangiLyu,2021-09-16T10:54:11Z,2022-12-17T03:41:36Z,2021-09-17T00:57:38Z,2021-09-17T00:57:38Z,,0,0,0,0,0
+765246888,6365,Bump version to v2.18.0,closed,RangiLyu,2021-10-25T09:08:41Z,2022-12-17T03:41:31Z,2021-10-28T02:17:18Z,2021-10-28T02:17:18Z,,0,0,0,0,0
+780679245,6510,bump version to v2.18.1,closed,RangiLyu,2021-11-15T13:09:56Z,2022-12-17T03:41:29Z,2021-11-15T15:55:37Z,2021-11-15T15:55:37Z,,0,0,0,0,0
+802014352,6783,bump version to v2.19.1,closed,RangiLyu,2021-12-14T06:55:44Z,2022-12-17T03:41:28Z,2021-12-14T11:29:45Z,2021-12-14T11:29:45Z,,0,0,0,0,0
+798799889,6746,[Feature] Support TOOD: Task-aligned One-stage Object Detection (ICCV 2021 Oral),closed,RangiLyu,2021-12-09T12:57:41Z,2022-12-17T03:41:26Z,2021-12-24T10:01:41Z,2021-12-24T10:01:41Z,,0,0,0,0,0
+817220153,6974,[Enhance] Continue to speed up training.,closed,RangiLyu,2022-01-10T04:06:58Z,2022-12-17T03:41:25Z,2022-01-17T08:10:34Z,2022-01-17T08:10:34Z,,0,0,0,0,0
+645567295,5172,Fix YOLOv3 fp16 bug,closed,RangiLyu,2021-05-17T06:49:38Z,2022-12-17T03:41:19Z,2021-05-18T05:52:10Z,2021-05-18T05:52:10Z,,0,0,0,0,0
+642878150,5143,[Enhance] Support MMCLI,closed,RangiLyu,2021-05-12T07:03:31Z,2022-12-17T03:41:19Z,2021-05-14T04:55:10Z,2021-05-14T04:55:10Z,,0,0,0,0,0
+639528787,5135,[Feature] Adding PWC metafile,closed,RangiLyu,2021-05-11T06:47:39Z,2022-12-17T03:41:19Z,2021-05-19T15:37:36Z,2021-05-19T15:37:36Z,,0,0,0,0,0
+1138584379,9405,Refactor detr 3.x conditional detr,closed,LYMDLUT,2022-11-29T08:04:18Z,2022-12-15T09:15:14Z,2022-12-15T09:15:14Z,2022-12-15T09:15:14Z,,0,0,0,0,0
+1080003133,8953,add SSH Module,closed,MambaWong,2022-10-07T07:47:44Z,2022-12-15T05:20:09Z,2022-12-15T05:02:06Z,2022-12-15T05:02:06Z,,0,0,0,0,0
+1162038849,9481,Adjust FocalLoss and QualityFocalLoss to fit MMYOLO,closed,kitecats,2022-12-13T02:10:02Z,2022-12-14T14:10:51Z,2022-12-14T14:10:51Z,2022-12-14T14:10:51Z,,0,0,0,0,0
+1157912397,9476,Fixed deadlock issue related with MMDetWandbHook,closed,MilkClouds,2022-12-10T17:54:43Z,2022-12-12T06:37:32Z,2022-12-12T06:37:32Z,2022-12-12T06:37:31Z,,0,0,0,0,0
+1140169808,9414,[Fix]Fix the logic of pseudo bboxes predicted by teacher model in SemiBase…,closed,Czm369,2022-11-30T10:46:54Z,2022-12-12T03:50:46Z,2022-12-12T03:50:46Z,2022-12-12T03:50:46Z,,0,0,0,0,0
+1159866236,9478,Add torch1.13 checking in CI,closed,hhaAndroid,2022-12-12T03:01:23Z,2022-12-12T03:46:53Z,2022-12-12T03:46:53Z,2022-12-12T03:46:53Z,,0,0,0,0,0
+1159859062,9477,Fix 'DeformableDETRHead' object has no attribute 'loss_single' ,closed,zytx121,2022-12-12T02:54:42Z,2022-12-12T03:46:14Z,2022-12-12T03:46:14Z,2022-12-12T03:46:13Z,,0,0,0,0,0
+1130995346,9366,README: Faster RCNN fp16 config link fix,closed,apatsekin,2022-11-22T03:50:38Z,2022-12-12T02:42:13Z,2022-12-12T02:42:13Z,2022-12-12T02:42:13Z,,0,0,0,0,0
+1148998239,9453,CodeCamp #34 [Doc] update the zh_cn user_guides of useful_tools.md and useful_hooks.md,closed,tianleiSHI,2022-12-06T13:55:37Z,2022-12-12T02:32:07Z,2022-12-12T02:32:07Z,2022-12-12T02:32:07Z,,0,0,0,0,0
+1155496596,9469,[Refactor] Refactor dataset metainfo to lowercase.,closed,RangiLyu,2022-12-09T06:46:42Z,2022-12-12T02:28:06Z,2022-12-12T02:28:05Z,2022-12-12T02:28:05Z,,0,0,0,0,0
+1145661479,9441,fix config import links in model converters,closed,Chan-Sun,2022-12-05T03:10:49Z,2022-12-09T03:01:55Z,2022-12-09T03:01:55Z,2022-12-09T03:01:55Z,,0,0,0,0,0
+1148324400,9450,[Fix] Fix backward inplace error with pafpn,closed,twmht,2022-12-06T07:16:31Z,2022-12-09T02:58:48Z,2022-12-09T02:52:40Z,2022-12-09T02:52:40Z,,0,0,0,0,0

@@ -1,0 +1,1001 @@
+id,number,title,state,author,created_at,updated_at,closed_at,closed_by,comments_count,is_pull_request
+3503396929,12405,is this library no longer maintained.,open,sparshgarg23,2025-10-10T15:23:50Z,2025-11-02T15:42:09Z,,,16,False
+2137018228,11475,ModuleNotFoundError: No module named 'mmcv._ext',open,lsch0lz,2024-02-15T16:57:45Z,2025-10-31T09:15:57Z,,,9,False
+3566388273,12407,Oln ssos implementation,closed,yonafalinie,2025-10-29T14:49:19Z,2025-10-29T15:00:19Z,2025-10-29T15:00:19Z,yonafalinie,1,True
+3459904272,12403,烂尾了？,open,JunrQ,2025-09-27T07:16:35Z,2025-10-27T23:52:39Z,,,3,False
+781331451,4414,swa object detection,open,hyz-xmaster,2021-01-07T13:56:20Z,2025-10-27T10:57:58Z,,,5,True
+1944540497,11044,H100 GPU RuntimeError: CUDA error: no kernel image is available for execution on the device,open,mdk19015,2023-10-16T07:18:10Z,2025-10-27T10:34:34Z,,,17,False
+3547996026,12406,m,closed,hhua11,2025-10-24T07:18:04Z,2025-10-24T07:20:16Z,2025-10-24T07:20:16Z,hhua11,0,False
+2086158996,11395,[Feature] Support RT-DETR,open,flytocc,2024-01-17T13:08:07Z,2025-10-23T12:54:25Z,,,12,True
+1166308813,7374,[fix] pycocotools can not build with py>3.8 and no VS14 for compilation in windows,open,EasonQYS,2022-03-11T11:28:56Z,2025-10-22T22:42:47Z,,,5,True
+1620255598,9925,"three errors，RuntimeError：DataLoader worker(pid11376) is killed by signal:Segmentation fault,RuntimeError：numel:integer multiplication overflow terminate called after...,RuntimeError：Segmentation fault core dumped",closed,initiater,2023-03-12T06:44:53Z,2025-10-21T12:58:26Z,2023-03-13T09:00:42Z,initiater,0,False
+2423068095,11870, Fix albumentations versions >= 1.4.11,open,Theelx,2024-07-22T14:45:49Z,2025-10-21T09:42:45Z,,,3,True
+2720538688,12063,[Bug Fix] fix eval_recalls for compatibility with NumPy > 1.23,open,risingClouds,2024-12-05T14:16:23Z,2025-10-21T09:41:15Z,,,2,True
+3247055621,12383,fix spell error in deformable_detr,open,103yiran,2025-07-21T03:25:43Z,2025-10-21T09:37:59Z,,,2,True
+3028627945,12352,[Bug fix] attention_mask dtype in BiMultiHeadAttention,open,xiuqhou,2025-04-29T14:44:55Z,2025-10-21T09:37:12Z,,,1,True
+3079814359,12364,fix: update requirements with version pins and add opencv-python,open,omrode1,2025-05-21T10:57:20Z,2025-10-21T09:36:09Z,,,2,True
+3068796290,12360,MMDet status query ?,open,Deauica,2025-05-16T11:53:40Z,2025-10-21T09:32:31Z,,,1,False
+3332625838,12396,Openmmlab website certificate expired,open,cravies,2025-08-19T01:55:43Z,2025-10-21T09:31:20Z,,,11,False
+1391915217,8920,Custom iou_thrs cause bbox_mAP_50 and bbox_mAP_75 equal to -1,open,Hellcat1005,2022-09-30T06:35:23Z,2025-10-19T05:57:46Z,,,1,True
+3467018940,12404,SOLVED: mmdet setup installation for macOS (and other platforms),open,tam-trance,2025-09-29T23:49:08Z,2025-10-16T07:08:49Z,,,4,False
+3378312807,12399,推理mmgrounddino报错！,open,ctgushiwei,2025-09-03T05:01:11Z,2025-10-15T05:22:30Z,,,3,False
+654501637,3271,ModuleNotFoundError: No module named 'mmcv._ext',closed,ahchang2,2020-07-10T04:31:27Z,2025-10-14T01:51:25Z,2020-10-11T02:22:25Z,ZwwWayne,104,False
+2003098542,11198,Large Image utilities need a local implementation of shift_bbox,open,SajjadPSavoji,2023-11-20T22:08:22Z,2025-10-10T15:18:26Z,,,2,True
+3378592265,12400,关于训练mm_grounding_dino过程中，多个数据集之间负样本的干扰问题,open,SzhangS,2025-09-03T07:06:00Z,2025-10-10T02:44:55Z,,,2,False
+1235946373,7987,[WIP] Support Grad Free and  Grad Based CAM,open,hhaAndroid,2022-05-14T11:11:33Z,2025-10-09T08:48:15Z,,,53,True
+1247437197,8045,How mmdetection uses albumentations,closed,monkeycc,2022-05-25T04:01:28Z,2025-10-06T21:29:32Z,2022-05-30T01:44:49Z,ZwwWayne,5,False
+1806379867,10649,[Docs: Getting Started] unable to verify installation,closed,evdcush,2023-07-16T00:25:43Z,2025-09-30T14:46:15Z,2023-07-22T13:16:47Z,evdcush,9,False
+2700626107,12051,"mim install ""mmcv>=2.0.0""这一步安装失败",open,wwzy666,2024-11-28T03:24:08Z,2025-09-29T23:51:02Z,,,7,False
+2210164370,11593,是否有计划复现T-Rex2,open,zhitao654321,2024-03-27T08:27:27Z,2025-09-29T01:07:30Z,,,10,False
+1810929356,10665,Always have a bug when installing mmdet3.1.0,open,christiano12345,2023-07-19T00:38:58Z,2025-09-25T00:47:19Z,,,13,False
+1366645656,8757,"fix: transpose scale_factors to match the shape of [batch_size, 4]",open,Raysilience,2022-09-08T16:26:42Z,2025-09-20T12:18:23Z,,,5,True
+3093811663,12367,KeyError: 'FasterRCNN is not in the mmengine::model registry. Please check whether the value of `FasterRCNN` is correct or it was registered as expected.,open,meixiangzhang,2025-05-27T12:45:26Z,2025-09-16T10:25:47Z,,,2,False
+3092270873,12366,how to use gradient accumulation?,open,helloyaworld,2025-05-27T00:50:52Z,2025-09-16T10:07:23Z,,,1,False
+3140156410,12373,MMdetection3.0 how to add AP30,open,GuanyuChen8,2025-06-12T12:45:27Z,2025-09-16T08:06:19Z,,,1,False
+1917382671,10988,How to transfer models from Detectron2 to MMDetection?,closed,TensorNull,2023-09-28T12:08:49Z,2025-09-15T14:32:32Z,2025-09-15T14:32:32Z,TensorNull,0,False
+1941792787,11036,How to analyze the training results of instance segmentation dataset?,closed,TensorNull,2023-10-13T11:45:48Z,2025-09-15T14:32:28Z,2025-09-15T14:32:28Z,TensorNull,0,False
+3192022711,12376,Training with high resolution images,open,VeeranjaneyuluToka,2025-07-01T11:13:36Z,2025-09-13T18:54:25Z,,,1,False
+3277358272,12389,Could anyone help me how to train FasterRCNN with Swin Backbone?,open,kameshkotwani,2025-07-30T14:37:34Z,2025-09-13T16:28:11Z,,,1,False
+1356378668,8673,"Refactor filtering mask, fix attribute error",open,christian-hiebl,2022-08-30T22:21:40Z,2025-09-11T12:17:16Z,,,9,True
+3267764426,12386,[Bug] Missing 'info' field in cat_dataset.zip causing evaluation error,open,codingbus821,2025-07-28T02:14:21Z,2025-09-10T01:11:16Z,,,2,False
+1155386727,7298,`find_unused_parameters` after several epoch training when training YOLOX,closed,igo312,2022-03-01T14:09:36Z,2025-09-09T03:37:06Z,2022-10-25T08:32:54Z,hhaAndroid,18,False
+3396220762,12402,mm groundingdino训练的模型怎么可以转成官方脚本可以运行的模型？,open,ctgushiwei,2025-09-09T01:25:48Z,2025-09-09T01:26:04Z,,,0,False
+1194166814,7645,Support αiou loss,open,CCODING04,2022-04-06T07:19:56Z,2025-09-09T00:24:56Z,,,10,True
+606743317,2534,Bifpn prac jw,closed,hello-jinwoo,2020-04-25T10:49:10Z,2025-09-07T18:15:59Z,2023-01-29T10:51:54Z,ZwwWayne,4,True
+1895928230,10924,我在跑使用文档的demo时出现了The model and loaded state dict do not match exactly的问题,open,yangzhenyu6,2023-09-14T07:36:54Z,2025-09-07T06:13:34Z,,,5,False
+3386089804,12401,Do you have plans to open source DINO-X?,open,kasteric,2025-09-05T02:46:54Z,2025-09-05T02:47:28Z,,,0,False
+3375485066,12398,.,open,kasteric,2025-09-02T10:46:45Z,2025-09-05T02:45:58Z,,,0,False
+2065210980,11342,关于mmdetection微调之后 Grounding DINO 无法tensort加速问题,open,xiyangyang99,2024-01-04T08:24:06Z,2025-09-04T08:42:09Z,,xiyangyang99,72,False
+1651951495,10078,[Fix] Fix the teacher_model is not automatically placed on the right device,open,Ginray,2023-04-03T12:14:01Z,2025-09-03T19:59:42Z,,,2,True
+2056310747,11313,[New Feature] MM Grounding DINO,open,hhaAndroid,2023-12-26T11:13:06Z,2025-09-03T03:25:15Z,,,11,False
+3089131339,12365,"At present, the 50 series graphics card only supports Cuda12.8 and Torch2.8, so how should I choose the corresponding mmdet and mmcv?",open,kNDSFLJ,2025-05-25T08:14:57Z,2025-09-01T06:23:22Z,,,4,False
+3361497485,12397,MMGroundingDINO开放词汇目标检测微调后最大支持的txt类别数量,open,flysssss,2025-08-28T02:18:32Z,2025-08-28T02:57:38Z,,,1,False
+2386071149,11823,"出现WARNING - No pre-trained weights for SwinTransformer, training start from scratch",open,JiaoYang0507,2024-07-02T12:00:54Z,2025-08-27T14:43:38Z,,,1,False
+2850041646,12308,Add Validation Loss,open,Vaaaaaalllll,2025-02-13T05:57:54Z,2025-08-25T10:05:06Z,,,3,False
+1951433380,11063,AttributeError: 'SSDHead' object has no attribute 'loss_cls',open,dpdevi9,2023-10-19T06:57:58Z,2025-08-25T03:27:05Z,,,10,False
+3272374118,12387,如何定义多个验证数据集,closed,binbla,2025-07-29T06:56:03Z,2025-08-22T08:42:29Z,2025-08-22T08:42:29Z,binbla,1,False
+3330649717,12395,证书已经过期,open,opzaa,2025-08-18T13:03:57Z,2025-08-20T11:07:40Z,,,4,False
+1914733900,10979,GLIP finetune related error: AttributeError: 'DetDataSample' object has no attribute 'text',closed,CDchenlin,2023-09-27T05:37:03Z,2025-08-19T10:26:07Z,2023-09-27T09:58:03Z,hhaAndroid,6,False
+2173972164,11525,训练模型时，显存不断增长，经过几千次迭代后，显存溢出,closed,langli1999,2024-03-07T14:18:00Z,2025-08-18T08:28:36Z,2024-05-21T08:01:09Z,langli1999,13,False
+2391837140,11832,多卡训练卡住，单卡GPU利用率为0，其余100%,open,WangJian981002,2024-07-05T05:22:10Z,2025-08-18T05:39:31Z,,,5,False
+1667676697,10154,"In RTMDet-ins, NCCL timeout when ddp training on two nodes，the error  happened by accident",open,DuckJ,2023-04-14T07:22:43Z,2025-08-18T05:20:00Z,,,1,False
+721118644,3925,pip install -v -e .,closed,rouyalxy,2020-10-14T04:09:36Z,2025-08-15T05:18:30Z,2020-10-19T13:28:02Z,ZwwWayne,5,False
+3324253162,12393,MMDet not logging to Wandb,open,YMRTZ,2025-08-15T03:57:10Z,2025-08-15T03:57:25Z,,,0,False
+2325889954,11757,ask help for error: nms_impl: implementation for device cuda:0 not found.,open,liuxia0725,2024-05-30T15:00:13Z,2025-08-12T19:05:38Z,,,4,False
+2218967234,11607,AttributeError: 'list' object has no attribute 'backend_args',open,willcray,2024-04-01T20:01:19Z,2025-08-12T16:11:20Z,,,2,False
+2421348907,11867,Duplicate predictions with high score Detr,open,athira-selvam,2024-07-21T11:06:59Z,2025-08-11T09:17:27Z,,,1,False
+1407423151,9014,Error occurred in modifying and reading image data,closed,zhenbangW,2022-10-13T09:05:10Z,2025-08-08T07:25:12Z,2022-10-18T09:03:49Z,RangiLyu,5,False
+2081463747,11373,mm-gounding dino微调如何控制训练参数冻结与训练,open,WhatRui,2024-01-15T08:06:49Z,2025-08-06T21:47:13Z,,,3,False
+3295213938,12392,RuntimeError: NCCL communicator was aborted on rank 1,open,Hfhstrive,2025-08-06T05:16:03Z,2025-08-06T05:16:19Z,,,0,False
+3291928272,12391,Difference in visualization results between MMGroundingDINO and GroundingDINO on a single image,open,qianbo-x,2025-08-05T07:28:27Z,2025-08-05T07:28:44Z,,,0,False
+2758872811,12279,Missing Key of pad_shape in img_meta,open,LaiXuanyu,2024-12-25T15:53:18Z,2025-08-05T02:14:06Z,,,2,False
+1725732649,10395,why use tools/test.py and mmdet.apis to inference  a same checkpoint with same cfg file but generate different output,open,lisenjie757,2023-05-25T12:30:51Z,2025-08-01T07:32:56Z,,,8,False
+3281329122,12390,test,closed,Petros626,2025-07-31T18:02:42Z,2025-07-31T20:17:47Z,2025-07-31T20:17:47Z,Petros626,0,False
+1521924518,9580,numpy version error when install mmdet3d v0.17.1,closed,18lalala,2023-01-06T04:37:57Z,2025-07-31T09:40:58Z,2023-03-11T11:27:20Z,github-actions[bot],10,False
+3272515208,12388,Lauriebax/update onedl mmdetection,closed,lauriebax,2025-07-29T07:39:46Z,2025-07-29T07:39:59Z,2025-07-29T07:39:54Z,lauriebax,1,True
+2387681136,11825,"During object detection, How to extract image feature from neck layer during eval mode in MMDET 3.3.0?",closed,prafful-kumar,2024-07-03T05:06:33Z,2025-07-29T07:09:43Z,2025-07-29T07:09:43Z,prafful-kumar,1,False
+747794721,4154,Are COCO RLE Encoded datasets supported for training?,closed,zachbellay,2020-11-20T21:10:12Z,2025-07-29T06:22:01Z,2020-12-12T05:21:58Z,xvjiarui,7,False
+1336931652,8552,yolov3 training on IPU,open,HuDi2018,2022-08-12T08:50:39Z,2025-07-28T09:42:28Z,,,4,True
+2618093738,12016,Box Predictions - Confidence Thresholding during Evaluation,closed,laurenzheidrich,2024-10-28T11:07:37Z,2025-07-26T13:41:44Z,2024-10-28T13:54:17Z,laurenzheidrich,3,False
+2365144765,11806,Why can I not find model in mmdetection-main/mmdet?,open,basitlab,2024-06-20T19:52:43Z,2025-07-26T10:24:08Z,,,2,False
+1111891082,7067,[Feature] utilize mmcv image backend,closed,fcakyon,2022-01-23T14:46:44Z,2025-07-26T08:30:08Z,2025-04-27T08:04:52Z,fcakyon,5,True
+3257351123,12385,which pytorch is compatible with which version?,closed,kameshkotwani,2025-07-23T18:40:58Z,2025-07-25T14:53:23Z,2025-07-25T14:53:23Z,kameshkotwani,4,False
+2363347484,11803,vlfuse_helper中的attention_mask_l用法,open,HandsLing,2024-06-20T01:47:58Z,2025-07-25T05:47:52Z,,,5,False
+2564152742,11983,ModuleNotFoundError: No module named 'mmcv._ext',open,mbspng,2024-10-03T14:02:05Z,2025-07-25T05:02:18Z,,,3,False
+2746734596,12274,"After mmgrounding-dino-t model trained my own dataset, the test labels became chaotic.",open,h030162,2024-12-18T04:27:06Z,2025-07-24T03:12:31Z,,,2,False
+3139864161,12372,mmpose1.3.2、mmdet3.3.0与mmcv2.2.0不兼容,open,namofoo,2025-06-12T11:14:37Z,2025-07-23T08:26:11Z,,,3,False
+2359350201,11799,"set randomness= dict(seed=138011772,deterministic=True) in config file, RuntimeError in anchor_head.py",open,ttt0666,2024-06-18T09:07:39Z,2025-07-22T02:53:03Z,,,2,False
+2985245545,12346,MC Dropout on decoder layer,open,jmaxrdgz,2025-04-10T10:43:50Z,2025-07-21T09:13:06Z,,,2,False
+3247514551,12384,Masks not merging correctly after SAHI slicing inference in instance segmentation task,closed,kieran0625,2025-07-21T07:17:01Z,2025-07-21T07:37:19Z,2025-07-21T07:37:19Z,kieran0625,1,False
+3245332838,12382,wtf train fcos,open,X-WN,2025-07-19T14:10:46Z,2025-07-19T14:11:03Z,,,0,False
+3238611221,12381,FileNotFoundError: [Errno 2] No such file or directory: '.dist_test/tmpq29jywik/part_13.pkl',open,Jackluisus,2025-07-17T08:16:15Z,2025-07-17T08:16:31Z,,,0,False
+759937180,4259,Rebuild hungarian assigner,closed,kellenf,2020-12-09T02:30:11Z,2025-07-15T02:40:47Z,2020-12-23T10:06:20Z,ZwwWayne,4,True
+2774086352,12284,"Always return error ""user token expired"" when use openAPI platform",open,sukha-cn,2025-01-08T02:19:07Z,2025-07-14T14:10:18Z,,,1,False
+764833051,4291,The qusetion of  /mmcv/_ext.cpython-37m-x86_64-linux-gnu.so: undefined symbol: _ZTIN3c1021AutogradMetaInterfaceE,closed,liuyanzhi1214,2020-12-13T03:08:59Z,2025-07-14T06:12:20Z,2020-12-18T07:03:59Z,ZwwWayne,14,False
+3227492158,12380,training rtmdet with original img size,open,ashlod,2025-07-14T06:12:03Z,2025-07-14T06:12:18Z,,,0,False
+1748664290,10476,Example config file for RTMDet on custom dataset,closed,AndreaPi,2023-06-08T21:30:00Z,2025-07-12T18:16:13Z,2023-06-20T09:19:44Z,AndreaPi,6,False
+2471066261,11912,Separate performance results for val_evaluator with multiple validation sets,open,xiongjiechen,2024-08-16T21:26:05Z,2025-07-11T17:27:39Z,,,3,False
+2343732657,11780,'SSDHead' object has no attribute 'loss_cls',open,beratatmaca,2024-06-10T12:04:23Z,2025-07-11T09:13:43Z,,,1,False
+3222109214,12379,Optimizing inference hyperparameters in validation,open,ir2718,2025-07-11T08:48:18Z,2025-07-11T08:48:35Z,,,0,False
+2176745904,11534,Training stuck after index is created when training from checkpoint,open,jdtrellesm,2024-03-08T20:49:41Z,2025-07-08T08:49:37Z,,,7,False
+3204650078,12377,Loading pretrained weights into YOLOX backbone showing missing keys in source state_dict error,closed,Abhishek0075,2025-07-05T09:33:55Z,2025-07-08T06:07:21Z,2025-07-08T06:07:21Z,Abhishek0075,0,False
+3205705797,12378,Add industrial surface defect detection example using NEU dataset,open,farquardsolve,2025-07-05T22:18:09Z,2025-07-05T23:33:31Z,,,1,True
+1457632249,9359,"yolox train customize dataset the loss_cls: 0.0000, loss_bbox: 0.0000",closed,EnzoLiang,2022-11-21T09:48:37Z,2025-07-05T08:49:33Z,2022-11-22T07:31:57Z,EnzoLiang,11,False
+2242622243,11637,"Hello, could you please provide the training approach for fine-tuning the referring expression comprehension (REC) task?",open,tygogogo,2024-04-15T03:28:41Z,2025-07-04T12:29:06Z,,,1,False
+2081845827,11374,关于mm_grounding_dino获得伪标签后的训练,open,zhangnanyue,2024-01-15T11:33:54Z,2025-07-04T11:16:47Z,,,12,False
+2968637899,12342,inference efficiency,open,WHUzhusihan96,2025-04-03T07:48:15Z,2025-07-04T08:16:22Z,,,1,False
+2194182599,11566,"About lr and accumulative_counts, how set them correctly?",open,wzwcs,2024-03-19T06:56:56Z,2025-07-03T05:33:22Z,,,1,False
+990709773,6061,AttributeError: 'tuple' object has no attribute 'items',closed,Senwang98,2021-09-08T04:43:35Z,2025-06-27T13:08:32Z,2021-09-08T05:30:49Z,Senwang98,1,False
+1498372322,9495,[Fix] Fix yolof training stability,closed,twmht,2022-12-15T12:46:24Z,2025-06-27T03:12:42Z,2025-06-27T03:12:42Z,twmht,1,True
+2074188054,11356,AttributeError: 'PolygonMasks' object has no attribute 'shape',closed,mengdongwei,2024-01-10T11:40:01Z,2025-06-24T00:38:15Z,2024-01-11T01:56:47Z,mengdongwei,5,False
+1624643826,9950,pointrend 3.x empty roi bug,open,treasureqqm,2023-03-15T03:02:09Z,2025-06-22T10:58:56Z,,,4,False
+2618608430,12017,Zero mAP during validation when using ViT backbone in Faster R-CNN,open,chan1031,2024-10-28T14:33:50Z,2025-06-16T09:02:14Z,,,9,False
+3147394442,12375,Custom backbone: Very low mAP (~0) and recall (~0) during training,open,LinkZY3471,2025-06-15T11:34:44Z,2025-06-15T11:35:01Z,,,0,False
+1630341058,9986,"[Bug] after change the backbone ,the map gets zero.",open,oloooooo,2023-03-18T14:07:53Z,2025-06-15T09:17:02Z,,,2,False
+493273839,1386,End-to-end Faster/Mask R-CNN models export to ONNX,closed,druzhkov-paul,2019-09-13T11:25:27Z,2025-06-14T02:31:45Z,2021-05-31T09:33:45Z,ZwwWayne,22,True
+727855554,3985,Paa improve,closed,Johnson-Wang,2020-10-23T03:07:25Z,2025-06-13T17:04:20Z,2020-10-25T01:26:27Z,hellock,2,True
+3141988530,12374,How can I augment the image while keeping the face intact?,open,wzr0108,2025-06-13T01:46:57Z,2025-06-13T01:47:13Z,,,0,False
+642188852,3082,processing ignore boxes in atss assigner,closed,rydenisbak,2020-06-19T19:53:55Z,2025-06-12T23:05:22Z,2020-07-09T09:08:24Z,hellock,4,True
+2314120092,11737,Soft Teacher error,open,Aniulo,2024-05-24T01:20:36Z,2025-06-12T09:22:44Z,,,2,False
+1585279928,9778,[Bug] A bug happen in the train of semi-supervised object detection,open,southeastboss,2023-02-15T06:08:07Z,2025-06-12T09:12:18Z,,,18,False
+863787959,5039,[Feature]: Support exporting to ONNX with batch and dynamic shape,closed,RunningLeon,2021-04-21T11:56:25Z,2025-06-12T04:29:54Z,2021-04-27T01:39:33Z,ZwwWayne,3,True
+3132752929,12371,Uniform the data format,closed,mattxsong,2025-06-10T09:01:57Z,2025-06-11T14:27:21Z,2025-06-11T14:27:21Z,mattxsong,0,False
+1814548935,10672,"运行mmdetection  image_demo.py时报错  unknown argument {'texts', 'custom_entities'} for `preprocess`, `forward`, `visualize` and `postprocess`",open,HePengguang,2023-07-20T18:12:30Z,2025-06-08T12:54:19Z,,,8,False
+2061249212,11327,ConditionalDETR  训练时候 cpu 内存泄露,open,developWmark,2024-01-01T01:59:46Z,2025-06-07T05:04:54Z,,,1,False
+1891900898,10916,ValueError: need at least one array to concatenate,open,dingtom,2023-09-12T07:56:07Z,2025-06-05T10:27:48Z,,,9,False
+3116252119,12370,训练过程中显存占满，验证时出现out of memory,open,SwustLiC,2025-06-04T03:46:19Z,2025-06-04T03:46:34Z,,,0,False
+1529644992,9616,[Bug] CUDA out of memory in RTMDet-Ins on custom dataset with > 100 ground truths per img,open,mira-murali,2023-01-11T20:25:39Z,2025-06-02T16:57:32Z,,,35,False
+2941890216,12334,The results are not the same each time,open,CumtStudentZhanghua,2025-03-24T03:39:11Z,2025-06-02T08:11:30Z,,,1,False
+1786560325,10585,How to run batch inference on CPU?,open,Macok,2023-07-03T17:20:41Z,2025-06-02T01:55:19Z,,,3,False
+2550941499,11975,training grounding dino with 139 classes,closed,sheethalb,2024-09-26T15:35:15Z,2025-06-01T06:40:00Z,2024-09-30T15:24:45Z,sheethalb,3,False
+3106682013,12369,有关被截断目标预测的问题,open,zhongqiu1245,2025-06-01T06:00:20Z,2025-06-01T06:00:36Z,,,0,False
+2179601101,11544,Endless loop while install mmdet using mim/pip and FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmph1rknnpr/tmphgu4r4rf.py',open,Markson-Young,2024-03-11T16:41:25Z,2025-05-30T15:39:04Z,,,4,False
+2597769771,12002,Modify Config file for Custom Modules ,open,Mukil07,2024-10-18T14:58:21Z,2025-05-29T06:29:45Z,,,2,False
+1396908790,8939,Creating multi-modal (bi-modal) detectors / pipelines for them,open,Maenansyn,2022-10-04T22:21:04Z,2025-05-29T06:05:28Z,,,33,False
+3097086956,12368,多模态glip demo推理报错,open,Hitheigy,2025-05-28T11:53:10Z,2025-05-28T11:56:46Z,,,1,False
+1797954409,10620,torch.distributed.elastic.multiprocessing.errors.ChildFailedError,open,Majiawei,2023-07-11T02:27:49Z,2025-05-28T06:42:39Z,,,11,False
+3065744972,12359,How to apply mosaic augmentation in instance segmentation?,open,Renat2001,2025-05-15T10:23:32Z,2025-05-27T15:06:00Z,,,1,False
+2176041769,11533,Wrong model file was referenced; Changed to the correct one,closed,Kataglyphis,2024-03-08T13:26:48Z,2025-05-27T14:14:04Z,2025-05-27T14:14:04Z,Kataglyphis,1,True
+2855842265,12312,"Issue Report and Bug fix: AssertionError: MMCV==2.2.0 is used but incompatible. Please install mmcv>=2.0.0rc4, <2.2.0. ",open,hansensamjohn,2025-02-16T02:54:39Z,2025-05-27T14:08:53Z,,,2,False
+2340518387,11776,Add faster-coco-eval metric,closed,MiXaiLL76,2024-06-07T13:50:03Z,2025-05-27T09:48:31Z,2025-05-27T09:48:30Z,MiXaiLL76,10,True
+2019171667,11232,GradientCumulativeOptimizerHook does'nt work in the latest mmcv 2.1.0 ?,closed,zhouzhen0720,2023-11-30T17:30:58Z,2025-05-27T00:59:19Z,2023-12-04T04:43:48Z,zhouzhen0720,6,False
+2321389895,11747,TypeError: __init__() got an unexpected keyword argument 'pretrained',open,theaftaab,2024-05-28T15:37:41Z,2025-05-24T12:17:02Z,,,2,False
+2361112626,11800,"When reasoning about codetr, the program was killed",open,Clichong,2024-06-19T02:32:23Z,2025-05-20T14:16:35Z,,,1,False
+2722228805,12065,"I hope to implement multi-category prediction of the RCNN network, that is, one ROI outputs the confidence of different categories. What should I do?",open,hu874,2024-12-06T07:05:39Z,2025-05-20T07:35:02Z,,,1,False
+3047592707,12354,Is it easy to split inference code from training code?,open,thisisi3,2025-05-08T02:04:34Z,2025-05-20T07:28:14Z,,,1,False
+3072697650,12363,集群报错Error: No module named 'mmdet',closed,hanghanghanghanghanghang,2025-05-19T06:42:58Z,2025-05-20T06:57:01Z,2025-05-20T06:57:01Z,hanghanghanghanghanghang,4,False
+2906415078,12323,how to evaluate the map using coco metrix in custom dataset?,open,luoshiyong,2025-03-10T08:07:49Z,2025-05-20T06:40:28Z,,,2,False
+2189826156,11556,在使用resume文件继续训练时卡在了advance dataloader步骤中,open,Chengnotwang,2024-03-16T06:56:38Z,2025-05-18T12:51:09Z,,,14,False
+3070685202,12362,关于copy_paste数据增强方案,open,RobinHan24,2025-05-17T11:18:15Z,2025-05-17T11:18:30Z,,,0,False
+3070677662,12361,why not a tutorial to transform code base mmdet 2.0 to mmdet 3.0??? Lots of incompatible issues!!,open,kasteric,2025-05-17T11:06:50Z,2025-05-17T11:08:43Z,,,1,False
+1790684473,10600,mmengine KeyError: 'PoseLocalVisualizer is not in the visualizer registry.,open,seon-creator,2023-07-06T02:34:49Z,2025-05-17T07:25:59Z,,,7,False
+1977679256,11126,"AssertionError: MMCV==2.0.0 is used but incompatible. Please install mmcv>=1.1.5, <=1.3.0.",open,VLadImirluren,2023-11-05T07:57:36Z,2025-05-13T07:45:27Z,,,2,False
+2052068328,11302,I can't setup it successfully!,open,tunantu,2023-12-21T09:41:31Z,2025-05-13T07:44:53Z,,,3,False
+2137755809,11476,"AssertionError: MMCV==1.7.2 is used but incompatible. Please install mmcv>=2.0.0rc4, <2.2.0.",open,shinparkg,2024-02-16T02:18:25Z,2025-05-13T07:42:36Z,,shinparkg,3,False
+2175138519,11530,RuntimeError: nms_impl: implementation for device cuda:0 not found,closed,captainIT,2024-03-08T02:04:23Z,2025-05-13T07:42:07Z,2024-03-14T06:31:39Z,captainIT,2,False
+2242126598,11636,"AssertionError: MMCV==2.1.0 is used but incompatible. Please install mmcv>=1.3.17, <=1.8.0.",open,zhouyizhuo,2024-04-14T12:18:34Z,2025-05-13T07:36:09Z,,,2,False
+2331519672,11763,Incompatible version with `mmcv`,open,jhj0517,2024-06-03T15:57:29Z,2025-05-13T07:27:02Z,,,1,False
+2493270115,11926,你这个安装教程不对啊！,open,lingdu-xu,2024-08-29T01:33:59Z,2025-05-13T07:26:12Z,,,8,False
+2565657632,11984,"Compatibility Issue with MMCV, PyTorch, and CUDA in Google Colab Object Detection Model",open,faizan628,2024-10-04T07:26:24Z,2025-05-13T07:24:44Z,,,3,False
+2910937824,12326,MMCV wheel not installing,open,a-pirotta,2025-03-11T15:15:53Z,2025-05-13T07:21:44Z,,,3,False
+3058614565,12358,BUG in mmdet.structures/mask /structures.py 报告BUG,open,WenLinLliu,2025-05-13T02:49:04Z,2025-05-13T02:49:20Z,,,0,False
+1585441962,9779,[Feature] About model upgrading,closed,majintao1994,2023-02-15T08:40:48Z,2025-05-12T12:26:56Z,2023-02-21T09:12:04Z,ZwwWayne,2,False
+3054906177,12357,mmgroundingdino train LVIS  may exceed the 256-token limit?,open,0xyangl,2025-05-11T10:56:46Z,2025-05-11T10:58:34Z,,,0,False
+3023513364,12350,del,closed,tanushreebanerjee,2025-04-28T02:08:23Z,2025-05-10T20:59:18Z,2025-05-10T20:47:16Z,tanushreebanerjee,1,True
+3054130899,12356,dn-detr,open,rickmoddy,2025-05-10T13:15:22Z,2025-05-10T13:15:39Z,,,0,False
+3054104701,12355,I can't find file: demo/body3d_pose_lifter_demo.py,open,Stickic-cyber,2025-05-10T12:41:39Z,2025-05-10T12:41:54Z,,,0,False
+402095675,281,"`No CUDA runtime is found, using CUDA_HOME='/usr/local/cuda'`",closed,zytx121,2019-01-23T06:51:32Z,2025-05-10T11:53:29Z,2019-01-23T07:22:05Z,zytx121,22,False
+1965028977,11100,微调训练Grounding DINO，无法接受额外的输入文本问题,open,Jackluisus,2023-10-27T08:28:56Z,2025-05-09T10:32:12Z,,,2,False
+2037829854,11274,__init__() got an unexpected keyword argument 'ann_file',open,JiangAiping-527,2023-12-12T14:05:46Z,2025-05-08T07:10:44Z,,,2,False
+499267020,1457,Anchor,closed,DENGZAIXU,2019-09-27T06:46:19Z,2025-05-02T10:46:00Z,2020-07-17T10:39:37Z,ZwwWayne,3,False
+3032349888,12353,Potential Conflict in Label Assignment for 0-Indexed Dataset in MaxIoUAssigner,open,Vishawjeet-rmsl,2025-04-30T19:54:03Z,2025-04-30T19:54:19Z,,,0,False
+2066044090,11345,CocoMetric index is out of bounds with custom IoU Threshold and classwise=True,open,willcray,2024-01-04T17:14:53Z,2025-04-30T16:42:50Z,,,1,False
+2324845625,11755,Progress bar in in DetInferencer API,closed,anisfakhfakh,2024-05-30T06:46:44Z,2025-04-29T15:01:50Z,2024-05-30T19:31:09Z,anisfakhfakh,2,False
+3028602756,12351,Wrong attention mask implementation in BiMultiHeadAttention,open,xiuqhou,2025-04-29T14:36:38Z,2025-04-29T14:36:56Z,,,0,False
+2424213721,11872,'ConfigDict' object has no attribute 'model',open,wuying-541,2024-07-23T04:12:09Z,2025-04-27T14:39:59Z,,,3,False
+2114210279,11454,RuntimeError: ms_deform_attn_impl_forward: implementation for device cuda:0 not found.,closed,erictan23,2024-02-02T06:44:48Z,2025-04-25T14:51:28Z,2024-02-05T08:39:10Z,hhaAndroid,5,False
+1976645942,11124,No module named 'mmengine'（没有“mmengine”的模块）,open,fxYOLO,2023-11-03T17:32:47Z,2025-04-25T13:08:57Z,,,1,False
+1308909757,8379,Multi-gpu training get stacked at the first epoch,open,Icecream-blue-sky,2022-07-19T02:58:46Z,2025-04-25T11:03:05Z,,,4,False
+1213656923,7817,How can I do not use the pretraining model?,open,hustCYQ,2022-04-24T13:35:08Z,2025-04-24T11:21:46Z,,,4,False
+408526533,311,how to train from scratch?,closed,notfox,2019-02-10T11:40:02Z,2025-04-24T11:02:39Z,2019-02-13T09:25:47Z,notfox,9,False
+3016413561,12349,OSError: We couldn't connect to 'https://huggingface.co' to load this file,open,yiruzzz,2025-04-24T08:10:02Z,2025-04-24T08:10:20Z,,,0,False
+2855064922,12311,自定义backbone出现错误'HGNetV2 is not in the mmdet::model registry,open,2315455002,2025-02-15T02:52:54Z,2025-04-24T03:11:53Z,,,2,False
+2194262456,11567,"""RuntimeError: The training pipeline of the dataset wrapper always return None"" while using albu and MultiImageMixDataset",open,WangChen100,2024-03-19T07:47:46Z,2025-04-23T18:27:01Z,,,1,False
+992164755,6070,RuntimeError: target.max().item<int64_t>() <= (int64_t),closed,huimlight,2021-09-09T12:26:26Z,2025-04-23T08:50:41Z,2021-09-23T02:36:37Z,RangiLyu,8,False
+2890721894,12318,验证安装的推理验证的问题，怎么解决？,closed,hl714,2025-03-03T09:51:19Z,2025-04-18T07:05:19Z,2025-03-04T01:43:38Z,hl714,1,False
+2061100453,11326,how to download GRIT-20M dataset?,open,stihuangyuan,2023-12-31T15:51:45Z,2025-04-15T06:21:01Z,,,9,False
+2990384496,12348,Face Recognition (Bounding box edit),open,Tortoise17,2025-04-12T10:04:48Z,2025-04-12T10:05:04Z,,,0,False
+774983509,4357,ImportError: /home/ray/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/mmcv/_ext.cpython-37m-x86_64-linux-gnu.so: undefined symbol: _ZN2at5emptyEN3c108ArrayRefIlEERKNS0_13TensorOptionsENS0_8optionalINS0_12MemoryFormatEEE,closed,ShelbyXu9,2020-12-27T06:04:07Z,2025-04-10T15:53:43Z,2020-12-28T05:18:24Z,ShelbyXu9,2,False
+1687054795,10246,inference particular classes,open,nlxxWangYH,2023-04-27T15:07:37Z,2025-04-10T10:24:53Z,,,4,False
+2789076579,12294,Support val and test dataset in tools/analysis tools/browse dataset.py,closed,chatzianagnostis,2025-01-15T07:52:32Z,2025-04-10T08:27:46Z,2025-01-15T13:44:09Z,chatzianagnostis,0,True
+2984391942,12345,Issue: RuntimeError with SwinTransformer frozen_stages >= 0 in Distributed Training,open,941227056,2025-04-10T04:06:30Z,2025-04-10T04:06:45Z,,,0,False
+1077820266,6765,RuntimeError: nms_impl: implementation for device cuda:0 not found.,closed,daydayup-bit,2021-12-12T14:27:32Z,2025-04-09T03:06:15Z,2021-12-15T03:04:07Z,jshilong,23,False
+608167419,2558,Random seed and reproducibility ,closed,twangnh,2020-04-28T09:31:55Z,2025-04-08T22:26:55Z,2020-05-08T05:19:55Z,hellock,3,False
+2605690203,12010,Grounding-Dino: BERT model frozen or not?,open,laurenzheidrich,2024-10-22T14:49:51Z,2025-04-08T13:32:27Z,,,3,False
+2979733406,12344,where is checkpoints of DINO?,open,likeevery,2025-04-08T13:02:52Z,2025-04-08T13:03:08Z,,,0,False
+2183088668,11549,Steps to convert RTMDet instance segmentation model to onnx or tensorrt?,open,dsbyprateekg,2024-03-13T04:24:49Z,2025-04-08T08:10:47Z,,,3,False
+2286944908,11697,"RuntimeError: `self._train_loop` should not be None when calling train method. Please provide `train_dataloader`, `train_cfg`, `optimizer` and `param_scheduler` arguments when initializing runner.",open,wdzwdxy,2024-05-09T05:50:58Z,2025-04-07T07:43:00Z,,,6,False
+2974782138,12343,Auto completion,open,rickmoddy,2025-04-06T08:00:08Z,2025-04-06T08:00:23Z,,,0,False
+1631512603,9991,"[Bug] when the number of instances in an image are more than 512, it throws an error: src.cols > 0 && src.rows > 0 in function 'warpAffine'",open,yarkable,2023-03-20T07:02:35Z,2025-04-05T18:06:59Z,,,2,False
+1722299109,10378,how to parametrize mmdetection for a specific solov2 dataset,open,SylvainArd,2023-05-23T15:20:57Z,2025-04-04T08:59:13Z,,,36,False
+1741152024,10443,MMDet_InstanceSeg_Tutorial.ipynb bugs fixed.,open,Airflyctl,2023-06-05T07:26:49Z,2025-04-04T06:01:35Z,,,3,False
+2247532585,11644,"video_gpu_accel_demo.py - TypeError: ""tasks"" must be a tuple object or a sequence object",open,devwasabi,2024-04-17T06:59:13Z,2025-04-01T08:14:28Z,,,4,False
+2030131841,11262,DETR  VAL  mAP  0.0000,open,FPPMXB,2023-12-07T08:07:05Z,2025-04-01T06:32:13Z,,,8,False
+2346677566,11787,报错：KeyError: 'BboxOverlaps2D is not in the mmengine::task util registry. Please check whether the value of `BboxOverlaps2D` is correct or it was registered as expected.,open,shingszelam,2024-06-11T15:08:05Z,2025-03-31T11:36:40Z,,,2,False
+2959850067,12341,rtmdet video_demo issue,open,k-engus,2025-03-31T08:45:02Z,2025-03-31T08:45:17Z,,,0,False
+2959317250,12340,How to properly migrate a trained model from MMDetection v2 to MMDetection v3?,open,Ddlozada21,2025-03-31T02:28:04Z,2025-03-31T02:28:19Z,,,0,False
+373794310,78,About multiscale training,closed,iceload123,2018-10-25T06:36:29Z,2025-03-30T20:28:12Z,2018-10-25T11:10:10Z,iceload123,5,False
+2959002338,12339,fix a typo in readme,open,liux-pro,2025-03-30T17:38:54Z,2025-03-30T17:39:22Z,,,1,True
+2958045652,12338,Panoptic FPN - custom dataset training configuration settings issue,open,koupn,2025-03-29T14:16:19Z,2025-03-29T14:16:36Z,,,0,False
+1711611141,10338,why the loss_cls and loss_bbox are zero during the train when i use yolox in mmdet 3.0.0?,closed,VincentMy,2023-05-16T09:19:48Z,2025-03-28T02:48:01Z,2023-05-16T12:08:40Z,VincentMy,7,False
+2951366318,12337,How to get the number of iterations used to adjust the weight of losses in training.,open,Rsodlei,2025-03-27T03:15:31Z,2025-03-27T03:15:46Z,,,0,False
+2080628748,11371,导出mask2former模型时，当导出为gpu上的torchscript模型后，测试发现精度损失很厉害，而cpu的pt模型不会,closed,edition3234,2024-01-14T08:12:51Z,2025-03-27T03:11:21Z,2024-01-15T14:00:13Z,edition3234,2,False
+2948159323,12336,CocoDataset实例加载缺失,closed,NNNeeemo,2025-03-26T01:32:03Z,2025-03-26T08:20:19Z,2025-03-26T08:20:10Z,NNNeeemo,1,False
+2930339845,12329,Issue with coco_error_analysis in mmdetection,closed,Anchor1566,2025-03-19T03:21:50Z,2025-03-25T10:50:35Z,2025-03-19T07:13:15Z,Anchor1566,2,False
+1745941198,10464,No module named 'mmdet.core',open,Lizhuoling,2023-06-07T13:41:37Z,2025-03-25T03:32:16Z,,,4,False
+2942494013,12335,"Is mmdetection affected by CVE-2024-12044? If so, when will it be fixed?",open,996627519,2025-03-24T08:54:58Z,2025-03-24T08:55:14Z,,,0,False
+2081172513,11372,在mmdet3中取消了core文件，官方文档中关于2.x移植的还未更新，那在2.x中使用的导入该怎么修改呢,closed,maxiaobetter,2024-01-15T03:19:33Z,2025-03-24T03:54:29Z,2024-01-15T06:10:35Z,maxiaobetter,2,False
+2941855594,12333,Unable to download configuration file of Faster-rcnn,open,likeevery,2025-03-24T03:11:06Z,2025-03-24T03:12:33Z,,,1,False
+2940550233,12332,Training MMDetection model on AWS or Google cloud,open,njan-creative,2025-03-22T18:33:47Z,2025-03-22T18:34:03Z,,,0,False
+2939597453,12331,Update ddq-detr-5scale_r50_8xb2-12e_coco.py,open,Soorajkumar36,2025-03-21T22:02:11Z,2025-03-21T22:03:51Z,,,1,True
+1743900940,10454,Add FROC metrics,closed,svipvm,2023-06-06T13:40:53Z,2025-03-21T09:58:15Z,2025-03-21T09:58:15Z,svipvm,2,True
+1451926218,9340,AssertionError: loss log variables are different across GPUs!,closed,vampireacen,2022-11-16T16:40:13Z,2025-03-21T07:50:39Z,2022-12-02T07:45:21Z,BIGWangYuDong,11,False
+2932750233,12330,ODinW35 error in reported accuracy (MM-GDINO-T) ,open,ppriyank,2025-03-19T18:22:26Z,2025-03-19T18:22:44Z,,,0,False
+2521897802,11956,Non-reproducibility,open,622tongtong,2024-09-12T09:46:16Z,2025-03-19T06:01:49Z,,,1,False
+2330522639,11762,KeyError: 'Mask2Former is not in the mmengine::model registry. Please check whether the value of `Mask2Former` is correct or it was registered as expected,open,lyzln,2024-06-03T08:34:51Z,2025-03-19T03:01:54Z,,,1,False
+436504318,540,怎么加入负样本图片,closed,nmxnql,2019-04-24T05:33:13Z,2025-03-18T09:30:36Z,2021-04-09T01:53:51Z,hhaAndroid,3,False
+2342068692,11778,OptimWrapper,open,YXB-NKU,2024-06-09T07:18:02Z,2025-03-18T07:27:54Z,,,2,False
+2055966833,11312,DINO训练与测试时评测时间差异巨大,open,Hongru0306,2023-12-26T02:26:55Z,2025-03-18T03:01:06Z,,,4,False
+970812955,5885,"ImportError: Cannot load backend 'TkAgg' which requires the 'tk' interactive framework, as 'headless' is currently running",open,irvtree,2021-08-14T03:49:55Z,2025-03-17T14:08:34Z,,,7,False
+2646794544,12036,HOW CAN I INTEGRET LORA WITH MMDETECTION?,open,deconasser,2024-11-10T04:20:40Z,2025-03-17T10:51:15Z,,,1,False
+1520451470,9572,How can I eval the model on the open category?,closed,xishanhan,2023-01-05T10:02:24Z,2025-03-17T03:36:54Z,2023-01-05T10:37:21Z,ZwwWayne,5,False
+1665385203,10142,"Please, make the package PyTorch Nightly compatible for M1 Macs",open,fablau,2023-04-12T23:08:05Z,2025-03-14T05:19:09Z,,,13,False
+1166197463,7372,mmdet>=2.20.0 windows py38 can't install beacause of pycocotools,closed,EasonQYS,2022-03-11T09:34:18Z,2025-03-13T03:44:48Z,2022-03-28T13:57:37Z,EasonQYS,10,False
+1898012578,10932,MMDetection to support LORA for it's vision transformers,open,GeorgePearse,2023-09-15T09:02:58Z,2025-03-13T02:25:07Z,,,11,False
+2913037875,12327,GroupMultiSourceSampler has a dead loop,open,chenjiaqiang-a,2025-03-12T07:43:59Z,2025-03-12T07:44:14Z,,,0,False
+758235396,4240,configdict' object has no attribute 'pipeline',closed,Nabyssache,2020-12-07T07:14:02Z,2025-03-12T02:59:36Z,2021-01-12T03:35:22Z,v-qjqs,7,False
+1820273173,10698,(ValueError: embedde null bype) when run tools/dist_test.sh in more than one GPU,open,Taited,2023-07-25T12:50:50Z,2025-03-11T14:55:24Z,,,2,False
+1796147866,10613,'DetDataSample' object has no attribute '_gt_sem_seg' ,open,atamazian,2023-07-10T07:20:17Z,2025-03-11T07:45:49Z,,,13,False
+2906731066,12324,the epoch decrease,closed,WHUzhusihan96,2025-03-10T10:10:12Z,2025-03-11T01:58:47Z,2025-03-11T01:58:47Z,WHUzhusihan96,2,False
+1889338577,10909,mask2former head fails during training because of amp (ValueError: cost matrix is infeasible),open,we11as22,2023-09-10T21:35:23Z,2025-03-10T14:50:58Z,,,6,False
+2907492087,12325,change img.stack to img.concatenate of loadmultichannelimagefromfile,open,ggamaz,2025-03-10T14:35:24Z,2025-03-10T14:39:14Z,,,1,True
+2906398696,12322,how to evaluate the map using coco metrix in custom dataset?,closed,luoshiyong,2025-03-10T08:00:07Z,2025-03-10T08:00:40Z,2025-03-10T08:00:40Z,luoshiyong,0,False
+665338522,3402,No module named 'mmcv.cnn.weight_init',closed,sarimmehdi,2020-07-24T18:21:50Z,2025-03-10T07:51:44Z,2020-07-26T15:03:26Z,hellock,13,False
+927232805,5417,Let ATSS support regression type as point,closed,thisisi3,2021-06-22T13:25:36Z,2025-03-09T14:05:49Z,2025-03-09T14:05:49Z,thisisi3,5,True
+2146016329,11486,KeyError: 'AugFPN is not in the mmdet::model registry. Please check whether the value of `AugFPN` is correct or it was registered as expected.,open,jayboynana,2024-02-21T07:30:29Z,2025-03-08T17:04:20Z,,,3,False
+2493351726,11927,"demo中的推理跑不起来啊，提示Please check whether ""mmdet"" is a correct scope, or whether the registry is initialized.",open,lingdu-xu,2024-08-29T03:07:18Z,2025-03-07T14:41:33Z,,,4,False
+2061376633,11329,ModuleNotFoundError: No module named 'mmcv.parallel',open,Niharika10soni,2024-01-01T07:14:44Z,2025-03-07T14:34:47Z,,,10,False
+634509428,2942,mmdet - ERROR - The testing results of the whole dataset is empty,closed,Prakhar-97,2020-06-08T10:59:31Z,2025-03-07T02:05:53Z,2020-06-09T17:25:27Z,hellock,24,False
+1867946330,10841,RuntimeError: ms_deform_attn_impl_forward: implementation for device cuda:0 not found.,closed,Markson-Young,2023-08-26T07:03:41Z,2025-03-06T16:25:50Z,2023-10-16T05:38:57Z,Markson-Young,5,False
+910320320,5281,FCOS ERROR - The testing results of the whole dataset is empty ,closed,uniyushu,2021-06-03T09:48:51Z,2025-03-06T16:06:35Z,2021-06-29T02:27:06Z,RangiLyu,14,False
+2191535428,11563,How to get feature map in MMDetection3.x?,open,HaMeow-lst1,2024-03-18T08:30:58Z,2025-03-06T15:45:18Z,,,4,False
+1714954933,10351,A Bug in Downstream task,open,wangzhaoyang-508,2023-05-18T04:16:36Z,2025-03-06T08:41:21Z,,,2,False
+2899519255,12321,solov2 model deployed to tx2 requires tensorrt acceleration  help！,open,qincunxiang,2025-03-06T06:49:56Z,2025-03-06T06:50:12Z,,,0,False
+2899405546,12320,test_robustness.py how to get picture,open,yimeng436,2025-03-06T05:38:56Z,2025-03-06T05:39:11Z,,,0,False
+2893715798,12319,mm grounding dino中grounding_dino_swin-l_pretrain_obj365_goldg.py 预训练复现相关问题,open,lufanma,2025-03-04T10:22:01Z,2025-03-04T10:22:16Z,,,0,False
+614547013,2653,IndexError: list index out of range,closed,KDcx35,2020-05-08T06:56:40Z,2025-03-04T09:03:10Z,2020-05-20T09:52:18Z,ZwwWayne,15,False
+1795222833,10609,How to return a segmentation output tensor with gradient?,open,huuquan1994,2023-07-09T03:59:02Z,2025-03-03T14:42:10Z,,,1,False
+2033831919,11268,使用DetVisualizationHook卡住的问题,open,wzr0108,2023-12-09T12:31:54Z,2025-03-02T03:00:28Z,,,1,False
+701191840,3761,AttributeError: module 'pycocotools' has no attribute '__version__',closed,jialeli1,2020-09-14T15:10:46Z,2025-03-01T03:00:32Z,2020-09-22T03:16:42Z,ZwwWayne,9,False
+2361578802,11802,mm-grounding-dino微调map为0,open,WhatRui,2024-06-19T07:34:55Z,2025-02-28T03:04:03Z,,,2,False
+2512303570,11952,the metric is low in custom dataset,open,wu33learn,2024-09-08T10:09:23Z,2025-02-28T02:46:30Z,,,1,False
+2757540038,12278,Help with Instance Segmentation for Separating Complex Lines,closed,mostafamohamadi,2024-12-24T10:08:28Z,2025-02-27T23:44:27Z,2025-02-27T23:44:27Z,mostafamohamadi,0,False
+2307802114,11730,i cannot handle this issue  i need some help,open,yihaohu0118,2024-05-21T09:19:33Z,2025-02-27T14:40:14Z,,,2,False
+2862372830,12313,mmdet support musa backend,open,sunyanguomt,2025-02-19T06:51:08Z,2025-02-26T01:54:32Z,,,1,True
+2017981794,11229,"In MMDetection Version3.2,  How to set ""Seed"" and ""Deterministic""?",open,LYKlyk,2023-11-30T06:39:44Z,2025-02-25T05:05:56Z,,,1,False
+467871518,992,How to debug with multi-gpu training,closed,VectorYoung,2019-07-14T18:43:45Z,2025-02-24T23:15:52Z,2019-08-02T16:13:00Z,hellock,9,False
+2364646201,11805,Support for YOLO Dataset format? ,open,sbk1014,2024-06-20T14:49:10Z,2025-02-24T12:10:53Z,,,1,False
+2870698264,12317,How to modify the default input size when running get_flops.py？,open,4A2008,2025-02-22T12:04:44Z,2025-02-22T12:04:44Z,,,0,False
+2868747304,12316,"unused conv modules,cls_convs",open,York1996OutLook,2025-02-21T11:19:44Z,2025-02-21T11:20:01Z,,,0,False
+2020150801,11237,原始的测试图片只有一张，但在可视化结果中两张图片拼接在了一起，并有不同的结果。,open,prosmail,2023-12-01T05:54:38Z,2025-02-19T07:47:35Z,,,2,False
+2862417425,12314,Met a ValueError of handling dataset during training a vfnet model of object detection,open,PoplarBoat,2025-02-19T07:15:16Z,2025-02-19T07:15:32Z,,,0,False
+1126116622,7125,Automatic validation of your citation metadata,open,abelsiqueira,2022-02-07T15:07:17Z,2025-02-19T06:59:37Z,,,5,True
+1228543879,7924,Replace markdownlint with mdformat to avoid installing ruby,open,zhouzaida,2022-05-07T06:30:28Z,2025-02-19T06:59:10Z,,,2,True
+1229455547,7945,Static GridAssigner,open,HuDi2018,2022-05-09T09:47:41Z,2025-02-19T06:59:07Z,,,4,True
+1252461135,8090,Fix warning with torch.meshgrid,open,pallgeuer,2022-05-30T09:33:19Z,2025-02-19T06:59:00Z,,,10,True
+1261617680,8142,[Fix] Use torch.initial_seed to guarantee the randomness of numpy,open,jbwang1997,2022-06-06T09:52:57Z,2025-02-19T06:58:53Z,,,3,True
+1297342466,8323,[Fix]: Fix WandbLogger Hang Error for distributed training.,open,zimoqingfeng,2022-07-07T12:24:10Z,2025-02-19T06:58:50Z,,,13,True
+1328101555,8491,[WIP] Add Mask2Former swin-b swin-l config files for instance segmentation,open,chhluo,2022-08-04T05:50:09Z,2025-02-19T06:58:44Z,,,1,True
+1329672688,8508,[WIP] Fix wider face,open,chhluo,2022-08-05T09:14:50Z,2025-02-19T06:58:37Z,,,1,True
+1970805424,11111,How to Apply SAHI to training?,open,thiagoribeirodamotta,2023-10-31T16:05:54Z,2025-02-19T00:52:09Z,,,4,False
+2254259503,11650,ValueError: need at least one array to concatenate,closed,Davids3498,2024-04-19T23:54:50Z,2025-02-18T09:22:35Z,2024-04-22T21:08:23Z,Davids3498,2,False
+1833198237,10734,Double Labeling Problem,open,fcqfcq,2023-08-02T13:31:10Z,2025-02-18T06:54:07Z,,,2,False
+2255860804,11652,🔥 ️‍🔥🔥 ️‍train error:  __init__() got an unexpected keyword argument 'data_root',closed,yfq512,2024-04-22T08:00:35Z,2025-02-18T04:08:08Z,2024-04-22T09:45:28Z,yfq512,27,False
+1552112575,9658,RecursionError,closed,Anurich,2023-01-22T13:15:44Z,2025-02-16T16:02:27Z,2023-02-15T11:27:25Z,github-actions[bot],6,False
+2755349611,12276,MM Grounding Dino inference result of DetInferencer() is much worse than tools/test.py,open,shojint,2024-12-23T06:45:29Z,2025-02-14T20:09:47Z,,,1,False
+2852936464,12310,Pretrained Weights for CO-DETR on Objects365,open,usergxx,2025-02-14T07:55:53Z,2025-02-14T07:56:08Z,,,0,False
+2850302793,12309,2.x转3.x的模型教程什么时候能出,open,WangKun328,2025-02-13T08:20:00Z,2025-02-13T08:20:15Z,,,0,False
+2848007024,12307,how to update config 2.x to 3.x,open,vipcxj,2025-02-12T11:50:45Z,2025-02-13T03:26:54Z,,,2,False
+2840414213,12305,Panoptic FPN acc/loss good yet metrics score to 0,closed,tikitong,2025-02-09T03:51:41Z,2025-02-12T15:16:49Z,2025-02-12T15:16:49Z,tikitong,0,False
+2810046308,12299,Support for 16 bit image training and inference,open,amrithc,2025-01-24T17:56:01Z,2025-02-12T01:04:43Z,,,1,False
+2844131953,12306,"Hello, I would like to ask if GLEE is supported.",open,Alan-zhong,2025-02-11T02:32:23Z,2025-02-11T02:32:40Z,,,0,False
+2840406848,12304,Make MMCV and MMEngine Upper Version Bound Inclusive,closed,anglesideangle,2025-02-09T03:27:12Z,2025-02-09T03:49:04Z,2025-02-09T03:48:56Z,anglesideangle,2,True
+2838106155,12303,RuntimeError: indices should be on the same device as the indexed tensor in MMRotate tutorial,open,ramondalmau,2025-02-07T12:59:56Z,2025-02-07T13:00:14Z,,,0,False
+2835809319,12302,Early Stopping Hook not monitoring as expected,closed,Trotts,2025-02-06T15:13:14Z,2025-02-07T11:28:20Z,2025-02-07T11:28:19Z,Trotts,2,False
+2835763357,12301,RandomAffine applies transforms without centering,open,cmhm7,2025-02-06T14:55:01Z,2025-02-06T14:55:17Z,,,0,False
+2789274612,12295,how to covert boxInst to onnx,open,StephenZhao1,2025-01-15T09:26:15Z,2025-02-06T13:43:59Z,,,4,False
+1887221861,10900,KeyError: 'PackDetInputs is not in the transform registry. Please check whether the value of `PackDetInputs` is correct or it was registered as expected. More details can be found at https://mmengine.readthedocs.io/en/latest/advanced_tutorials/config.html#import-the-custom-module',open,niharika-soni,2023-09-08T08:37:13Z,2025-02-06T07:52:37Z,,,16,False
+1831202039,10730,Failde building wheel for mmpycocotools,closed,whxueChris,2023-08-01T12:43:56Z,2025-02-05T16:14:47Z,2023-08-07T06:37:14Z,hhaAndroid,12,False
+2094082936,11416,Problems of AMP Training about  Co-DETR Reimplement,open,ysysys666,2024-01-22T14:46:59Z,2025-02-05T09:37:39Z,,,9,False
+2764927264,12281,running problem,open,sillysss,2025-01-01T08:25:57Z,2025-02-04T17:08:06Z,,,1,False
+2478749467,11918,Torchserve - Work stopped,open,psantiago-lsbd,2024-08-21T18:38:11Z,2025-02-04T10:39:24Z,,,1,False
+2826134356,12300,Initial setup,closed,AnimeshMaheshwari22,2025-02-03T00:40:37Z,2025-02-03T00:55:02Z,2025-02-03T00:55:02Z,AnimeshMaheshwari22,1,True
+1785248548,10583,how to i add augmentation,open,lbg030,2023-07-03T03:44:58Z,2025-01-31T00:24:14Z,,,5,False
+2719116376,12060,why need to add 0.5,closed,SparKgod1,2024-12-05T01:37:22Z,2025-01-30T11:17:06Z,2025-01-30T11:17:06Z,SparKgod1,2,False
+2567271778,11986,AssertionError: The num_classes (3) in SSDHead of SingleStageDetector does not matches the length of classes 80) in CocoDataset,open,psantiago-lsbd,2024-10-04T20:15:49Z,2025-01-29T18:35:38Z,,,1,False
+1818727947,10692,How to change the confidence score threshold for Mask2Former on instance segmentation?,open,Amr-Mustafa,2023-07-24T16:10:14Z,2025-01-29T02:44:28Z,,,1,False
+2774776189,12285,train error,open,hupochun,2025-01-08T09:14:41Z,2025-01-28T07:55:32Z,,,1,False
+1807210157,10655,"Getting, ValueError: cannot reshape array of size 2560800 into shape (800,800) on custom training data.",open,gauravjio,2023-07-17T08:00:05Z,2025-01-25T19:01:55Z,,,3,False
+2808909967,12298,AnchorHead and add_gt_as_proposals option of the samplers are incompatible,open,cmhm7,2025-01-24T09:02:29Z,2025-01-24T09:02:29Z,,,0,False
+2800466393,12297,OSError: [WinError 87] 参数错误,open,liuziqian1,2025-01-21T00:37:37Z,2025-01-21T07:04:30Z,,,3,False
+1800924180,10631,Bug in confusion matrix background column caculation,open,YairShemer,2023-07-12T12:53:20Z,2025-01-20T13:37:31Z,,,1,False
+2628107637,12025,Long waiting before start training.,closed,yanhexiong,2024-11-01T01:18:59Z,2025-01-18T09:01:18Z,2024-11-01T13:47:40Z,yanhexiong,6,False
+2292284573,11708,grad_norm is abnormal in the initial stage of training. Is this normal?,open,xiyouji6,2024-05-13T09:26:22Z,2025-01-17T08:47:45Z,,,2,False
+1060212416,6565,ImportError: cannot import name 'init_random_seed' from 'mmdet.apis' (/mmdetection/mmdet/apis/__init__.py),closed,kirkzZ,2021-11-22T14:18:45Z,2025-01-17T03:53:53Z,2021-12-23T02:43:15Z,hhaAndroid,6,False
+1177687945,7508,Seed initialization when resuming the training,closed,burak43,2022-03-23T06:57:32Z,2025-01-16T15:58:11Z,2022-03-24T12:40:09Z,burak43,5,False
+1908693157,10961,KeyError: 'mask' --- gt_mask = instance['mask'] ,open,zeynepiskndr,2023-09-22T11:01:51Z,2025-01-16T13:56:49Z,,,9,False
+2533071696,11964,'DetDataSample' object has no attribute 'text',open,rookie1999,2024-09-18T08:29:42Z,2025-01-16T10:09:47Z,,,2,False
+653917363,3259,"After an update, acc is 100% and loss is 0 on first epoch when training on COCO format db",open,ghost,2020-07-09T09:37:14Z,2025-01-16T09:31:44Z,,,12,False
+1661744143,10127,AttributeError: 'ConfigDict' object has no attribute 'test_dataloader',open,ghost,2023-04-11T04:18:49Z,2025-01-16T00:22:09Z,,,8,False
+2790392284,12296,Update inference.md,open,AgustinRoca,2025-01-15T17:11:21Z,2025-01-15T17:13:30Z,,,1,True
+2787552158,12293,Support val and test dataset,closed,chatzianagnostis,2025-01-14T15:47:50Z,2025-01-15T07:05:41Z,2025-01-15T07:05:38Z,chatzianagnostis,2,True
+2787423859,12292, Add Support for Validation and Test Datasets in tools/analysis_tools/browse_dataset.py Script,closed,chatzianagnostis,2025-01-14T15:06:33Z,2025-01-14T16:21:58Z,2025-01-14T16:09:48Z,chatzianagnostis,1,True
+2786831409,12291,Albu mask error,open,Louis8582,2025-01-14T10:53:43Z,2025-01-14T10:54:00Z,,,0,False
+2605098499,12008,KeyError: 'Adafactor is already registered in optimizer at torch.optim',closed,mobguang,2024-10-22T10:59:13Z,2025-01-14T07:54:50Z,2024-10-23T06:02:51Z,mobguang,7,False
+2784378822,12290,Sliding window approach feature in image_demo.py for finetuning Grounding Dino,open,shvardhan1994,2025-01-13T15:39:49Z,2025-01-13T15:42:47Z,,,0,False
+1575629211,9741,[Bug] Exception: Cannot find valid image after 1000! Please check your image path and pipeline,closed,ryanalexmartin,2023-02-08T07:33:00Z,2025-01-13T13:47:35Z,2023-03-24T06:02:50Z,hhaAndroid,6,False
+1486252597,9471,[Bug] AttributeError: 'ConfigDict' object has no attribute 'dist_params',closed,yukaizhou,2022-12-09T07:50:13Z,2025-01-13T10:22:51Z,2023-02-02T05:40:49Z,BIGWangYuDong,6,False
+1360803526,8719,AssertionError: chamfer_distance_forward miss in module _ext,closed,MABatin,2022-09-03T09:07:23Z,2025-01-12T07:51:24Z,2022-09-04T05:51:17Z,chhluo,4,False
+2080561659,11369,TypeError: __init__() got an unexpected keyword argument 'pipeline',closed,jryxxx,2024-01-14T03:15:38Z,2025-01-10T19:13:57Z,2024-02-29T07:23:01Z,jryxxx,5,False
+2779235096,12289,is there any demo for multi-task like multi box head ?,open,Kenneth-X,2025-01-10T04:10:55Z,2025-01-10T04:11:11Z,,,0,False
+2638464490,12033,vitdet use faster_rcnn ,open,twisti14,2024-11-06T15:38:09Z,2025-01-10T03:22:49Z,,,2,False
+2777808116,12288,Update coco.py,open,hossinasaadi,2025-01-09T13:12:30Z,2025-01-09T13:29:28Z,,,1,True
+1760521618,10527,No model can learn anything from my dataset. (But I already trained models outside of MMDetection successfully),open,mburges-cvl,2023-06-16T12:14:55Z,2025-01-09T11:33:57Z,,,7,False
+2776897487,12287,A bug feedback about assertions (Level: warning),open,name-used,2025-01-09T05:55:13Z,2025-01-09T07:23:53Z,,,1,False
+2775291604,12286,mmgroundingdino如何转onnx?,open,lufanma,2025-01-08T12:36:25Z,2025-01-08T12:36:41Z,,,0,False
+1714976460,10352,Single-Class Training Issues in Mask R-CNN,closed,Hcoamte,2023-05-18T04:49:44Z,2025-01-08T07:25:30Z,2023-05-26T05:33:29Z,Hcoamte,2,False
+1743325632,10451,pytorch2onnx RuntimeError: 2.x branch,closed,Jwy-jump,2023-06-06T08:11:44Z,2025-01-07T20:00:26Z,2023-06-07T08:12:40Z,Jwy-jump,1,False
+2733216940,12126,How to build a semi-supervised data set,open,1999luodi,2024-12-11T14:59:54Z,2025-01-07T13:51:55Z,,,2,False
+1864326571,10834,How to config class agnostic nms in train_cfg?,open,sipie800,2023-08-24T03:16:25Z,2025-01-05T18:22:59Z,,,3,False
+2768355232,12283,修复filter_scores_and_topk,open,jiangfeizi,2025-01-04T01:43:02Z,2025-01-04T01:50:33Z,,,1,True
+2053323766,11305,AttributeError: 'SSDHead' object has no attribute 'loss_cls',open,RunningLeon,2023-12-22T03:28:13Z,2025-01-03T09:30:52Z,,,2,False
+2767212933,12282,什么时候进行下一次更新,open,yiriyi,2025-01-03T09:02:33Z,2025-01-03T09:02:48Z,,,0,False
+2625722740,12023,How to convert MMdetection model to PyTorch?,open,nikitaSisikin,2024-10-31T01:26:39Z,2025-01-03T07:45:49Z,,,1,False
+1893165658,10918,About the instance segmentation usage of 'large_image_demo.py'. Bug:AssertionError: `binary_marks` must have the same shape with image,open,W-hary,2023-09-12T19:53:51Z,2025-01-01T09:28:50Z,,,5,False
+2085614010,11390,GroundingDino: RuntimeError: _Map_base::at,closed,dongfeicui,2024-01-17T07:53:00Z,2025-01-01T09:13:18Z,2024-01-18T06:18:36Z,dongfeicui,2,False
+2034281471,11270,DETR  Val always 0.0000,open,FPPMXB,2023-12-10T09:02:46Z,2024-12-30T11:04:17Z,,,2,False
+1756168752,10507,KeyError: 'SiLU is already registered in model at torch.nn.modules.activation',open,PlutoNov,2023-06-14T06:39:57Z,2024-12-30T09:46:48Z,,,4,False
+595722754,2409,Obtain metrics for validation dataset during training ,closed,mmeendez8,2020-04-07T09:22:46Z,2024-12-28T07:55:08Z,2020-04-08T07:01:58Z,mmeendez8,4,False
+2365657466,11808,"Using Grounding-Dino To train coco dataset ,error is below",open,xyb1314,2024-06-21T03:51:09Z,2024-12-28T02:11:21Z,,,8,False
+2175120017,11529,FileNotFoundError: [Errno 2] No such file or directory: '.dist_test/tmpq29jywik/part_13.pkl',closed,wenjunlong,2024-03-08T01:40:13Z,2024-12-27T07:29:39Z,2024-04-11T01:59:35Z,wenjunlong,5,False
+2095887585,11420,"Facing issue, 'The model and loaded state dict do not match exactly' while trying to run the example given in the README.md file",closed,coscotuff,2024-01-23T11:38:12Z,2024-12-26T07:02:13Z,2024-02-05T08:40:16Z,hhaAndroid,7,False
+2759289742,12280,How to modify the optimizer to achieve gradient accumulation,open,adjawdka,2024-12-26T05:17:49Z,2024-12-26T05:18:05Z,,,0,False
+2636855154,12031,ModuleNotFoundError: No module named 'mmdet3d.dataset',open,SOTArt,2024-11-06T02:02:28Z,2024-12-24T12:51:41Z,,,1,False
+2712033110,12057,Does mmdetection support input in other formats?,open,FindOne1,2024-12-02T13:56:56Z,2024-12-24T02:51:37Z,,,2,False
+2755655530,12277,mmdet in orin  : No module named 'torch._C._distributed_c10d'; 'torch._C' is not a package,open,AugWrite,2024-12-23T09:53:12Z,2024-12-23T09:53:26Z,,,0,False
+2156095417,11501,Grounding-DINO 在使用某些text_prompts时会出现检测框的phrases全乱了的情况,closed,lanhas,2024-02-27T09:27:55Z,2024-12-23T04:32:25Z,2024-03-01T01:19:55Z,lanhas,9,False
+2010963551,11211,为什么跑到多GPU相关的函数上去了？,open,shortsonghh,2023-11-26T09:14:03Z,2024-12-22T02:47:23Z,,,1,False
+1304753017,8366,How to see augmented images& ,closed,Travvy88,2022-07-14T12:59:43Z,2024-12-20T16:03:43Z,2022-07-18T01:46:45Z,RangiLyu,4,False
+2261933893,11661,在mmdetetion3.1.0版本中如何获得rpn_r50_fpn_1x_val2017.pkl，rpn_r50_fpn_1x_train2017.pkl这两个pkl文件？,open,balderman12,2024-04-24T18:34:48Z,2024-12-20T10:00:44Z,,,2,False
+2544495375,11969,加载grounding-dino大模型进行推理时，一张图需要30s也太慢了吧,open,jamesbondzhou,2024-09-24T06:45:09Z,2024-12-20T08:54:56Z,,,2,False
+2397090250,11843,Is save_best checkpoint pruned?,closed,shojint,2024-07-09T04:30:49Z,2024-12-20T04:55:40Z,2024-12-20T04:55:39Z,shojint,1,False
+2749616366,12275,How to use load_from without loading metadata,closed,shani-sony,2024-12-19T08:35:53Z,2024-12-19T10:38:26Z,2024-12-19T10:38:25Z,shani-sony,1,False
+1089883305,6911,"loss_cls: 0.0000, loss_bbox: 0.0000 when training YOLOX on my own dataset",open,pumpkin33498,2021-12-28T13:05:42Z,2024-12-19T05:53:54Z,,,22,False
+2745766243,12273,Validated training config #86b35mu8a,closed,aponamarev,2024-12-17T18:52:41Z,2024-12-18T18:19:38Z,2024-12-17T18:53:48Z,aponamarev,1,True
+1175657469,7487,"about resume training, loss is large as initial",open,lzed2399,2022-03-21T16:47:46Z,2024-12-18T07:19:06Z,,,6,False
+2517787041,11955,Is there any plan for next release?,open,rayhsieh,2024-09-10T20:54:27Z,2024-12-18T04:20:22Z,,,1,False
+2416972316,11861,How to get model output without postprocessing/NMS?,open,jnfls0203,2024-07-18T17:22:12Z,2024-12-16T10:03:18Z,,,1,False
+2504769262,11937,训练时，调用得mmdet文件夹是在我anaconda虚拟环境 site-packages中得，而不是我得工程文件中得mmdet,closed,hrr123-cell,2024-09-04T09:20:04Z,2024-12-14T08:44:07Z,2024-09-06T08:24:42Z,hrr123-cell,1,False
+1510792475,9533,Replace numpy transpose with torch permute to speed-up,closed,Min-Sheng,2022-12-26T09:40:05Z,2024-12-14T04:18:57Z,2023-01-04T15:52:33Z,ZwwWayne,7,True
+701693265,3767,AttributeError: 'NoneType' object has no attribute 'squeeze',closed,mhyeonsoo,2020-09-15T07:41:14Z,2024-12-13T17:21:14Z,2020-10-13T05:54:10Z,v-qjqs,4,False
+2737223067,12270,The problem of mmpretrain modifying the backbone network,open,GG22bond,2024-12-13T02:11:36Z,2024-12-13T14:10:37Z,,,1,False
+2735179661,12250,Viral Robot polluted the whole issue page!!!,open,Jingnan-Jia,2024-12-12T08:18:26Z,2024-12-12T09:17:54Z,,,2,False
+1176348071,7493,[Feature]: Benchmark of applying ViT to Mask-RCNN,open,YuanLiuuuuuu,2022-03-22T06:57:30Z,2024-12-11T09:24:04Z,,,3,True
+1959672178,11082,ImportError: Failed to import projects.<MODEL_NAME>.<model>,closed,charisoudis,2023-10-24T16:45:26Z,2024-12-10T15:56:53Z,2023-10-30T01:39:42Z,hhaAndroid,7,False
+1023890439,6265,ERROR - The testing results of the whole dataset is empty - YOLOX and COCO,closed,tikitong,2021-10-12T14:26:17Z,2024-12-10T12:19:05Z,2021-11-15T06:38:33Z,hhaAndroid,10,False
+1615176187,9904,How to get val loss in 3.x?,open,devin-ry,2023-03-08T12:18:58Z,2024-12-10T08:37:18Z,,,24,False
+1834119378,10736,MAP=0,open,sunnygirlzyq,2023-08-03T01:17:18Z,2024-12-10T07:33:03Z,,,3,False
+1953426681,11069,Segm_ The value of mAP has always been 0,open,LongJi12,2023-10-20T03:10:53Z,2024-12-10T07:29:27Z,,,1,False
+2009220203,11206,DINO use SwinTransformerV2 as the backbone，but the map was always 0,open,Jano-rm-rf,2023-11-24T07:11:18Z,2024-12-10T07:26:58Z,,,1,False
+2263111678,11665, The testing results of the whole dataset is empty.,closed,xal-zhang,2024-04-25T09:25:22Z,2024-12-10T07:25:16Z,2024-12-10T07:25:16Z,xal-zhang,2,False
+2222274399,11612,Low confidence score,open,tienduchoang,2024-04-03T08:30:33Z,2024-12-10T07:16:03Z,,,2,False
+2209888367,11592,Feature mAP value is 0.00,open,Khhihubbroker,2024-03-27T05:22:03Z,2024-12-10T07:04:33Z,,,3,False
+2379447055,11817,"如何在windows服务器环境下调用多卡，How to downcall multiple GPU in windows Server Environment,",open,wdzwdxy,2024-06-28T02:42:38Z,2024-12-10T03:30:27Z,,,1,False
+1834344864,10737,"""IndexError: list index out of range when using mmdet for instance segmentation and outputting to JSON""",open,ming053l,2023-08-03T06:12:17Z,2024-12-10T02:07:25Z,,,5,False
+2710830560,12055,Quantization Aware Training,open,HanXuMartin,2024-12-02T07:24:44Z,2024-12-10T01:59:58Z,,,2,False
+2530551275,11962,TypeError: __init__() got an unexpected keyword argument 'ann_file',open,conmeobeoi,2024-09-17T09:21:47Z,2024-12-09T23:38:52Z,,,2,False
+2584694126,11994,how to use Copy-paste in mmdetection3.3.0,open,liruixinxinxin,2024-10-14T04:24:11Z,2024-12-09T22:42:13Z,,,1,False
+2546741302,11971,keyerror in training mm-grounding-dino,closed,xingmimfl,2024-09-25T02:11:49Z,2024-12-09T08:41:33Z,2024-09-25T06:27:19Z,xingmimfl,1,False
+2267327149,11672,When training Retinanet shows The testing results of the whole dataset is empty.,closed,veizei-K,2024-04-28T04:05:21Z,2024-12-09T07:35:10Z,2024-12-09T07:35:10Z,veizei-K,10,False
+907881506,5261,Using this repo with the BDD100k seg_track_20 dataset,closed,pcicales,2021-06-01T05:16:06Z,2024-12-09T03:55:05Z,2021-09-23T01:26:06Z,hhaAndroid,11,False
+2725880781,12069,"When saving a checkpoint during model training, an OSError: [Errno 122] Disk quota exceeded message appears, but there is still space left in the save directory.",open,Wzh10032,2024-12-09T03:32:20Z,2024-12-09T03:32:36Z,,,0,False
+2724523665,12068,Error reported after several batches of training: RuntimeError: DataLoader Worker (pid(s) 4608) quit unexpectedly,open,yong-king,2024-12-07T10:21:25Z,2024-12-07T10:21:41Z,,,0,False
+2722421436,12067,"Are there any recommended network algorithms for cascading detection of child and parent classes? First detect the parent class target, and then detect the subclass target. The parent class targets (such as vehicles and pedestrians) can be detected in the first stage, and the parent class targets can be classified into subclasses (such as specific models, actions, etc.) in the second stage.",open,hu874,2024-12-06T08:43:17Z,2024-12-06T08:43:33Z,,,0,False
+2722270424,12066,[bug-fix] fixed docker build error for `Hash Sum mismatch`,open,Jun0922,2024-12-06T07:30:11Z,2024-12-06T07:32:21Z,,,0,True
+2627233012,12024,Issue when trying to train MM_Grounding_DINO,open,saraalemadi,2024-10-31T15:59:37Z,2024-12-06T04:43:24Z,,,1,False
+2721976785,12064,Evaluation issue,open,wangzhaoyang-508,2024-12-06T03:43:06Z,2024-12-06T03:43:27Z,,,1,False
+1316460324,8421,【error】mim download mmdet --config yolov3_mobilenetv2_320_300e_coco --dest .,closed,vansin,2022-07-25T08:29:01Z,2024-12-05T16:19:39Z,2022-08-02T03:23:22Z,BIGWangYuDong,5,False
+2719838949,12061,rtm-det instance segmentation python sdk inference for benchmarking ,open,Ahmed-xraylabs,2024-12-05T09:21:38Z,2024-12-05T09:21:54Z,,,0,False
+2280302190,11681, pip install -v -e . 编译失败,open,whj-tech,2024-05-06T08:10:34Z,2024-12-04T09:19:44Z,,,3,False
+1425476222,9157,KeyError:date_time when resume checkpoint to continur train,closed,Luojlong,2022-10-27T11:24:51Z,2024-12-04T03:15:01Z,2022-10-27T12:41:21Z,Luojlong,1,False
+2713903652,12059,Too many scores that are less than the threshold have been saved in the result file.,open,h030162,2024-12-03T03:35:39Z,2024-12-03T03:35:54Z,,,0,False
+2712387036,12058,Is there a implemented model for overcrowded images?,open,JNaranjo-Alcazar,2024-12-02T15:40:34Z,2024-12-02T15:40:50Z,,,0,False
+2710895911,12056,This version of TensorRT only supports input K as an initializer,open,wangzaichao,2024-12-02T07:37:27Z,2024-12-02T07:37:42Z,,,0,False
+2708925774,12054,Is Gounding Dino Version 1.6 currently supported,open,antoan,2024-12-01T10:13:15Z,2024-12-01T10:13:31Z,,,0,False
+2143026284,11482,CO-DETR Demo Error: 'list' object has no attribute 'chunked_size',open,ShenZheng2000,2024-02-19T19:32:52Z,2024-11-30T04:02:53Z,,,3,False
+2701185107,12053,Precision Fluctuation Doubt of GroundingDINO Fine-tuned with Industry Data vs YOLOv8 in mAP0.5 - 0.95，微调精度不如yoloV8？,open,BruceWang1996,2024-11-28T07:42:23Z,2024-11-28T07:42:39Z,,,0,False
+2189864653,11558,mmground dino测试指标为0,open,KDgggg,2024-03-16T08:41:14Z,2024-11-28T07:34:36Z,,,5,False
+2700656126,12052, KeyError: 'MultiDatasetsEvaluator is already registered in evaluator at mmdet.evaluation.evaluator.multi_datasets_evaluator',open,Bobby-youngking,2024-11-28T03:42:23Z,2024-11-28T03:42:39Z,,,0,False
+797720502,4553,show ground truth bbox when test,closed,leewi9,2021-01-31T14:12:07Z,2024-11-27T21:23:25Z,2021-02-04T06:23:39Z,jshilong,4,False
+1321106552,8454,How to fine-tune the pre-trained model,closed,bzha5848,2022-07-28T15:15:11Z,2024-11-27T12:37:35Z,2022-07-29T02:55:06Z,RangiLyu,3,False
+2696926099,12048,Grounding DINO的学习率设置,open,jinyizhang184,2024-11-27T04:00:13Z,2024-11-27T09:37:59Z,,,3,False
+2697769746,12049,About,closed,Jackluisus,2024-11-27T09:13:28Z,2024-11-27T09:22:18Z,2024-11-27T09:19:53Z,Jackluisus,0,False
+2697788792,12050,About the value of tokens_positive in grounding dino,open,Jackluisus,2024-11-27T09:21:33Z,2024-11-27T09:21:50Z,,,0,False
+2102013485,11434,Why get 'WARNING - No pre-trained weights for SwinTransformer'?,closed,Nina0109,2024-01-26T10:54:42Z,2024-11-27T00:03:13Z,2024-02-05T08:45:43Z,hhaAndroid,1,False
+2693606710,12047,推理时的小bug,open,jamesbondzhou,2024-11-26T07:53:45Z,2024-11-26T08:06:03Z,,,0,False
+2476810620,11916,Add New Data Augmentation Technique: OA-Mix,open,dazory,2024-08-21T01:37:30Z,2024-11-26T00:12:27Z,,,4,True
+524085591,1677,AttributeError: install_layout,closed,yulubin,2019-11-18T01:28:18Z,2024-11-25T23:44:53Z,2019-12-10T16:11:50Z,hellock,11,False
+1962588124,11092,the question of grounding-dino training,open,chunguangqu,2023-10-26T02:29:02Z,2024-11-25T21:22:52Z,,,7,False
+2410846327,11856,Can you use init_detector for custom training loop implementation?,closed,Lando-L,2024-07-16T10:56:22Z,2024-11-25T14:39:18Z,2024-11-25T14:39:18Z,Lando-L,1,False
+2690899432,12046,"WARNING - No pre-trained weights for SwinTransformer, training start from scratch",open,KarimElbarbary99,2024-11-25T14:18:15Z,2024-11-25T14:18:31Z,,,0,False
+2690459900,12045,文档链接点不开,open,BoomSky0416,2024-11-25T11:44:04Z,2024-11-25T11:44:19Z,,,0,False
+1985846067,11148,During training of RTMDet loss_box and loss_mask are always 0,open,h-fernand,2023-11-09T15:18:26Z,2024-11-25T09:49:55Z,,,8,False
+2690030568,12044,FCOS for object detecion: TypeError: __init__() got an unexpected keyword argument 'data_root',open,ly-lim,2024-11-25T09:45:02Z,2024-11-25T09:45:18Z,,,0,False
+2686196686,12043,How to Set Up Multi-Input for Object Detection Networks in MMDetection3,open,zhaoliming386962,2024-11-23T16:07:41Z,2024-11-23T16:07:56Z,,,0,False
+2686104483,12042,"Why is it that when I use faster-rcnn for inference or training, it just prints the feature shape and is done?",open,kairenchen123,2024-11-23T14:47:15Z,2024-11-23T14:57:08Z,,,0,False
+2511546841,11948,scores are nan after finetuning GroundingDINO  ,open,simranbajaj06,2024-09-07T08:45:39Z,2024-11-23T00:25:01Z,,,2,False
+2683813528,12041,"I used a single server with 8 RTX 3090 GPUs to train GLIP, which took 4 days. However, using two servers with 16 GPUs took 9 days. Is this normal?",open,Polarisamoon,2024-11-22T16:43:14Z,2024-11-22T16:45:54Z,,,1,False
+2683684208,12040,Inference using ONNXRUNTIME on Orange Pi 5,open,zakharchik-me,2024-11-22T15:55:57Z,2024-11-22T15:56:13Z,,,0,False
+1992196227,11174,"The question about fps benchmark, how to get the times per images?",open,lijoe123,2023-11-14T08:06:08Z,2024-11-22T13:40:03Z,,,3,False
+1599496160,9833,How can I do T-SNE analysis on the classifier of the detector?,open,hjfdsssdg,2023-02-25T02:09:08Z,2024-11-21T14:34:10Z,,,5,False
+592325905,2377,RuntimeError: Expected to have finished reduction in the prior iteration before starting a new one. T,closed,NicholasIrving,2020-04-02T03:07:35Z,2024-11-21T09:39:34Z,2021-04-19T03:31:02Z,hhaAndroid,4,False
+2654566500,12038,how to train from scratch（如何从头开始训练网络）,open,PanffeeReal,2024-11-13T07:50:07Z,2024-11-21T07:04:32Z,,,1,False
+2244924895,11642,Can the cleanroom design of yolov8 be merged into mmdet?,closed,ryan-minato,2024-04-16T01:44:59Z,2024-11-20T15:39:34Z,2024-10-04T05:30:12Z,ryan-minato,1,False
+1909707595,10962,TypeError: FormatCode() got an unexpected keyword argument 'verify',closed,Adarsh0047,2023-09-23T04:34:33Z,2024-11-18T15:28:10Z,2023-09-26T01:25:30Z,hhaAndroid,23,False
+2668643943,12039,mmrotate,open,kkofStudy,2024-11-18T13:54:08Z,2024-11-18T13:54:24Z,,,0,False
+2202368855,11583,"MMGroundingDINO: ""UserWarning: position encoding of key ismissing in MultiheadAttention""",open,vakker,2024-03-22T12:19:31Z,2024-11-18T10:31:35Z,,,2,False
+599234786,2447,mmdetection to tensorflow model,closed,archsyscall,2020-04-14T01:35:13Z,2024-11-16T18:10:39Z,2020-04-17T01:29:25Z,archsyscall,3,False
+1610629551,9881,KeyError: 'DINO is not in the model registry. Please check whether the value of `DINO` is correct or it was registered as expected.,closed,crescentxxx,2023-03-06T04:14:29Z,2024-11-15T02:53:21Z,2023-03-15T08:38:29Z,crescentxxx,6,False
+2605281042,12009,pycocotools and runner.test() scores do not match,closed,daniellehot,2024-10-22T12:14:10Z,2024-11-13T13:13:39Z,2024-11-13T13:13:38Z,daniellehot,1,False
+2309122571,11732,RTMDet different loss than official paper ?,open,PushpakBhoge,2024-05-21T21:12:28Z,2024-11-13T07:00:42Z,,,3,False
+1741511342,10445,ImportError: cannot import name 'load_checkpoint' from 'mmcv.runner' (unknown location),open,haojun0318,2023-06-05T10:51:14Z,2024-11-13T01:51:24Z,,,4,False
+2650798776,12037,"In mmdet==3.3.0, resume the checkpoint to load the model and continue training. A stuck problem occurs",open,wulele2,2024-11-12T02:05:39Z,2024-11-12T02:06:04Z,,,0,False
+1686721382,10244,"Detr detectors(detr, deformable detr, dino) support instance segmentation tasks",open,ahomez,2023-04-27T12:11:14Z,2024-11-11T23:27:43Z,,,2,False
+1225145312,7906,add detail on doc explain  how to make self defined class of  custom dataset registed,open,yestimes,2022-05-04T09:45:10Z,2024-11-11T21:57:44Z,,,5,True
+1346286283,8610,Some problems that occurred while panoptic segmentation using mask2former (Cityscapes),open,simsimee,2022-08-22T11:59:48Z,2024-11-11T03:34:14Z,,,4,False
+1880371629,10877,AttributeError: 'InstanceData' object has no attribute 'masks',open,yz80325,2023-09-04T14:08:23Z,2024-11-09T02:15:37Z,,,15,False
+1711905976,10340,Error when using Cropping Augmentations from Albumentations,open,abdksyed,2023-05-16T12:15:34Z,2024-11-08T03:35:35Z,,,3,False
+1800465610,10630,代码报错：got an unexpected keyword argument 'pipeline',open,Alexisxty,2023-07-12T08:33:47Z,2024-11-08T01:55:03Z,,,3,False
+2353235450,11794,"Assertion Error ""assert isinstance(item, IndexType.__args__)"" in mmengine in Tutorial",open,LucaBernecker,2024-06-14T12:09:42Z,2024-11-07T14:19:34Z,,,5,False
+2640914425,12035,Tutorial example failing to run,open,levrone1987,2024-11-07T12:43:05Z,2024-11-07T12:43:22Z,,,0,False
+2640087075,12034,How to train and prepare data for RTMDET model to  segment objects with holes,open,Victtttttt,2024-11-07T07:06:25Z,2024-11-07T07:06:40Z,,,0,False
+549397476,1977,RuntimeError: shape mismatch,closed,hzby,2020-01-14T08:01:17Z,2024-11-06T13:45:17Z,2020-02-29T16:20:15Z,hellock,13,False
+1699367767,10287,mmdetection  AttributeError: 'ConfigDict' object has no attribute 'data',open,Yu1802,2023-05-08T01:53:10Z,2024-11-06T13:26:48Z,,,5,False
+1740642320,10440,fix bug in point_assigner,open,hujh1994,2023-06-04T22:40:46Z,2024-11-06T08:14:35Z,,,3,True
+2637157135,12032,maintenance problem,open,anhtr-nguyn,2024-11-06T06:25:13Z,2024-11-06T06:25:29Z,,,0,False
+2634922426,12030,Accident pull request,closed,c-m-g-zhu,2024-11-05T09:34:04Z,2024-11-05T10:35:34Z,2024-11-05T09:35:02Z,c-m-g-zhu,1,True
+2634385887,12029,Create hoshi airdrop,open,yongsky02,2024-11-05T04:32:35Z,2024-11-05T04:32:41Z,,,1,True
+2634297915,12028,How to compute custom iou threshold map from cocoapi?,open,risingClouds,2024-11-05T03:04:58Z,2024-11-05T04:32:40Z,,,0,False
+2634234666,12027,环境安装出错,open,long-fu,2024-11-05T02:00:34Z,2024-11-05T02:00:49Z,,,0,False
+2631981864,12026,How to retrain the GLIP model on the Object365 dataset,open,Polarisamoon,2024-11-04T06:47:35Z,2024-11-04T06:47:49Z,,,0,False
+2054656376,11308,--cfg-options 这个训练参数 指定显卡到底咋用,closed,15689933561,2023-12-23T04:12:18Z,2024-11-04T03:32:24Z,2023-12-26T01:39:57Z,hhaAndroid,2,False
+2585065003,11995,How to use 3 coco datasets in my train?,open,Hecoming,2024-10-14T07:29:47Z,2024-11-01T17:27:38Z,,,2,False
+1630206517,9985,Segmentation fault (core dumped),open,initiater,2023-03-18T07:02:55Z,2024-11-01T03:02:59Z,,,2,False
+2389214642,11828,Getting the following data concatenation error during the gflv1('./gfl_r50_fpn_ms-2x_coco.py')  training in mmdet 3.3.0 ,open,shubhamtheds,2024-07-03T18:28:51Z,2024-10-31T22:25:00Z,,,3,False
+1948704153,11055,grounding dino训练输出的模型能转成Onnx格式吗,open,formance,2023-10-18T03:12:57Z,2024-10-31T15:11:58Z,,,3,False
+2606926052,12011,how does this category information keep up to date during the interface multi-task training run?,closed,1wang11lijian1,2024-10-23T01:56:04Z,2024-10-31T07:52:58Z,2024-10-31T07:52:58Z,1wang11lijian1,3,False
+2607354268,12012,maskrcnn训练自己的数据小目标非常非常差，检测不出来,open,bo-bobo,2024-10-23T05:51:01Z,2024-10-31T06:08:48Z,,,1,False
+1961530850,11090,Evaluating model on multiple validation sets,open,shani-sony,2023-10-25T14:12:30Z,2024-10-30T10:49:33Z,,,2,False
+2623176294,12022,Is there any ideas to speed up analyze_results.py?,open,gjustin40,2024-10-30T07:44:34Z,2024-10-30T07:44:51Z,,,0,False
+2492073041,11925,Albumentations error ,open,pedrozamboni,2024-08-28T13:24:15Z,2024-10-30T04:28:26Z,,,1,False
+2621635316,12021,robust_object_detection using mmdetection,closed,Minkyoung9,2024-10-29T15:36:27Z,2024-10-30T03:59:30Z,2024-10-30T03:59:29Z,Minkyoung9,0,True
+2621053009,12020,ImportError: cannot import name 'make_res_layer' from 'mmdet.models.backbones',open,jiyuwangbupt,2024-10-29T12:08:51Z,2024-10-29T12:09:07Z,,,0,False
+2621034209,12019,FInetune model outputs only one class at the time,open,SMohammadi89,2024-10-29T12:02:19Z,2024-10-29T12:02:34Z,,,0,False
+2471364592,11913,Make projects module available for custom import of CO-DETR,open,bibekyess,2024-08-17T06:00:55Z,2024-10-29T10:01:06Z,,bibekyess,1,True
+2620444976,12018,Problem about checkpoint auto saving,open,BrokenArrow1404,2024-10-29T07:54:53Z,2024-10-29T07:55:08Z,,,0,False
+675703241,3517,保存权重失败,closed,cpboost,2020-08-09T13:49:18Z,2024-10-29T07:40:32Z,2020-08-09T13:50:56Z,cpboost,5,False
+863075931,5032,MaskRCNN - IndexError: list index out of range after training 1 epoch,closed,manhph2211,2021-04-20T17:52:02Z,2024-10-29T03:06:58Z,2021-04-29T07:23:12Z,manhph2211,17,False
+1303542425,8362,[WIP]: Add DINO on MMDetection 2.x,closed,Li-Qingyun,2022-07-13T14:42:04Z,2024-10-29T01:48:07Z,2024-10-29T01:48:07Z,Li-Qingyun,28,True
+1510812278,9534,[Doc] Add Doc of Detection Transformers,closed,Li-Qingyun,2022-12-26T10:06:26Z,2024-10-29T01:47:00Z,2024-10-29T01:47:00Z,Li-Qingyun,5,True
+1711131143,10332,Could u tell me how to prune the model?,closed,dmndxld,2023-05-16T02:54:39Z,2024-10-28T13:21:01Z,2024-03-10T06:17:49Z,dmndxld,2,False
+1826701120,10720,AttributeError: 'int' object has no attribute 'type',closed,alekseisolovev,2023-07-28T16:13:08Z,2024-10-27T18:43:18Z,2023-08-03T17:56:55Z,alekseisolovev,11,False
+2500833249,11933,Fragmented object segmentation,open,joihn,2024-09-02T12:20:48Z,2024-10-26T23:41:56Z,,,1,False
+2596646405,12001,load from not working?,open,JNaranjo-Alcazar,2024-10-18T07:12:36Z,2024-10-26T14:19:11Z,,,1,False
+2615801009,12015,type='RepeatDataset' in faster-rcnn r18 How to close it,open,DaCheng1823,2024-10-26T11:37:09Z,2024-10-26T14:05:45Z,,,1,False
+2103591218,11437,nms_impl: implementation for device mps:0 not found,open,validatedev,2024-01-27T13:38:12Z,2024-10-25T16:22:31Z,,,6,False
+2535466724,11966,About some issues,open,wap1024,2024-09-19T07:00:11Z,2024-10-25T13:24:58Z,,,2,False
+2196466309,11570,grounding dino swin large finetune error,open,JeremyLin886,2024-03-20T01:43:28Z,2024-10-25T10:38:08Z,,,7,False
+1751410307,10483,How to set max_epochs for best training?,open,luoqan,2023-06-11T12:39:10Z,2024-10-25T06:58:55Z,,,1,False
+672635411,3485,Multi-label object detection,closed,ngalym,2020-08-04T09:09:39Z,2024-10-24T17:31:06Z,2020-08-06T09:15:30Z,hellock,3,False
+2611588692,12014,SwinL weights for Grounding DINO,open,german36-del,2024-10-24T13:17:25Z,2024-10-24T13:17:42Z,,,0,False
+1012233045,6205,fix potential bug of swin converter,open,HarborYuan,2021-09-30T14:11:18Z,2024-10-24T07:36:05Z,,,11,True
+1118088678,7099,[unify] change train_detector to train_model,open,EasonQYS,2022-01-29T07:11:51Z,2024-10-24T07:35:49Z,,,4,True
+1361181505,8735,[Feature] K-Net,open,chhluo,2022-09-04T15:32:02Z,2024-10-24T07:34:59Z,,,1,True
+1398496323,8947,[Fix] Fix the bug that MMDetWandbHook cannot log evaluation results,open,RockeyCoss,2022-10-05T23:20:06Z,2024-10-24T07:34:22Z,,,6,True
+1629423143,9981,Add fix for albu channel order,open,mmeendez8,2023-03-17T14:33:56Z,2024-10-24T07:33:13Z,,,1,True
+1780902160,10574,Fix device of the tensors in set_nms,closed,max-unfinity,2023-06-29T14:06:48Z,2024-10-24T07:09:38Z,2023-07-21T01:56:16Z,hhaAndroid,5,True
+784189552,4435,The AP value of the coco testing set is -1.000.,closed,rsj007,2021-01-12T12:23:29Z,2024-10-24T02:48:12Z,2021-04-09T02:01:55Z,hhaAndroid,5,False
+1709996571,10330,"KeyError: '`cfg` or `default_args` must contain the key ""type"", but got {\'roi_head\': {\'bbox_head\': {\'num_classes\': 1}, \'mask_head\': {\'num_classes\': 1}}}\nNone'",open,yogurtbuddy,2023-05-15T12:26:48Z,2024-10-24T01:55:32Z,,,8,False
+2607516190,12013,the question of voc_metric.py,open,anzitong,2024-10-23T07:04:41Z,2024-10-23T07:04:56Z,,,0,False
+2604743910,12007,Get TypeError: __init__() got an unexpected keyword argument 'data_root' while using  RepeatDataset,open,Icecream-blue-sky,2024-10-22T08:52:35Z,2024-10-22T08:52:50Z,,,0,False
+2602314587,12006,"added missing """,open,laurenzheidrich,2024-10-21T11:53:06Z,2024-10-21T11:54:07Z,,,1,True
+2390972916,11830,"get_flops.py   ""RuntimeError: CUDA error: out of memory""?",open,DaiY123,2024-07-04T14:12:48Z,2024-10-21T02:23:09Z,,,2,False
+910428206,5282,[Feature] Skipping post-processing in Mask R-CNN,closed,SemyonBevzuk,2021-06-03T12:07:50Z,2024-10-20T09:43:02Z,2024-10-20T09:42:53Z,SemyonBevzuk,3,True
+859695856,4990,[Feature] NMS update,closed,SemyonBevzuk,2021-04-16T10:41:14Z,2024-10-20T09:43:02Z,2024-10-20T09:42:53Z,SemyonBevzuk,14,True
+2420748263,11864,'Recognizer3D' is not in the mmdet::model registry.,open,Ktour123,2024-07-20T09:12:14Z,2024-10-19T04:41:26Z,,,1,False
+2503315874,11935,TypeError: __init__() got an unexpected keyword argument 'times',closed,ArpanGyawali,2024-09-03T16:35:36Z,2024-10-18T18:26:17Z,2024-09-04T09:10:15Z,ArpanGyawali,1,False
+1335120244,8535,AttributeError: 'ConfigDict' object has no attribute 'device',closed,PuneetMadan9,2022-08-10T19:44:59Z,2024-10-18T01:40:21Z,2022-08-21T04:28:52Z,BIGWangYuDong,2,False
+1713516211,10348,Fix RTMDet miss `LoadAnnotations` bug in test_pipeline,closed,hhaAndroid,2023-05-17T09:38:56Z,2024-10-16T14:38:51Z,2023-05-17T10:06:26Z,hhaAndroid,1,True
+1124465962,7119,"Calculate mAP for different scenario ( easy, moderate, hard )",open,Soodep,2022-02-04T17:53:43Z,2024-10-16T11:13:45Z,,,4,False
+2023290542,11247,"When training with rtmdet_ins_tiny, the bbox correlation accuracy is normal, but the segm correlation accuracy is all zero",open,20171758,2023-12-04T08:25:28Z,2024-10-16T10:13:02Z,,,4,False
+2338747943,11772,Custom IoU threshold  ,closed,jrmedc,2024-06-06T16:58:21Z,2024-10-16T08:55:05Z,2024-10-16T08:55:05Z,jrmedc,3,False
+2310306380,11734,what's the differece between using 'init_detector'+'inference_detector' and 'DetInferencer',open,NICKQZL,2024-05-22T11:36:58Z,2024-10-16T08:32:57Z,,,1,False
+1633491377,10004,[Bug] video_demo.py error，when runing mask2former,open,zhangzscn,2023-03-21T09:12:09Z,2024-10-16T07:39:23Z,,,2,False
+2590437984,12000,Does Co-DETR supports automatic-mixed-precision training?,open,taemmini,2024-10-16T02:53:41Z,2024-10-16T02:54:00Z,,,0,False
+2098151014,11424,MM Grounding dino读取数据有问题,closed,zkyseu,2024-01-24T12:21:33Z,2024-10-16T02:41:44Z,2024-02-05T08:40:34Z,hhaAndroid,4,False
+2588932811,11999,How to get the values of query and key in the attention module?,open,jiugexuan,2024-10-15T14:19:07Z,2024-10-15T14:43:54Z,,,0,False
+2280880199,11684,Error in the demos with Google Colab,open,antoineedy,2024-05-06T13:25:15Z,2024-10-15T10:03:54Z,,,5,False
+2264655876,11668,Loosen version check for mmcv,open,tonyhoo,2024-04-25T23:30:48Z,2024-10-15T10:03:15Z,,,2,False
+2232627572,11622,"Unable to deploy glip model in mmdetection due to not downloading bert, transformer, etc. correctly",open,Yu1802,2024-04-09T05:25:50Z,2024-10-15T03:09:37Z,,,2,False
+2501772396,11934,使用grounding-dino微调好的模型进行视频推理时报错AttributeError: 'DetDataSample' object has no attribute 'text',open,jamesbondzhou,2024-09-03T01:43:14Z,2024-10-15T02:29:08Z,,,3,False
+2547292434,11974,error raise when finetuning groundingdino 微调groudingdino train test报错,open,xuans29,2024-09-25T08:12:58Z,2024-10-15T02:21:24Z,,,0,False
+940364055,5572,Integrating Kornia batch augmentation pipeline.,open,shijianjian,2021-07-09T02:43:04Z,2024-10-14T23:46:10Z,,,4,False
+2587215538,11998,set start_epoch/start_iter,open,YasminZhang,2024-10-14T22:48:23Z,2024-10-14T22:48:39Z,,,0,False
+2585317134,11996,真的崩溃了兄弟们,closed,Zihan-Liu-westlake,2024-10-14T08:56:21Z,2024-10-14T09:27:43Z,2024-10-14T09:27:43Z,Zihan-Liu-westlake,0,False
+2585351187,11997,How to use the Mask2Former model for semantic segmentation?,open,Invincible-predator,2024-10-14T09:09:52Z,2024-10-14T09:10:08Z,,,0,False
+1527628500,9610, class `EpochBasedTrainLoop` in mmengine/runner/loops.py: class `CocoDataset` in mmdet/datasets/coco.py: need at least one array to concatenate,closed,flyzxm5177,2023-01-10T15:53:20Z,2024-10-13T21:47:34Z,2023-02-06T09:16:07Z,hhaAndroid,12,False
+2554751180,11978,How to use the mmpretrain model in mmdetection?,open,sjtu-cz,2024-09-29T07:09:32Z,2024-10-13T02:21:26Z,,,3,False
+2582720217,11993,data'num changes,open,Hecoming,2024-10-12T09:27:17Z,2024-10-12T11:17:49Z,,,1,False
+1754683505,10498,[Training is in progress] [Feature] Support RT-DETR,open,nijkah,2023-06-13T11:39:42Z,2024-10-12T02:36:48Z,,,82,True
+2582025409,11991,RepeatDataset.__init__() got an unexpected keyword argument 'pipeline',open,TheQYQ,2024-10-11T19:11:29Z,2024-10-11T19:12:55Z,,,0,False
+983286236,5980,TypeError: CocoDataset: __init__() got an unexpected keyword argument 'times',closed,tuttelikz,2021-08-30T23:15:15Z,2024-10-11T19:05:48Z,2021-09-07T02:12:37Z,ZwwWayne,9,False
+2500136542,11932,Fine-tuning  on MM Grounding DINO needs tree pre-trained models?微调mm-g-dino需要三个预训练模型？,open,zxt6174,2024-09-02T06:44:24Z,2024-10-11T11:10:15Z,,,3,False
+2554821209,11980,DINO missing detection,open,auindoeee,2024-09-29T09:00:08Z,2024-10-11T08:44:57Z,,,2,False
+2577996633,11990,About grounding dino,closed,xiang-xiang-zhu,2024-10-10T07:58:42Z,2024-10-11T01:08:20Z,2024-10-11T01:08:20Z,xiang-xiang-zhu,0,False
+2005779545,11200,[Grounding Dino] A script transform from MMdetection .pth to Official version.pth,closed,XYX1998,2023-11-22T08:01:55Z,2024-10-10T19:09:08Z,2023-12-12T08:56:24Z,XYX1998,7,False
+1865633475,10838,Padding `size` not respected when the height is longer than width,closed,Y-T-G,2023-08-24T17:57:40Z,2024-10-10T14:07:28Z,2023-08-25T10:20:42Z,Y-T-G,8,False
+2577775312,11989,Can parallel inference be used in dino detection?,open,zhoulin2545210131,2024-10-10T06:34:31Z,2024-10-10T06:34:46Z,,,0,False
+2577767801,11988,how to modify config.py for mot inference?,open,hoya-cho,2024-10-10T06:32:10Z,2024-10-10T06:32:25Z,,,0,False
+1333918191,8529,IndexError: list index out of range,open,ShreyaaChauhan,2022-08-10T00:30:38Z,2024-10-10T00:38:35Z,,,9,False
+2574596422,11987,The configuration file of the mmdetection v3 version is out of order,open,liuhongyan123456,2024-10-09T02:50:09Z,2024-10-09T02:50:24Z,,,0,False
+1089831914,6909,Colab stuck at Building wheels for collected packages: mmcv-full,closed,lorepieri8,2021-12-28T11:39:26Z,2024-10-08T22:57:48Z,2022-03-06T09:35:03Z,ZwwWayne,6,False
+2385489092,11822,Compatibility with MMCV 2.2.0 and PyTorch 2.3 Development Plan,open,specter119,2024-07-02T07:42:26Z,2024-10-08T14:12:19Z,,,4,False
+1085615051,6849,ModuleNotFoundError: No module named 'mmdet',closed,lenardxu,2021-12-21T09:24:30Z,2024-10-07T04:27:09Z,2021-12-27T12:20:23Z,RangiLyu,6,False
+1190797640,7617,How to change yolov3 backbone to swin transformer?,closed,ouening,2022-04-03T02:43:50Z,2024-10-04T17:00:54Z,2022-05-20T07:28:58Z,ouening,5,False
+2566523485,11985,YOLOX finetuning - COCO dataset - losses at zero - ERROR from `compute_metrics` - the whole dataset is empty,open,LukasHassel,2024-10-04T14:28:06Z,2024-10-04T14:28:22Z,,,0,False
+596465619,2415,Is it possible to save predictions of a model in COCO format?,closed,AlexFridman,2020-04-08T10:13:48Z,2024-10-04T12:52:45Z,2020-04-08T10:34:31Z,AlexFridman,6,False
+2447699975,11895,KeyError: 'CoDETR is not in the mmdet::model registry while running CoDETR training in dev-3.x branch,open,vedrusss,2024-08-05T06:17:25Z,2024-10-04T08:20:33Z,,,3,False
+2082865554,11378,Load datasets from huggingface hub,closed,ryan-minato,2024-01-16T01:15:18Z,2024-10-04T05:43:53Z,2024-10-04T05:43:53Z,ryan-minato,1,False
+2560843825,11982,Security concern,open,psmoros,2024-10-02T07:25:41Z,2024-10-02T07:25:56Z,,,0,False
+2406957347,11852,Train Error with AMP,open,caiduoduo12138,2024-07-13T14:29:16Z,2024-09-30T16:40:00Z,,,2,False
+2403232910,11846,about api update,open,jiuxuanth,2024-07-11T13:44:37Z,2024-09-30T16:23:50Z,,,1,False
+1751993042,10488,  _batch_inputs = data['inputs'] KeyError: 'inputs' error while training,open,Harshitha-narayan,2023-06-12T06:24:32Z,2024-09-30T12:06:30Z,,,10,False
+2556171539,11981,Enable float32 image dtype in (Cached)MixUp,open,mawanda-jun,2024-09-30T10:05:32Z,2024-09-30T10:05:40Z,,,0,True
+758340735,4243,data['category_id'] = self.cat_ids[label] IndexError: list index out of range,closed,ShihuaiXu,2020-12-07T09:37:10Z,2024-09-30T02:47:38Z,2021-01-20T02:09:59Z,ShihuaiXu,23,False
+2554651103,11977,Analysis of the Discrepancy Between Precision/Recall from Confusion Matrix and mAP During Training,open,liruixinxinxin,2024-09-29T02:11:40Z,2024-09-29T16:39:35Z,,,1,False
+2554803053,11979,about transformer output,open,jiugexuan,2024-09-29T08:16:51Z,2024-09-29T08:17:06Z,,,0,False
+1701254614,10296,Support LoadAnnotations during validation,open,1RZLLL,2023-05-09T03:32:24Z,2024-09-28T09:37:04Z,,,0,False
+2554093302,11976,mmdetection is getting more and more rubbish,open,2308700388,2024-09-28T07:47:06Z,2024-09-28T07:47:22Z,,,0,False
+2512265444,11951,Multi-gpu training get stacked at ,open,kailash-delvify,2024-09-08T08:30:52Z,2024-09-26T13:54:08Z,,,1,False
+2526059147,11959,使用Albu进行数据增强的时候，如果传入空gt_box_label会导致mmdet运行出现类型不匹配报错 got Long for the destination and Double for the source,open,cnroge,2024-09-14T07:51:20Z,2024-09-26T02:40:06Z,,,0,False
+2095272317,11417,why pin_memory=False as default,open,yokosyun,2024-01-23T05:32:04Z,2024-09-26T02:10:06Z,,,3,False
+1809857953,10664,DLL load failed while importing _ext during training,closed,yeungkong,2023-07-18T12:46:12Z,2024-09-25T15:43:51Z,2023-07-21T02:06:19Z,hhaAndroid,9,False
+2547140641,11973,2.x's<img_metas>change to which in 3.x?,open,Hecoming,2024-09-25T07:09:28Z,2024-09-25T07:31:41Z,,,1,False
+2547063887,11972,'DetDataSample' object has no attribute 'text' when finetune on grounding task,closed,xingmimfl,2024-09-25T06:32:49Z,2024-09-25T06:40:11Z,2024-09-25T06:40:11Z,xingmimfl,0,False
+1946608621,11051,randomness.seed seems has no effect?,closed,Markson-Young,2023-10-17T06:02:03Z,2024-09-25T02:28:50Z,2023-10-25T01:29:27Z,hhaAndroid,1,False
+2546519820,11970,[SVM-796] upgrade torch,closed,wemoveon2,2024-09-24T22:26:47Z,2024-09-24T22:32:01Z,2024-09-24T22:28:00Z,wemoveon2,1,True
+2210942813,11596,Can't import L1Loss with fully qualified name mmdet.models.losses.smooth_l1_loss.L1Loss,open,pkubik,2024-03-27T14:22:02Z,2024-09-24T06:48:05Z,,,1,False
+2433597619,11884,fix(README): fix link of XDecoder at README,open,scepter914,2024-07-27T19:17:19Z,2024-09-23T13:23:06Z,,,2,True
+1609988871,9876,[Bug] Unable to start training,closed,ma3252788,2023-03-04T23:42:07Z,2024-09-23T09:46:44Z,2023-03-05T05:50:12Z,ma3252788,1,False
+2117821771,11459,MM_Grounding_DION 训练第4个epoch时，coco val 结果突然无效,closed,lluo-Desktop,2024-02-05T07:02:48Z,2024-09-23T07:09:12Z,2024-02-19T09:02:31Z,lluo-Desktop,9,False
+2196483361,11571,fix: typos,open,testwill,2024-03-20T01:51:18Z,2024-09-23T02:50:09Z,,,1,True
+2232712202,11623,first update,closed,JGyoung-UCAS,2024-04-09T06:40:49Z,2024-09-23T02:49:16Z,2024-09-23T02:49:16Z,BIGWangYuDong,2,True
+2541442887,11967,cascade mask-rcnn + mmdeploy error: [mmdeploy] [error] [instance_segmentation.cpp:78] invalid argument (1)?,open,yangzhiyin,2024-09-23T02:32:49Z,2024-09-23T02:33:04Z,,,0,False
+2008082979,11205,"Use backbone network implemented in MMPretrain, raise KeyError(f'Cannot find {norm_layer} in registry under",open,Jano-rm-rf,2023-11-23T11:58:53Z,2024-09-21T13:33:30Z,,,1,False
+2509407874,11944,运行问题，一直卡在inference,closed,wu33learn,2024-09-06T03:11:09Z,2024-09-21T11:29:24Z,2024-09-07T08:36:07Z,wu33learn,3,False
+2532893875,11963,Can registry be inherited more than once?,open,anzitong,2024-09-18T06:59:50Z,2024-09-20T18:56:56Z,,,1,False
+1569675911,9719,[Bug] Registry error with 'DetDataPreprocessor',closed,andrewcaunes,2023-02-03T11:13:49Z,2024-09-20T14:56:20Z,2023-02-03T16:23:44Z,andrewcaunes,3,False
+1535603247,9640,[Bug] 'DetDataPreprocessor is not in the model registry.,closed,bblumberg,2023-01-16T23:36:15Z,2024-09-20T14:52:12Z,2023-01-17T09:58:36Z,bblumberg,10,False
+2506965648,11941,mm_grounding_dino error mask.shape ValueError: too many values to unpack (expected 2),open,DawnShenLi,2024-09-05T07:14:27Z,2024-09-20T12:47:18Z,,,1,False
+689163477,3662,pytorch2onnx: RuntimeError: Can't call numpy() on Tensor that requires grad. Use tensor.detach().numpy() instead.,closed,ShidiDaisy,2020-08-31T12:19:52Z,2024-09-20T10:48:31Z,2020-09-12T10:03:58Z,hellock,3,False
+2488811082,11924,"Training on your own data set, once you start with precision, the next epoch will all become zeros",open,luoyq6,2024-08-27T09:40:48Z,2024-09-20T01:27:09Z,,,5,False
+2025764248,11252,使用Grounding dino demo的时候，一直卡住，有进度条但是一直没有结果,open,aixiaodewugege,2023-12-05T09:38:04Z,2024-09-19T01:12:10Z,,,5,False
+1830760944,10728,[MMdetection 3]  How should I use gradient accumulation correctly,open,mf991,2023-08-01T08:42:49Z,2024-09-18T19:33:03Z,,,2,False
+2533514496,11965,MyDataset is not  in the dataset registry,open,Tse-Lu,2024-09-18T11:48:09Z,2024-09-18T11:48:23Z,,,0,False
+2242007906,11635,KeyError: 'model',open,ghfSlience,2024-04-14T06:51:22Z,2024-09-18T09:27:33Z,,,2,False
+2351130837,11793,I am trying to replicate the Hybrid Task Cascade,open,jyotiahluwalia,2024-06-13T13:17:02Z,2024-09-18T08:43:59Z,,,3,False
+1335377162,8540,"我安装了mmdet 打了from mmdet.apis import inference_detector, init_detector 报错ModuleNotFoundError: No module named 'mmcv._ext'",closed,zhengxindi1231,2022-08-11T01:50:04Z,2024-09-18T03:36:12Z,2022-08-19T02:41:04Z,RangiLyu,7,False
+2231748953,11621,Issues replicating mmdetection v2 results with mmdetection v3,open,reiffd7,2024-04-08T17:34:18Z,2024-09-17T14:51:03Z,,,5,False
+547451214,1960,UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd4 in position 359: invalid continuation byte,closed,wantaoliu,2020-01-09T12:33:55Z,2024-09-16T09:15:27Z,2020-01-09T16:22:35Z,hellock,5,False
+2472598123,11914,Co-DETR 有了load_from为什么backbone还要加载预训练模型,open,wl654655902,2024-08-19T06:54:46Z,2024-09-16T05:40:47Z,,,2,False
+2526951045,11961,Convert `bboxes` to `numpy.ndarray` in InstanceData for Detection Task,open,Archie2035,2024-09-15T14:57:53Z,2024-09-15T14:58:00Z,,,0,True
+2526932361,11960,Convert `bboxes` to `numpy.ndarray` in InstanceData for tools/analyze_results.py,closed,Archie2035,2024-09-15T14:11:37Z,2024-09-15T14:46:46Z,2024-09-15T14:46:46Z,Archie2035,1,True
+1962373264,11091,browse_dataset.py not working with default coco based configs `V3.x`,open,SajjadPSavoji,2023-10-25T22:34:55Z,2024-09-15T09:19:53Z,,,1,False
+603746895,2495,"When I use Densenet as backbone, model can't detect  any targets.",closed,MPolaris,2020-04-21T06:39:06Z,2024-09-14T09:57:45Z,2020-04-23T04:40:10Z,MPolaris,2,False
+2494663049,11930,get_flops in Co-DETR ERROR!!!!!!!!!!!,open,NewBeeMrz,2024-08-29T14:32:24Z,2024-09-14T08:32:11Z,,,2,False
+1950019162,11061,Cannot reimplement the results of CrowdDet. Why?,open,Zzh-tju,2023-10-18T15:22:41Z,2024-09-14T06:56:18Z,,,4,False
+1776383822,10556,Semi-Supervised model not learning,open,janglinko-dac,2023-06-27T08:34:30Z,2024-09-14T03:45:08Z,,,6,False
+2237558340,11630,"Need help pls ""AttributeError: module 'mmcv' has no attribute 'jit'""",open,PRABS25,2024-04-11T11:57:41Z,2024-09-13T11:14:43Z,,,3,False
+1177879961,7512,ImportError: cannot import name 'Registry' from 'mmdet.utils' (mmdet/utils/__init__.py),closed,BaeSukkyoung,2022-03-23T09:55:44Z,2024-09-13T09:55:45Z,2022-03-25T11:08:47Z,BaeSukkyoung,10,False
+935614726,5512,"[TensorRT] ERROR: Parameter check failed at: engine.cpp::setBindingDimensions::1128, condition: engineDims.nbDims == dimensions.nbDims",closed,BChunlei,2021-07-02T09:59:03Z,2024-09-13T08:57:18Z,2022-03-13T13:57:56Z,ZwwWayne,13,False
+2523810369,11958,TypeError: __init__() got an unexpected keyword argument 'img_prefix',open,conmeobeoi,2024-09-13T03:41:02Z,2024-09-13T03:47:06Z,,,0,False
+2523028221,11957,Could you please explain how to obtained the feature maps? I want to plot a heat map of Co-DETR.,open,kailashhambarde,2024-09-12T18:03:01Z,2024-09-12T18:03:01Z,,,0,False
+1699390266,10288,Mmdetection own Feature Visualization,open,Yu1802,2023-05-08T02:15:32Z,2024-09-12T18:02:06Z,,,1,False
+1233740332,7971,Validation Loss During Training ,closed,David-Biggs,2022-05-12T09:53:22Z,2024-09-12T09:57:26Z,2022-05-30T05:43:51Z,David-Biggs,17,False
+1692860270,10258,"MlflowLogger: Invalid metric name: 'val/AR@100'. Names may only contain alphanumerics, underscores (_), dashes (-), periods (.), spaces ( ), and slashes (/)",open,ihoholko,2023-05-02T18:02:58Z,2024-09-10T08:59:02Z,,,4,False
+2513970786,11954,"Training Stuck at ""mmcv - INFO - load checkpoint from torchvision path: torchvision://resnet50""",open,kailashhambarde,2024-09-09T13:26:20Z,2024-09-09T13:26:36Z,,,0,False
+2512793475,11953,[Feature] Is asynchronous metric computation during training possible?,open,flytocc,2024-09-09T03:03:49Z,2024-09-09T03:04:05Z,,,0,False
+2510132485,11946,用其他数据集训练grounding dino报错，不知道是数据集的问题，还是需要更改代码的参数？,closed,wu33learn,2024-09-06T10:36:52Z,2024-09-08T10:00:23Z,2024-09-08T10:00:23Z,wu33learn,1,False
+2511529117,11947,用自己的数据训练mmgounding dino时报错 data['category_id'] = self.cat_ids[label] IndexError: list index out of range,closed,wu33learn,2024-09-07T07:56:26Z,2024-09-08T09:59:51Z,2024-09-08T09:59:51Z,wu33learn,0,False
+2511571097,11949,"during training, the best model always be epoch 1, all AP is -1",closed,wu33learn,2024-09-07T09:52:46Z,2024-09-08T09:59:34Z,2024-09-08T09:59:34Z,wu33learn,0,False
+2256605354,11653,RuntimeError: Input type (struct c10::Half) and bias type (float) should be the same,closed,veizei-K,2024-04-22T13:54:40Z,2024-09-08T09:33:58Z,2024-04-23T04:48:45Z,veizei-K,2,False
+616059120,2687,how to pass custom dataset class ,closed,RiyazAina-DeepML,2020-05-11T17:38:43Z,2024-09-08T08:28:44Z,2020-05-24T05:40:06Z,hellock,16,False
+2512185528,11950,1,closed,wu33learn,2024-09-08T04:08:02Z,2024-09-08T04:23:17Z,2024-09-08T04:23:17Z,wu33learn,0,False
+2507574930,11942,训练那个小猫时，请问coco数据集必须有segmentation吗,closed,wu33learn,2024-09-05T11:56:25Z,2024-09-07T08:35:52Z,2024-09-07T08:35:52Z,wu33learn,0,False
+2188800014,11555,data['category_id'] = self.cat_ids[label] IndexError: list index out of range,closed,slantingsun,2024-03-15T15:11:45Z,2024-09-07T04:27:16Z,2024-03-15T16:32:44Z,slantingsun,6,False
+2331529257,11764,loosen version constraint with mmcv,closed,jhj0517,2024-06-03T16:01:27Z,2024-09-06T09:22:31Z,2024-09-06T09:22:31Z,jhj0517,2,True
+2509690766,11945,Semantic Segmentation Failure,open,Ruihyw,2024-09-06T07:09:09Z,2024-09-06T07:09:09Z,,,0,False
+1672159970,10168,"When I try to verify the installation, error “AttributeError: 'NoneType' object has no attribute 'copy'’’",open,GarlicPineapple,2023-04-18T00:36:51Z,2024-09-06T06:46:04Z,,,14,False
+2505541377,11939,ValueError: need at least one array to concatenate,closed,liangzzzz233,2024-09-04T14:31:01Z,2024-09-05T09:27:09Z,2024-09-05T09:27:09Z,liangzzzz233,1,False
+902396859,5230,FileNotFoundError: CocoDataset: [Errno 2] No such file or directory: 'data/coco/annotations/instances_train2017.json',closed,wujiaors,2021-05-26T13:30:16Z,2024-09-05T06:05:55Z,2021-06-06T08:24:30Z,ZwwWayne,7,False
+2506627614,11940,Update analyze_logs.py,open,hcbin,2024-09-05T02:18:41Z,2024-09-05T02:53:22Z,,,1,True
+2505009509,11938,bert权重下载啥意思啊,closed,wu33learn,2024-09-04T11:00:47Z,2024-09-04T12:10:30Z,2024-09-04T12:10:30Z,wu33learn,3,False
+496966115,1437,How to add pictures without bounding box to reduce false postive?,closed,Nioolek,2019-09-23T08:44:30Z,2024-09-04T03:04:05Z,2019-10-11T09:56:48Z,Nioolek,9,False
+2499481229,11931,Questions about splitting the dataset,open,iskiku,2024-09-01T13:49:55Z,2024-09-01T13:50:12Z,,,0,False
+2448111748,11896,"如何设置 同时用两张gpu去训练 ，是CUDA_VISIBLE_DEVICES=0,1 这样吗，感觉并没有启用",open,1999luodi,2024-08-05T09:47:09Z,2024-08-31T01:41:30Z,,,1,False
+2349282783,11788,How to train from scratch?,open,lionReichl2357,2024-06-12T17:07:19Z,2024-08-30T08:26:04Z,,,1,False
+1040228391,6414,[TIPS/ADVICE] How to combat overfitting in mmdetection framework?,closed,neel04,2021-10-30T15:37:06Z,2024-08-29T14:28:24Z,2021-11-22T03:54:31Z,hhaAndroid,4,False
+2493827055,11929,请问cascade模型如何加入负样本训练呢？,open,ppx0001,2024-08-29T08:47:28Z,2024-08-29T08:47:44Z,,,0,False
+2493821358,11928,请问cascade模型如何加入负样本训练呢,closed,ppx0001,2024-08-29T08:44:58Z,2024-08-29T08:46:01Z,2024-08-29T08:46:01Z,ppx0001,0,False
+1647096078,10053,【fix】 fix reppoints head device bug,closed,klyu521,2023-03-30T07:50:21Z,2024-08-29T07:30:47Z,2023-03-31T02:49:24Z,hhaAndroid,3,True
+1639602217,10026,Fixed potential device mismatch,closed,cxy1997,2023-03-24T15:27:51Z,2024-08-29T07:01:20Z,2023-03-29T07:09:09Z,hhaAndroid,4,True
+1637446105,10016,[Fix] Fix the precision problem of solov2 model on NPU.,closed,Ginray,2023-03-23T12:25:37Z,2024-08-29T06:30:43Z,2023-03-24T03:45:09Z,hhaAndroid,2,True
+2136552524,11474,Asking for your help! Test demo is not available,closed,jinweixia03,2024-02-15T13:39:05Z,2024-08-29T06:19:33Z,2024-02-24T12:04:35Z,jinweixia03,5,False
+2173229748,11521,the error message as follow,open,heavytank,2024-03-07T08:03:53Z,2024-08-29T06:16:58Z,,,3,False
+2197239950,11573,RuntimeError: CUDA error: an illegal memory access was encountered,open,julien-couillaud-2e,2024-03-20T10:56:44Z,2024-08-29T05:07:32Z,,,3,False
+2249745828,11645,TypeError: unhashable type: 'dict',open,666wodeyy,2024-04-18T04:57:30Z,2024-08-29T04:06:43Z,,,3,False
+2485743925,11922,what's the difference between mm-grounding dino and the open-grounding dino? i found the odvg.py some difference,open,lyf6,2024-08-26T02:59:10Z,2024-08-26T03:45:03Z,,,2,False
+2485761186,11923,"Is there any plan to add the ability to export Divs model to onnx or torchscript,  which is base on mask2former",open,svitlana1ana,2024-08-26T03:14:05Z,2024-08-26T03:14:20Z,,,0,False
+2480746293,11921,Extraction model from MMDetection to Pytorch or Pytorch Lighthining,open,MichaelD7911,2024-08-22T13:05:59Z,2024-08-25T08:40:24Z,,,0,False
+2468273472,11911,Anchor optimisation with YOLO models,open,Charles-AntoineLaurin,2024-08-15T15:12:38Z,2024-08-23T03:31:14Z,,,6,False
+2464959074,11908,This result is too unexpected，please help,open,Lemonade24510,2024-08-14T05:52:32Z,2024-08-23T01:38:33Z,,,0,False
+2422224114,11869,Can the mmdetection3.0.0 environment still run the code of mmdetection2.25.1?,open,fujintao1999,2024-07-22T08:05:59Z,2024-08-22T14:30:58Z,,,1,False
+2480549937,11920,Problem with getting metrics on test and validation sets.,open,vadimdddd,2024-08-22T11:30:04Z,2024-08-22T11:52:22Z,,,0,False
+2332715620,11765,mm_grounding_dino num_class=256?,open,sipie800,2024-06-04T07:02:12Z,2024-08-22T09:26:25Z,,,9,False
+2314222255,11738,RuntimeError: sigmoid_focal_loss_forward_impl: implementation for device cuda:0 not found.,closed,miaomaomiaomaoda,2024-05-24T02:51:05Z,2024-08-22T08:54:49Z,2024-05-24T15:12:57Z,miaomaomiaomaoda,2,False
+1697096690,10273,"""binary marks"" must have the same shape as the image",open,Sneriko,2023-05-05T06:46:48Z,2024-08-22T07:12:17Z,,,15,False
+1773227204,10548,test.py doesn't write output images (--show-dir argument is ignored),closed,AndreaPi,2023-06-25T11:18:55Z,2024-08-22T06:05:11Z,2023-06-26T10:02:19Z,AndreaPi,2,False
+2467694393,11910,Logging into MLFlow for Confusion Matrix,open,georgeblu1,2024-08-15T09:05:15Z,2024-08-22T06:00:13Z,,,2,False
+2477945467,11917,使用configs/mm_grounding_dino/usage_zh-CN.md的教程时出现问题，求助！！,closed,KissFiresky,2024-08-21T12:42:13Z,2024-08-22T03:44:08Z,2024-08-22T03:44:08Z,KissFiresky,1,False
+774838020,4354,ValueError: base_wd should not be None,closed,Serenagirl,2020-12-26T07:47:10Z,2024-08-21T14:18:29Z,2021-01-02T03:51:08Z,ZwwWayne,4,False
+487954686,1316,unexpected key in source state_dict: and missing keys in source state_dict:,closed,UrwLee,2019-09-02T01:18:37Z,2024-08-21T08:31:31Z,2019-11-25T13:31:06Z,hellock,2,False
+2437017786,11889,TypeError: forward() missing 2 required positional arguments: 'init_bboxes' and 'init_t'   Diffision DET,open,yihaohu0118,2024-07-30T06:34:48Z,2024-08-21T03:11:50Z,,,2,False
+2475068155,11915,How do I set up the config and model so that the two optimizers are updated by their respective loss?,open,Bian-jh,2024-08-20T08:45:52Z,2024-08-20T08:46:08Z,,,0,False
+1458025124,9360,[AttributeError] : MultiImageMixDataset: 'ConfigDict' object has no attribute 'CLASSES',closed,Hshuqin,2022-11-21T14:17:02Z,2024-08-19T03:14:27Z,2023-03-23T02:06:02Z,hhaAndroid,6,False
+1817478329,10687,Add API to adjust `font_families` when using Visualizer to render inference result,open,FirokOtaku,2023-07-24T02:26:11Z,2024-08-16T03:40:48Z,,,2,False
+404574716,300,"Question about pre_nms, post_nms",closed,whikwon,2019-01-30T02:33:42Z,2024-08-16T02:24:20Z,2019-01-31T08:40:43Z,whikwon,10,False
+1151811409,7266,How do I train the Dataset (Youtube-vis 2021),closed,fxooooooooo,2022-02-26T14:08:47Z,2024-08-16T02:15:23Z,2022-03-03T07:53:21Z,ZwwWayne,3,False
+2465283802,11909,MMDetection custom dataset implement CO_DETR model: JSONDecodeError: Expecting value: line 1 column 1 (char 0)! pls tell me what should i do?,open,thesonproductions,2024-08-14T09:00:33Z,2024-08-14T09:00:49Z,,,0,False
+2450488599,11897,mm_grounding_dino finetune based on swin large,closed,zhaishengfu,2024-08-06T10:09:22Z,2024-08-14T07:16:21Z,2024-08-14T07:16:21Z,zhaishengfu,0,False
+2459484181,11905,infer bug,closed,Bin-ze,2024-08-11T08:23:24Z,2024-08-13T01:31:28Z,2024-08-13T01:31:28Z,Bin-ze,1,False
+2460475485,11907,为什么在我使用kitti训练PointPillars得到的训练结果基本为零,open,saber-pro,2024-08-12T09:26:07Z,2024-08-12T09:26:22Z,,,0,False
+2038840313,11278,I get an error when I try to test the number of parameters of DiffusionDet.,open,Edenmm,2023-12-13T02:27:09Z,2024-08-12T08:02:51Z,,,5,False
+2459929821,11906,[Fix] rtmdet_ins_head scale_factor dimensions,open,wickeat,2024-08-12T02:42:42Z,2024-08-12T07:16:56Z,,,1,True
+2369124728,11810,DINO网络训练后的模型用mmdet预测结果错误,open,Ochre-amber,2024-06-24T03:38:41Z,2024-08-12T06:37:19Z,,,3,False
+2458860777,11904,Double Check RPN Foreground and Background Labels During Prediction,open,brian-zhu99,2024-08-10T02:36:57Z,2024-08-10T02:37:12Z,,,0,False
+2453019835,11899,Failed to add some additional layers based on Existing model,closed,zimoqingfeng,2024-08-07T09:30:55Z,2024-08-09T06:05:41Z,2024-08-08T07:44:44Z,zimoqingfeng,6,False
+2319383155,11745,Is it possible to pass allow_unused and materialize_grad to optim_wrapper?,closed,ashkanaev,2024-05-27T15:19:21Z,2024-08-09T05:47:16Z,2024-05-29T15:17:31Z,ashkanaev,2,False
+2457068193,11903,How to use CPU to test FPS,open,yuhua666,2024-08-09T04:16:23Z,2024-08-09T04:16:38Z,,,0,False
+2456110165,11902,question about nms (rpn) ,open,wannanfeng,2024-08-08T15:37:05Z,2024-08-08T15:50:37Z,,,1,False
+2455471159,11901,[Mask RCNN Swin-S] the loss exploded during training on my dataset,open,josef5838,2024-08-08T10:42:49Z,2024-08-08T10:43:05Z,,,0,False
+2453000561,11898,Failed to ad,closed,zimoqingfeng,2024-08-07T09:21:59Z,2024-08-07T09:23:08Z,2024-08-07T09:23:08Z,zimoqingfeng,0,False
+2364087001,11804,Training issues with custom dataset (Missing) and learning rate fluctuations ,open,Warcry25,2024-06-20T10:24:27Z,2024-08-07T09:22:05Z,,,12,False
+2340303553,11775,AttributeError: 'ConfigDict' object has no attribute 'model',open,sivareddy9166,2024-06-07T12:09:17Z,2024-08-07T04:01:15Z,,,3,False
+606177471,2527,ImportError: cannot import name 'init_dist' from 'mmdet.apis' (/home/**/Download/mmdetection/mmdet/apis/__init__.py),closed,laridzhang,2020-04-24T09:32:59Z,2024-08-06T05:59:58Z,2020-05-10T03:41:33Z,hellock,5,False
+604939326,2508,Getting Error: Probably not able to access host gpu via docker container ,closed,gurjeetseh,2020-04-22T17:36:29Z,2024-08-05T10:09:25Z,2021-04-19T03:32:47Z,hhaAndroid,1,False
+1777335633,10561,[Feature] Support Dense Teacher,open,shufanwu,2023-06-27T16:24:40Z,2024-08-05T02:44:14Z,,,13,True
+2447440897,11894,Evaluating the Soft Teacher Model,open,anhTuan24,2024-08-05T01:58:59Z,2024-08-05T01:59:14Z,,,0,False
+2446369577,11893,loss: nan,open,lqh964165950,2024-08-03T14:11:55Z,2024-08-03T14:12:10Z,,,0,False
+2394171975,11837,Does test.py dump predictions to .pkl file before NMS or after NMS?,open,SamedYalcin,2024-07-07T18:46:03Z,2024-08-03T09:47:16Z,,,3,False
+2444368181,11892,Can't train yolox_s with custom dataset on cpu-only device,open,young03600,2024-08-02T08:15:31Z,2024-08-02T08:50:37Z,,,0,False
+2444352561,11891,wrong post,closed,edaworkshoptw2022,2024-08-02T08:07:08Z,2024-08-02T08:12:16Z,2024-08-02T08:11:35Z,edaworkshoptw2022,1,False
+2342129118,11779,"How to integrate the CAM/GRAD-CAM and some heatmap visualization with the DETR , eg.""DINO"" ? I have seen so many ideas about CNN models but transformer_detection model",open,xyb1314,2024-06-09T09:37:59Z,2024-08-02T07:41:45Z,,,2,False
+2435809834,11888,How does MMDetection calculate Precision in a one-class classification?,open,CarolinRue,2024-07-29T16:05:46Z,2024-08-02T01:49:25Z,,,1,False
+2197417393,11574,Updated the mmdet2torchserve function:,open,Danil328,2024-03-20T12:29:55Z,2024-08-01T09:38:12Z,,,5,True
+1881422768,10881,How to freeze the backbone?,closed,Kegard,2023-09-05T07:58:20Z,2024-08-01T08:50:36Z,2023-09-07T10:59:48Z,Kegard,3,False
+2441819301,11890,ImportError: libc10_cuda.so: cannot open shared object file: No such file or directory,open,jichenghao666,2024-08-01T08:29:44Z,2024-08-01T08:29:59Z,,,0,False
+1221060072,7878,Modify config through script arguments,closed,Tamiku,2022-04-29T15:14:57Z,2024-08-01T08:27:02Z,2022-05-04T01:07:24Z,Tamiku,4,False
+2431643660,11881,Update local_visualizer.py to return the image if there are no masks,open,peasant98,2024-07-26T07:50:13Z,2024-07-31T19:34:07Z,,,2,True
+878411505,5117,How can I get console log text?,closed,bolero2,2021-05-07T03:52:09Z,2024-07-31T11:20:16Z,2024-07-31T11:20:16Z,bolero2,0,False
+1514331688,9546,[Feature] Please support EfficientDet.,closed,wangjiangben-hw,2022-12-30T08:12:18Z,2024-07-31T09:46:38Z,2024-07-31T09:46:38Z,wangjiangben-hw,3,False
+2413003864,11858, ValueError: need at least one array to concatenate,open,xiaoran8899,2024-07-17T08:33:31Z,2024-07-31T08:46:30Z,,,1,False
+2433867391,11885,the self.num_classes how to set,closed,withyou888,2024-07-28T10:41:02Z,2024-07-31T07:06:53Z,2024-07-31T07:06:53Z,withyou888,0,False
+1159715472,7321,"mAP, dets, etc. and all other metrics are 0",closed,sarmientoj24,2022-03-04T14:37:26Z,2024-07-30T07:22:30Z,2022-04-08T09:25:47Z,hhaAndroid,13,False
+1593044317,9812,[Feature] Support ViTDet in projects,closed,zwhus,2023-02-21T08:32:00Z,2024-07-30T02:39:10Z,2023-05-12T06:02:22Z,hhaAndroid,2,True
+750621377,4182,Modify input channels of model,closed,GiangHLe,2020-11-25T08:53:02Z,2024-07-29T15:30:13Z,2020-12-02T04:24:19Z,GiangHLe,5,False
+1849232453,10787,Refine DDQ README,closed,hhaAndroid,2023-08-14T08:01:36Z,2024-07-29T10:17:36Z,2023-08-15T06:03:50Z,hhaAndroid,1,True
+1963277728,11094,[MMSIG]Add the functionality to plot the PR curve in the COCO metric indicators of mmdet,open,SimonGuoNjust,2023-10-26T11:10:19Z,2024-07-29T09:50:09Z,,,5,True
+2434313900,11887,文档教程考虑重写吗,open,liuxiaobina,2024-07-29T02:23:47Z,2024-07-29T03:38:07Z,,liuxiaobina,0,False
+2433980556,11886,Train on custom dataset step-by-step,open,pramudyadika,2024-07-28T15:09:41Z,2024-07-28T15:09:57Z,,,0,False
+1173261228,7453,Swin V2,open,Money-HY,2022-03-18T07:19:39Z,2024-07-28T12:24:02Z,,,8,False
+2430170772,11877,"Perform target detection on visdrone data set on mmdetection, mAP cannot reach the article reproduction",closed,withyou888,2024-07-25T14:45:24Z,2024-07-28T10:36:52Z,2024-07-28T10:36:52Z,withyou888,0,False
+2421231241,11866,Add YOLOv9 to supported models,closed,aaronllowe,2024-07-21T05:35:11Z,2024-07-28T06:06:33Z,2024-07-24T20:57:11Z,aaronllowe,1,False
+2433423980,11883,更改权重文件保存格式,open,wuying-541,2024-07-27T10:55:05Z,2024-07-27T10:55:22Z,,,0,False
+1982837546,11141,How do I change the font_size of predicted box?,closed,CODERED555,2023-11-08T06:26:08Z,2024-07-27T03:02:26Z,2024-07-27T03:02:26Z,CODERED555,2,False
+839492677,4828,AssertionError: The `num_classes` (3) in Shared2FCBBoxHead of MMDataParallel does not matches the length of `CLASSES` 80) in CocoDataset,closed,myfutures,2021-03-24T08:48:24Z,2024-07-27T02:15:28Z,2021-03-26T13:24:11Z,ZwwWayne,16,False
+1854541911,10804,How to freeze parameters other than the backbone in MMDetection?,open,marcm09,2023-08-17T08:43:21Z,2024-07-26T10:37:30Z,,,2,False
+2431909296,11882,Different image resize scales used in training & test pipeline in YOLOX_tiny config file,open,girinchutia-bh,2024-07-26T10:14:49Z,2024-07-26T10:15:05Z,,,0,False
+2431441009,11880,training speed slower 2X,closed,zhaohai1314,2024-07-26T05:15:43Z,2024-07-26T05:16:41Z,2024-07-26T05:16:40Z,zhaohai1314,0,False
+2431349898,11879,training speed slower 2X,open,zhaohai1314,2024-07-26T03:45:34Z,2024-07-26T03:45:49Z,,,0,False
+2174784439,11528,No annotation file in MultiImageMixDataset?,closed,Abhrant,2024-03-07T20:59:14Z,2024-07-26T01:52:38Z,2024-03-07T21:24:51Z,Abhrant,2,False
+2431231674,11878,num_workers not worked.,open,gitleej,2024-07-26T01:28:04Z,2024-07-26T01:28:19Z,,,0,False
+2073431540,11354,How to improve CPU utilization ？,open,gitleej,2024-01-10T01:35:13Z,2024-07-26T01:20:55Z,,,6,False
+654725184,3284,ImportError: cannot import name 'build_from_cfg' from 'mmdet.utils',closed,ShidiDaisy,2020-07-10T11:49:38Z,2024-07-25T12:32:06Z,2020-07-13T03:16:05Z,ZwwWayne,2,False
+1641467877,10035,Mask DINO,open,nostayup,2023-03-27T06:30:12Z,2024-07-25T09:31:39Z,,,10,False
+2428915434,11876, support mlflow do advance experiment management,open,zhanglazhuan,2024-07-25T03:46:15Z,2024-07-25T03:46:30Z,,,0,False
+1736437282,10427,KeyError: 'img_prefix',open,mc-lgt,2023-06-01T14:19:52Z,2024-07-25T03:16:04Z,,,1,False
+2191117014,11561,There are two code of DetrTransformerDecoderLayer in master version,closed,Cosmo1210,2024-03-18T02:52:39Z,2024-07-25T02:29:19Z,2024-07-25T02:29:19Z,Cosmo1210,0,False
+2428516224,11875,Training RMTDet on DOTA [how do I do this?],open,j93hahn,2024-07-24T21:35:24Z,2024-07-24T21:35:40Z,,,0,False
+2428353442,11874,where is the `add + norm` in the DETR implementation?,closed,YangyangFu,2024-07-24T19:48:46Z,2024-07-24T20:10:13Z,2024-07-24T20:10:13Z,YangyangFu,1,False
+2183005884,11548,How to implement add in the add and norm of the decoder?,open,q105682711,2024-03-13T02:41:37Z,2024-07-24T19:43:03Z,,,0,False
+771336542,4329,How do I implement my own NMS into mmdetection?,closed,OnurKyn,2020-12-19T08:28:43Z,2024-07-24T16:17:37Z,2020-12-30T14:36:52Z,ZwwWayne,7,False
+1056412073,6534,Multi-gpu training gets stuck,open,vakker,2021-11-17T17:40:23Z,2024-07-24T15:32:21Z,,,27,False
+1943792371,11040,"Hello, may I ask how to add guided anchoring to the rpn module of HTC? I have tried it but it has not been successful.",open,rzgongbowen,2023-10-15T08:23:47Z,2024-07-23T16:03:54Z,,,2,False
+2424924937,11873,gt_instances.instances_ids must be called gt_instances.instances_id,open,Jax377,2024-07-23T11:09:24Z,2024-07-23T11:09:40Z,,,0,False
+2424047647,11871,Detr、DDOD训练时loss为0，且推理时，边界框超出图片范围,open,Mac-jie,2024-07-23T01:23:57Z,2024-07-23T01:24:12Z,,,0,False
+2336247565,11770,img_path is not in available keys when running albumentations pipeline,open,GeorgePearse,2024-06-05T15:42:13Z,2024-07-22T14:17:15Z,,,7,False
+1752090313,10489,"I wanted to print out the map of the training set in the output log, but I tried to change the val_evaluato to train_evaluato and it didn't work, please help me, thanks",open,zexi136,2023-06-12T07:24:53Z,2024-07-22T10:39:29Z,,,2,False
+2100622701,11432,fix albumentations mask postprocessing,open,AItairs,2024-01-25T15:21:31Z,2024-07-22T08:25:45Z,,,1,True
+2421520101,11868,training is so slow,open,changbumLee,2024-07-21T16:52:14Z,2024-07-21T17:01:59Z,,,0,False
+2058572084,11320,rt-detr会更新吗,open,dhddxdhd,2023-12-28T15:36:40Z,2024-07-21T13:05:10Z,,,3,False
+2420857460,11865,"Using the previously trained checkpoints, an error occurs and the acc is 0",open,136LYJ,2024-07-20T11:30:12Z,2024-07-20T11:31:00Z,,,1,False
+2212355278,11598,Torchserve stopped,closed,tienduchoang,2024-03-28T05:00:29Z,2024-07-20T09:48:06Z,2024-03-30T08:25:46Z,tienduchoang,8,False
+1939068802,11028, 'Recognizer3D is not in the mmengine::model registry.,open,superme3322,2023-10-12T02:33:16Z,2024-07-20T09:19:13Z,,,2,False
+2282250753,11686,./tools/dist_test.sh evaluation value is all zero,closed,fathur-rs,2024-05-07T04:32:20Z,2024-07-19T13:30:36Z,2024-05-07T04:47:09Z,fathur-rs,4,False
+1993091399,11179,Two images stitched together in mask rcnn visualization result.mask rcnn可视化结果中两张图片拼接在了一起。,open,windwhim,2023-11-14T16:22:09Z,2024-07-19T13:18:21Z,,,1,False
+2417748901,11863,How to enable the mm-grounding-dino support to detect classes described in Chinese?,open,Cloud65000,2024-07-19T02:57:14Z,2024-07-19T08:59:59Z,,,2,False
+2084011826,11386,ModuleNotFoundError: No module named 'native_rasterizer',closed,theRain0450,2024-01-16T13:52:10Z,2024-07-19T07:23:36Z,2024-01-17T08:06:54Z,hhaAndroid,3,False
+1798046373,10621,KeyError: 'RANK' occered when trained in single gpu,open,VariableXX,2023-07-11T04:00:55Z,2024-07-19T05:22:06Z,,,2,False
+1983082925,11142,请教Grounding DINO推理结果不佳的问题,open,zishengzheqiang,2023-11-08T09:00:47Z,2024-07-19T02:18:31Z,,,5,False
+2417698394,11862,Unable to reproduce toot results(无法复现tood的结果）,open,ZhuperQ,2024-07-19T02:06:55Z,2024-07-19T02:07:12Z,,,0,False
+2415485003,11859,MAP is stucked at 0 for Mobilenet V2 SSD QAT without pretrained model,open,HeleMartin,2024-07-18T06:26:37Z,2024-07-18T06:26:52Z,,,0,False
+2410126154,11854,使用coco数据集时为什么在验证过程中data_samples中的pred_instances都是空值。,closed,anzitong,2024-07-16T03:34:59Z,2024-07-17T07:33:55Z,2024-07-17T07:33:55Z,anzitong,0,False
+2412552644,11857,CocoMetric在调试过程中发现并未接收任何有效值。,closed,anzitong,2024-07-17T03:30:39Z,2024-07-17T07:33:39Z,2024-07-17T07:33:39Z,anzitong,0,False
+2083385865,11384,I want change color of bbox in mmdet3.0,open,wang1528186571,2024-01-16T09:08:27Z,2024-07-17T03:07:12Z,,,2,False
+2394172430,11838,Does test.py apply score threshold to predicitions?,open,SamedYalcin,2024-07-07T18:47:33Z,2024-07-16T10:08:00Z,,,1,False
+2410252878,11855,[Docs] A100算力加持！书生大模型实战营第3期全面升级，趣味闯关模式等你开启,open,boshallen,2024-07-16T05:35:13Z,2024-07-16T05:35:28Z,,,0,False
+1051787322,6491,ImportError: cannot import name 'init_random_seed',closed,yeyujujishou19,2021-11-12T10:02:03Z,2024-07-15T13:02:30Z,2021-11-12T12:28:40Z,yeyujujishou19,5,False
+1071380451,6691,ImportError: cannot import name 'wrap_fp16_model' from 'mmdet.core' ,closed,ningqing123,2021-12-05T05:59:30Z,2024-07-15T08:25:58Z,2021-12-16T10:28:56Z,ningqing123,4,False
+840518573,4831,ImportError:cannot import name 'get_git_hash' from 'mmcv.utils' ,closed,calvin886,2021-03-25T03:20:14Z,2024-07-14T09:17:56Z,2021-05-31T08:35:15Z,ZwwWayne,9,False
+1602413107,9848,[Bug] Attributr 'ReduceOP' not found in module 'torch.distributed',open,Vaibhav-Fulara,2023-02-28T05:49:47Z,2024-07-13T15:37:18Z,,,3,False
+2349858791,11789,Update __init__.py,open,JohnConnor123,2024-06-12T23:51:29Z,2024-07-12T23:33:27Z,,,2,True
+2405185423,11850,Use get_flops.py problem,open,xianhong1101,2024-07-12T09:49:19Z,2024-07-12T09:49:35Z,,,0,False
+2279951653,11680,[Fix] Update mmcv_maximum_version,closed,shun001,2024-05-06T03:35:31Z,2024-07-12T09:35:44Z,2024-07-12T09:35:11Z,hhaAndroid,4,True
+2405050355,11849,The memory usage checked with the nvidia-smi command is much larger than the memory in the log,open,renxingqiao,2024-07-12T08:35:17Z,2024-07-12T08:35:34Z,,,0,False
+1282097289,8250,This error occurs when using Albu RandomRotate90 in train_pipeline,closed,wzr0108,2022-06-23T09:27:44Z,2024-07-12T05:28:54Z,2022-07-18T01:50:54Z,RangiLyu,4,False
+2404163128,11848,ReadTheDocs needs updating,open,mbergman257,2024-07-11T21:32:49Z,2024-07-11T21:33:05Z,,,0,False
+2403305323,11847,wandb 在配置mmdet中没有生效,open,wkx-anything,2024-07-11T14:16:10Z,2024-07-11T14:16:26Z,,,0,False
+1689993762,10251,"I wanted to detect the image, but encountered the following error: assert key in results, f'`{key}` is not found in `results`",closed,anying111,2023-04-30T16:54:50Z,2024-07-11T10:00:48Z,2023-05-05T02:10:24Z,hhaAndroid,8,False
+2400242294,11845,About DetInferencer,closed,caiduoduo12138,2024-07-10T09:34:17Z,2024-07-11T02:06:36Z,2024-07-11T02:06:36Z,caiduoduo12138,0,False
+2366691476,11809,fix:Fix two of the CO-DETR config files,open,Zzzan,2024-06-21T14:41:51Z,2024-07-10T14:23:56Z,,,1,True
+1773203285,10546,"Function to find the ""cl.exe"" have a bug without a terminal",open,novalli1993,2023-06-25T10:36:45Z,2024-07-10T13:53:37Z,,,1,False
+1198551932,7680,  KeyError: 'ann_info',closed,Zhengym-hub,2022-04-09T11:55:57Z,2024-07-10T12:08:57Z,2022-04-09T15:22:24Z,chhluo,7,False
+2393330093,11834,使用默认的模型训练coco数据集，但是在测试默认的val2017的时候，发现预测没有结果，全部是空的,open,stillbetter,2024-07-06T02:09:57Z,2024-07-10T07:18:24Z,,,1,False
+2399842994,11844,simple script for testing onnx file,open,RaminAkhtar,2024-07-10T06:14:09Z,2024-07-10T06:14:09Z,,,0,False
+1619993068,9923,simple python inference code for testing the onnx file ,open,deepakkupanda,2023-03-11T12:42:48Z,2024-07-10T05:53:04Z,,,2,False
+2087736555,11398,[bug] 使用Torch Dynamo训练官方脚本，会报错。如果不开dynamo，相同脚本能正常运行,open,wassryan,2024-01-18T08:05:45Z,2024-07-10T00:26:43Z,,,1,False
+1987001256,11154,"If i ran compile example using pytorch 2.1.0, got an error",open,DonggeunYu,2023-11-10T06:29:16Z,2024-07-09T19:41:42Z,,,3,False
+1626904242,9961,Cannot run train.py since meets bugs. ,open,zhuwano1,2023-03-16T07:52:08Z,2024-07-09T12:51:34Z,,,5,False
+2394919767,11841,没有数据集，仅仅只是测试一些图片，init_detector 如何初始化,closed,HaoLiuHust,2024-07-08T07:55:48Z,2024-07-09T07:57:01Z,2024-07-08T08:38:50Z,HaoLiuHust,3,False
+2303891886,11728,"For mmdetection, how can i get the prediction result which is processed by NMS？",open,FengRongYue,2024-05-18T06:57:12Z,2024-07-08T20:30:58Z,,,3,False
+2395168068,11842,got an unexpected keyword argument 'data_root' in YOLOX training,open,JNaranjo-Alcazar,2024-07-08T09:48:22Z,2024-07-08T09:48:37Z,,,0,False
+2394504412,11840,rtmdet_ins_head resize error,open,JUNHAOYAN,2024-07-08T03:12:03Z,2024-07-08T03:12:19Z,,,0,False
+2394371798,11839,detr-r50 500e pretrained weight,open,shuyuan-wang,2024-07-08T01:15:59Z,2024-07-08T01:16:15Z,,,0,False
+2393966289,11836,classification evaluation result,open,shuyuan-wang,2024-07-07T09:14:17Z,2024-07-07T09:14:33Z,,,0,False
+2012176958,11216,Update iou2d_calculator.py to fix an error description in the comment,closed,lengmo1996,2023-11-27T12:33:37Z,2024-07-07T08:34:55Z,2024-07-07T08:34:55Z,lengmo1996,2,True
+2393448333,11835,RTMDet中的Conv Module模块,open,jason0777,2024-07-06T07:11:04Z,2024-07-06T07:11:19Z,,,0,False
+2392875295,11833,Migrate the MAE pretrained vit in mmpretrain to the VitDet project,open,Vanish1112,2024-07-05T16:23:13Z,2024-07-05T16:23:29Z,,,0,False
+2391692684,11831,催更 中文教程,open,since2016,2024-07-05T03:17:56Z,2024-07-05T03:18:11Z,,,0,False
+2076453398,11362,Issue with NLTK and MM-GDINO?,open,affromero,2024-01-11T12:06:51Z,2024-07-04T14:42:50Z,,,7,False
+2389979029,11829,Can't run mmdetection on Custom DATASET,open,ahmedmuzammal,2024-07-04T05:32:13Z,2024-07-04T06:21:51Z,,,0,False
+1921892746,10994,Obtaining Precision and Recall metric values ,open,buyukkanber,2023-10-02T13:10:27Z,2024-07-04T05:53:28Z,,,8,False
+2388855116,11827,comment error in deformable DETR,open,Chop1,2024-07-03T14:57:22Z,2024-07-03T14:57:38Z,,,0,False
+1635278688,10007,[Reimplementation] Mask2former result,open,david95j2,2023-03-22T08:28:21Z,2024-07-03T08:50:07Z,,,4,False
+2387922817,11826,What should the shape of the target parameter in focal loss look like?,open,xuanzhangyang,2024-07-03T07:45:36Z,2024-07-03T07:45:51Z,,,0,False
+718734426,3909,how to generate bbox embedding giving a pretrained model along with bbox,closed,xwuShirley,2020-10-11T01:18:12Z,2024-07-03T02:21:25Z,2020-10-21T07:05:41Z,yhcao6,5,False
+2387136707,11824,How to extract model up to a specified frozen layer,open,GeorgePearse,2024-07-02T20:46:22Z,2024-07-02T20:47:29Z,,,0,False
+1689742277,10250,"F.pad get ""IndexError: Dimension out of range (expected to be in range of [-3, 2], but got 3)"" error ",closed,yechenzhi,2023-04-30T01:34:52Z,2024-07-02T13:20:58Z,2023-05-28T09:53:57Z,yechenzhi,4,False
+2383231413,11821,How to use dict loaded in memory rather than speicfying path to json in the config for training,open,AlixBird,2024-07-01T08:46:53Z,2024-07-01T08:47:08Z,,,0,False
+1197335202,7675,Issue while integrating fasterrcnn mm model with gradcam..,closed,sanjaypavo,2022-04-08T13:42:12Z,2024-07-01T08:32:51Z,2022-10-24T03:43:55Z,BIGWangYuDong,6,False
+1679455236,10205,How can I use MLFLOW with new version of mmdetection ?,open,tianyufang1958,2023-04-22T10:03:44Z,2024-07-01T08:06:33Z,,,5,False
+2382421492,11820,YOLOX input normalisation question,open,dmitrysarov,2024-06-30T20:16:36Z,2024-06-30T20:16:51Z,,,0,False
+2177539855,11538,"How to print accuracy, recall, F1 value？P、R、F!",closed,Idol-Dou2021,2024-03-10T05:55:34Z,2024-06-30T07:10:40Z,2024-06-30T07:10:40Z,Idol-Dou2021,2,False
+2380635593,11819,self-driving car,open,1716775457damn,2024-06-28T15:01:29Z,2024-06-28T15:01:46Z,,,0,False
+2379965596,11818,请问ext_module有公开吗，想要添加函数应该怎么办,open,hhanying,2024-06-28T09:12:32Z,2024-06-28T09:12:48Z,,,0,False
+2210669003,11595,How to modify this line of code?from mmdet.datasets import build_dataset ,open,VincaSun,2024-03-27T12:26:52Z,2024-06-28T06:58:55Z,,,1,False
+2379444904,11816,如何在window,closed,wdzwdxy,2024-06-28T02:40:02Z,2024-06-28T02:40:16Z,2024-06-28T02:40:16Z,wdzwdxy,0,False
+2378178340,11814,[Fix] non-functional configuration File for new config file of maskformer_swin_l,open,tackhwa,2024-06-27T13:33:20Z,2024-06-27T13:33:47Z,,,1,True
+2372698010,11813,CrowdHumanMetric buggy VOC matching,open,mdaehl,2024-06-25T13:24:14Z,2024-06-25T13:24:31Z,,,0,False
+2372580226,11812, Reported an error when adjusting batch size for Faster R-CNN,open,SciCrafter,2024-06-25T12:33:55Z,2024-06-25T12:34:11Z,,,0,False
+2024975091,11250,DefaultFormatBundle、Collect both are not in the mmdet::transform registry. 求助！help！,open,nagisawarm,2023-12-04T23:24:29Z,2024-06-25T11:19:18Z,,,1,False
+1022043965,6250,"Train DetectoRS, SCNet or HTC on a custom dataset of type COCOdataset",closed,AndreaPi,2021-10-10T17:30:09Z,2024-06-24T16:27:15Z,2021-10-27T03:58:46Z,jshilong,8,False
+2365312351,11807,Bounding Box Thickness,open,ZeeRizvee,2024-06-20T21:31:31Z,2024-06-22T20:01:25Z,,,1,False
+2019966046,11234,进入 train_step() 方法查看梯度更新时，parms.grad 值为None,closed,qqqtwh,2023-12-01T03:09:10Z,2024-06-22T15:35:04Z,2023-12-01T03:18:27Z,qqqtwh,2,False
+2233575011,11626,training stuck problem,open,xika1234,2024-04-09T14:26:19Z,2024-06-22T11:27:40Z,,,2,False
+1816640794,10684,The model and loaded state dict do not match exactly,open,Twisted-Fates,2023-07-22T06:12:00Z,2024-06-21T20:29:26Z,,,2,False
+646688620,3135,Bounding boxes not showing on the result demo image,closed,deepentropy,2020-06-27T14:05:42Z,2024-06-21T20:00:32Z,2020-07-04T13:15:36Z,deepentropy,3,False
+686655657,3628,ValueError: need at least one array to concatenate,closed,jravishankar,2020-08-26T21:43:54Z,2024-06-21T09:19:38Z,2020-11-23T09:40:57Z,v-qjqs,29,False
+2100292075,11429,MM-Grounding DINO训练过程中显存增加,open,zkyseu,2024-01-25T12:28:54Z,2024-06-21T03:49:16Z,,,8,False
+2312840969,11736,inference on images ,open,Syed05,2024-05-23T12:49:23Z,2024-06-20T10:33:00Z,,,1,False
+2346025448,11784,Need help with coco metrics.,closed,Warcry25,2024-06-11T10:16:44Z,2024-06-20T10:27:02Z,2024-06-20T10:27:01Z,Warcry25,3,False
+662989746,3371,How do I change the thickness of the bounding box when I wanna test an image?,closed,Ruolingdeng,2020-07-21T12:54:58Z,2024-06-19T17:38:31Z,2020-07-23T05:27:58Z,hellock,2,False
+2361137278,11801,"After this error occurs, why can't my GPU be found? ",open,GGD777,2024-06-19T02:52:37Z,2024-06-19T02:52:52Z,,,0,False
+2356724295,11796,Question about MultiDatasetsEvaluator,open,yinnengzhong,2024-06-17T08:27:29Z,2024-06-18T13:43:03Z,,,1,False
+2358976623,11797,"Training error: Target size (torch.Size([7340032, 1])) must be the same as input size (torch.Size([1835008, 1])",closed,WhyNeedAName,2024-06-18T05:55:42Z,2024-06-18T09:23:15Z,2024-06-18T09:23:14Z,WhyNeedAName,1,False
+1594311751,9815,[Bug] 使用tools/analysis_tools/benchmark.py测试推理速度,open,lyk595,2023-02-22T01:31:11Z,2024-06-18T07:50:30Z,,,16,False
+2359050014,11798,Questions of diving into the codes of the Fusion part,open,Cloud65000,2024-06-18T06:36:32Z,2024-06-18T06:36:49Z,,,0,False
+1659706939,10112,mmdet.LoadImageFromFile is not in the transform registry,open,rouge012,2023-04-09T02:08:49Z,2024-06-17T06:59:56Z,,,4,False
+1581556196,9761,YOLOX probabilistically appears RuntimeError #549,open,hhaAndroid,2023-02-13T02:53:50Z,2024-06-15T23:38:19Z,,,5,False
+2354719645,11795,FileNotFoundError: [Errno 2] No such file or directory: 'rtmdet_tiny_8xb32-300e_coco.py',closed,NhiNguyen34,2024-06-15T10:11:47Z,2024-06-15T14:17:32Z,2024-06-15T14:17:32Z,NhiNguyen34,0,False
+2128010427,11471,Add OneFormer model,open,collinmccarthy,2024-02-10T00:32:36Z,2024-06-15T12:57:14Z,,,1,False
+569367208,2140,"use init_detector() twice to load two models, but met error ‘The model and loaded state dict do not match exactly’",closed,clw5180,2020-02-22T17:39:56Z,2024-06-14T22:38:39Z,2020-02-23T11:50:50Z,clw5180,4,False
+1251647722,8077,How to combine yolox with yolact to do instance segmentation？,closed,376498485,2022-05-28T14:37:34Z,2024-06-14T12:01:57Z,2022-06-10T16:28:43Z,chhluo,2,False
+2346016728,11783,question about the open vocabulary performance of MM Grounding DINO on the COCO dataset,closed,ymzis69,2024-06-11T10:12:30Z,2024-06-14T10:21:54Z,2024-06-14T10:21:54Z,ymzis69,0,False
+2350879723,11792,Model initialization crash when visualizer is not defined in config file,open,DamianBisewski,2024-06-13T11:18:05Z,2024-06-13T11:18:21Z,,,0,False
+2234851839,11627,"When I run the ""python mmskl. py pose demo"" command, I receive an error message ""urllib. error. HTTPError: HTTP Error 403: Forbidden""",open,jlclh,2024-04-10T06:28:33Z,2024-06-13T06:34:27Z,,,2,False
+2350141278,11791,mmdet runs extremely slow on ROCm/AMD,open,ZhaoJingjing713,2024-06-13T04:49:06Z,2024-06-13T05:29:04Z,,,0,False
+2349997959,11790,slow when reading COCO dataset,open,GloamXun,2024-06-13T02:23:07Z,2024-06-13T02:23:27Z,,,0,False
+2321458280,11748,"Why does the GPU memory keep getting larger when I train the mask2Former network, and then display ""CUDA out of memory""",open,taiwuyouxu,2024-05-28T16:13:58Z,2024-06-13T01:40:51Z,,,2,False
+2076204019,11359,CO-DETR occured an AssetionError error on my own dataset: assert pred.size() == target.size(),open,ykqyzzs,2024-01-11T10:03:33Z,2024-06-12T12:25:21Z,,,2,False
+2249862436,11646,pull the newest code,closed,leo038,2024-04-18T06:31:27Z,2024-06-12T02:22:37Z,2024-06-12T02:22:36Z,BIGWangYuDong,1,True
+2178350728,11541,The Reimplementation  of faster-rcnn_r50_fpn_1x_voc0712,open,startracker0,2024-03-11T06:45:24Z,2024-06-11T23:38:11Z,,,3,False
+2346526321,11786,国产显卡可以使用mmdetection及其他openmmlab的框架吗？,open,KungFuPandaPro,2024-06-11T14:02:49Z,2024-06-11T14:03:06Z,,,0,False
+2346178539,11785,I am trying to replicate the Hybrid Task Cascade ,open,jyotiahluwalia,2024-06-11T11:31:04Z,2024-06-11T11:31:04Z,,,0,False
+2061884310,11331,How to use hook to get the validation loss?,open,Zhong-Zi-Zeng,2024-01-02T02:33:03Z,2024-06-11T02:45:17Z,,,3,False
+2345163115,11782,mm-grounding-dino微调，所有类别或者部分类别评估map=0,open,WhatRui,2024-06-11T01:41:35Z,2024-06-11T01:41:55Z,,,0,False
+2344094806,11781,Functionality to combine ONNX models with non-overlapping class lists ,open,GeorgePearse,2024-06-10T14:37:08Z,2024-06-10T14:37:25Z,,,0,False
+2065399052,11343,Instance segmentation inference using RtmDet,open,nassim12,2024-01-04T10:34:26Z,2024-06-10T12:28:19Z,,,0,False
+1046470930,6449,Installation encountered a problem with add_mim_extension,closed,mengmeng0320,2021-11-06T09:33:48Z,2024-06-10T08:09:37Z,2021-11-09T02:17:45Z,mengmeng0320,3,False
+1247983645,8052,"os.symlink(src_relpath, tar_path) error",closed,whffams2,2022-05-25T11:53:11Z,2024-06-10T08:06:20Z,2022-05-25T12:21:57Z,whffams2,2,False
+2322457362,11750,ValueError: too many values to unpack (expected 2),closed,ykwongaq,2024-05-29T06:18:30Z,2024-06-09T04:09:12Z,2024-06-09T04:09:12Z,ykwongaq,9,False
+2341254227,11777,Is it possible to calculate a validation loss?,open,psantiago-lsbd,2024-06-07T22:40:25Z,2024-06-07T22:43:20Z,,,0,False
+2104217082,11439,SystemExit: 2,closed,James-S-choi,2024-01-28T15:28:03Z,2024-06-07T06:27:56Z,2024-02-05T08:39:47Z,hhaAndroid,2,False
+2339468470,11774,why is there not checkpoints folder in the  project？,open,13537891894,2024-06-07T02:39:45Z,2024-06-07T02:40:24Z,,,0,False
+2339466173,11773,Do not use pre-training weight training,open,LGCCoding,2024-06-07T02:36:29Z,2024-06-07T02:36:44Z,,,0,False
+2329143572,11759,While running inference error Segmentation fault (core dumped),open,CarolinRue,2024-06-01T13:20:32Z,2024-06-06T13:04:28Z,,,1,False
+931423669,5471,CenterNet由pth模型转换成onnx模型时报错,closed,qiao12,2021-06-28T10:33:13Z,2024-06-06T08:29:19Z,2021-07-07T08:23:13Z,RunningLeon,20,False
+2311790464,11735,The Absence of Additive Operations in detr_layers.py,open,JiayuXu0,2024-05-23T02:07:30Z,2024-06-05T14:59:33Z,,,1,False
+2121924900,11466,Training RTMDet using MMDetection on higher number of classes,open,Rishav-hub,2024-02-07T00:26:56Z,2024-06-05T09:13:24Z,,,1,False
+2334783210,11768,使用纯背景样本训练时出现实际训练图片数量与训练集数量不符,open,hhanying,2024-06-05T02:43:52Z,2024-06-05T02:44:07Z,,,0,False
+2334775386,11767,在MM-grounding-dino的项目中，做微调，使用自定义数据集，准备做REC任务，数据集格式是什么？,open,MLwudi,2024-06-05T02:34:12Z,2024-06-05T02:34:28Z,,,0,False
+1592966855,9809,Use WBF,closed,Grayfaner,2023-02-21T07:28:02Z,2024-06-04T21:17:54Z,2023-02-22T02:09:22Z,hhaAndroid,2,False
+2333228609,11766,VGG16 for MMDetection 3.X,open,RobinGerster7,2024-06-04T11:01:13Z,2024-06-04T11:01:29Z,,,0,False
+1845872242,10781,Support for Segment Anything,open,crypdick,2023-08-10T20:42:46Z,2024-06-04T10:13:17Z,,,3,False
+1664909747,10141,ValueError: matrix contains invalid numeric entries,open,WinnerMeat,2023-04-12T16:52:21Z,2024-06-04T01:05:18Z,,,7,False
+2330267649,11761,How to load model from memory instead of disk?,closed,LLsmile,2024-06-03T06:18:27Z,2024-06-03T07:40:17Z,2024-06-03T07:40:17Z,LLsmile,0,False
+2330075225,11760,自定义数据微调类别名称问题,open,WhatRui,2024-06-03T03:14:51Z,2024-06-03T03:15:07Z,,,0,False
+1723158441,10386,"mmdet3.0.0rc6: Failed to search registry with scope ""mmdet"" in the ""function"" registry tree.",closed,zhongqiu1245,2023-05-24T04:34:50Z,2024-06-02T15:08:06Z,2023-05-25T02:30:02Z,hhaAndroid,3,False
+2286114488,11693,How to get validation loss using mmdetection version 2.28.2?,closed,CarolinRue,2024-05-08T17:42:27Z,2024-06-01T13:07:59Z,2024-06-01T13:07:59Z,CarolinRue,1,False
+2289041416,11701,how use tensorboard to show train log file,open,yfq512,2024-05-10T06:34:17Z,2024-05-31T15:25:32Z,,,2,False
+2328040988,11758,_transform_masks in Rotate is wrong ,open,niecongchong,2024-05-31T14:58:59Z,2024-05-31T14:59:16Z,,,0,False
+2039914417,11281,"""tasks"" must be a tuple object or a sequence object, but got <class 'dict_values'>",open,xiaojing12581,2023-12-13T15:10:15Z,2024-05-30T13:37:47Z,,,6,False
+1674448961,10186,Any plan support RT-DETR? ,open,zugofn,2023-04-19T08:39:23Z,2024-05-30T09:06:07Z,,,16,False
+2062104441,11333,How can mmdetection obtain images with only masks（mmdetection 怎样可以获得只有掩码的图像）？,open,LSDXBZHH,2024-01-02T08:44:39Z,2024-05-30T01:38:36Z,,,3,False
+1672466815,10171,soft teacher for rtm det for instance segmentation tasks?,closed,zjhthu,2023-04-18T06:52:10Z,2024-05-29T11:55:35Z,2023-04-19T02:33:49Z,zjhthu,2,False
+2322689596,11753,"RuntimeError: handle_0 INTERNAL ASSERT FAILED at ""../c10/cuda/driver_api.cpp"":15, please report a bug to PyTorch.  ```none",open,AIzealotwu,2024-05-29T08:23:07Z,2024-05-29T08:23:22Z,,,0,False
+2322682623,11752,Anyone konws where is augfpn?,open,mahao18cm,2024-05-29T08:19:27Z,2024-05-29T08:19:42Z,,,0,False
+2322593729,11751,Where is the build function ?,open,sidiangongyuan,2024-05-29T07:35:47Z,2024-05-29T07:36:20Z,,,0,False
+2297532401,11717,fps benchmark tool can't work,open,KRL666,2024-05-15T10:47:43Z,2024-05-29T07:02:46Z,,,1,False
+2322245380,11749,预训练模型推理报错,open,HarryBarry123,2024-05-29T02:51:08Z,2024-05-29T02:51:23Z,,,0,False
+2290853228,11705,无法debug到模型源码,open,whj-tech,2024-05-11T11:37:31Z,2024-05-28T16:19:58Z,,,2,False
+2221237842,11611,[mmdet installation] ModuleNotFoundError: No module named 'mmcv._ext' with `pip` instal and `cpu` (macOS),closed,ioangatop,2024-04-02T19:06:21Z,2024-05-28T11:16:36Z,2024-04-02T20:47:19Z,ioangatop,3,False
+2320049536,11746,Modify the network for dual-stream input,open,FindOne1,2024-05-28T03:28:07Z,2024-05-28T03:28:21Z,,,0,False
+2265424362,11669,Fix: some bugs when text input reaches max_tokens of language_model,open,jiangtann,2024-04-26T09:55:55Z,2024-05-27T19:25:57Z,,,2,True
+2116678179,11455,Multi-modal algorithm inference demo error,open,andyluo7,2024-02-03T21:07:00Z,2024-05-27T09:37:48Z,,,4,False
+2318145442,11744,how to add apex into mmdetection,open,Linengyao,2024-05-27T03:23:16Z,2024-05-27T03:23:32Z,,,0,False
+1373222718,8795,MMDet implement ATSS using anchor only?,closed,iumyx2612,2022-09-14T15:50:05Z,2024-05-26T11:59:56Z,2022-11-08T08:14:04Z,ZwwWayne,4,False
+2317039396,11743,Resizing the images ,open,Mukil07,2024-05-25T13:59:10Z,2024-05-25T13:59:26Z,,,0,False
+2316389515,11742,Unable to get TTA to work with inference_detector on single demo image,open,lewj85,2024-05-24T23:16:05Z,2024-05-24T23:16:21Z,,,0,False
+2315856887,11741,Fix NLTK Download and add Verbose Flag for GLIP,open,Pikus16,2024-05-24T17:06:57Z,2024-05-24T19:55:27Z,,,1,True
+2314890800,11740,EfficientDet as part of the core packages,open,davideboschetto,2024-05-24T09:17:14Z,2024-05-24T09:17:30Z,,,0,False
+1312653891,8398,"I want to know how to set Epoch and Batch_size, when I train my custom model",closed,JimXu1989,2022-07-21T05:29:57Z,2024-05-24T08:54:41Z,2022-08-09T02:12:11Z,RangiLyu,3,False
+1758444803,10515,RuntimeError: Expected to have finished reduction in the prior iteration before starting a new one.,open,notfacezhi,2023-06-15T09:42:20Z,2024-05-24T06:24:18Z,,,4,False
+1916378288,10986,data['category_id'] = self.cat_ids[label] IndexError: list index out of range,open,Brym-Gyimah,2023-09-27T21:44:23Z,2024-05-24T06:00:06Z,,,2,False
+2314310758,11739,AssertionError: Results do not correspond to current coco set,open,xyb1314,2024-05-24T04:20:42Z,2024-05-24T04:20:58Z,,,0,False
+2016034014,11222,GroundingDINO微调后不再具备zero-shot的能力,open,DominoL,2023-11-29T08:07:32Z,2024-05-24T02:13:02Z,,,2,False
+2309808983,11733,Instance Segmentation - Segmentation mAPs are zero while bbox mAPs have values,open,rtmlp,2024-05-22T07:39:51Z,2024-05-22T07:40:41Z,,,0,False
+2308694033,11731,Evaluation with predictions instead of a model and checkpoint,open,wsd3val,2024-05-21T16:38:25Z,2024-05-21T16:38:56Z,,,0,False
+2294880072,11712,"""CoDINOHead is not registered"" occurs when running the codetr model.",open,deadeye8858,2024-05-14T09:07:35Z,2024-05-21T16:23:51Z,,,1,False
+1882145013,10883,memory leack?,open,FengRongYue,2023-09-05T14:53:06Z,2024-05-21T12:15:52Z,,,3,False
+1863269543,10829,Can't find show_result_pyplot in mmdet.apis,closed,CDchenlin,2023-08-23T12:48:51Z,2024-05-21T10:40:01Z,2023-08-31T11:41:37Z,hhaAndroid,5,False
+2168960043,11515,"When training the model, the memory usage continues to increase until the memory overflows.",closed,langli1999,2024-03-05T11:28:01Z,2024-05-21T08:03:54Z,2024-05-21T08:03:54Z,langli1999,3,False
+2297747502,11718,Training Mask RCNN without BBox,open,ruyadisk,2024-05-15T12:15:16Z,2024-05-19T15:32:27Z,,,1,False
+2304660688,11729,"norm_eval=True 与 norm_cfg=dict(type='BN', requires_grad=True）的requires_grad=True 矛盾吧",open,NICKQZL,2024-05-19T15:23:45Z,2024-05-19T15:24:00Z,,,0,False
+2290566901,11704,使用最新的mmdetection框架的mask rcnn使用自己的数据集去训练多种类别的模型时出现了一个问题，比如训练35种类别，训练出来的模型识别跟mmdet/evaluation/functional/class_names.py文件和mmdet/datasets/coco.py中放入的类别的顺序有关，只要有一个放置错误，识别时类别就会反过来，而且我并不能知道这个多类别在文件放置的顺序，这个应该怎么办，是哪里的设置需要修改吗还是一个bug？,open,liaoqingjian,2024-05-11T01:00:20Z,2024-05-18T08:41:07Z,,,1,False
+2303742321,11726,How to give mmgrounding dino few-shot image examples like owl-vit?,open,zappy586,2024-05-18T01:23:34Z,2024-05-18T01:23:50Z,,,0,False
+2177642856,11539,TypeError: forward() missing 1 required positional argument: 'img_metas',open,wxmchgithub,2024-03-10T10:23:21Z,2024-05-17T09:49:26Z,,,8,False
+2287513046,11699,考虑支持一下yolov8？,closed,hcnhcn012,2024-05-09T11:42:27Z,2024-05-17T09:35:27Z,2024-05-17T09:35:26Z,RangiLyu,1,False
+2297299304,11716,PipelineSwitchHook now compatible with MultiImageMixDataset,open,mawanda-jun,2024-05-15T09:09:06Z,2024-05-17T08:23:11Z,,,0,True
+2301230605,11724,Fine tune Grounding DINO as open set with custom coco,open,narchitect,2024-05-16T19:56:42Z,2024-05-17T07:26:53Z,,,1,False
+2276454599,11677,Training a customised Deformable DETR,open,saadyousuf45,2024-05-02T20:51:00Z,2024-05-17T03:52:49Z,,,2,False
+2301749914,11725,mmgrounding dino 微调遗忘问题,open,TingqiaoXu,2024-05-17T03:44:04Z,2024-05-17T03:44:20Z,,,0,False
+2295068078,11713,CopyPaste bugfix - result['img'] not in src image dtype,open,mawanda-jun,2024-05-14T10:33:11Z,2024-05-16T12:34:52Z,,,1,True
+2299659221,11723,Purpose allow_negative_crop in train_pipeline of MM Grounding DINO,open,AwePhD,2024-05-16T08:04:11Z,2024-05-16T08:04:28Z,,,0,False
+2299237457,11721,Evaluating after training nuscenes mini dataset,open,AbdilahiMJama,2024-05-16T03:08:16Z,2024-05-16T03:08:31Z,,,0,False
+2299100251,11720,[mm grounding dino],open,SHX9610,2024-05-16T01:01:07Z,2024-05-16T01:01:23Z,,,0,False
+2298132463,11719,Save only detected images,open,Syed05,2024-05-15T14:42:24Z,2024-05-15T14:44:28Z,,,0,False
+1486250054,9470,[Feature] Iterable-style dataset support?,closed,rorschachhb,2022-12-09T07:48:33Z,2024-05-15T09:04:26Z,2023-03-24T06:04:55Z,hhaAndroid,2,False
+1570548873,9721,[Docs] Lazy loading annotations,open,austinmw,2023-02-03T22:14:37Z,2024-05-15T09:02:58Z,,,8,False
+2296686910,11715,"python demo/image_demo.py ...... error : Initializing libiomp5md.dll, but found libiomp5md.dll already initialized. in windows11",open,yfq512,2024-05-15T01:49:04Z,2024-05-15T01:49:20Z,,,0,False
+1612974108,9895,analyze_results :KeyError: 'gt_instances',closed,pekopoke,2023-03-07T08:39:01Z,2024-05-14T13:52:24Z,2023-04-25T07:29:14Z,pekopoke,15,False
+681753694,3579,Unable to find a valid cuDNN algorithm to run convolution,closed,zlx-6,2020-08-19T11:07:21Z,2024-05-14T13:20:21Z,2020-08-24T10:44:04Z,zlx-6,6,False
+2295275785,11714,How to Load a Close-set Fine-tuned Grounding Dino into Grounded SAM,open,narchitect,2024-05-14T12:18:22Z,2024-05-14T12:19:14Z,,,0,False
+1670038983,10164,How to get validation loss/mAP during VarifocalNet training?,open,FraCamp,2023-04-16T16:36:42Z,2024-05-14T09:18:38Z,,,3,False
+2294310113,11711,"python tools/train.py configs/yolox/yolox_tiny_8xb8-300e_coco.py, than report AssertionError:",closed,realTravisYou,2024-05-14T03:44:22Z,2024-05-14T06:57:53Z,2024-05-14T06:57:53Z,realTravisYou,0,False
+2294289433,11710,How to train a model with different task datasets at the same time?,open,kamiLight,2024-05-14T03:31:34Z,2024-05-14T03:31:50Z,,,0,False
+2292824682,11709,TypeError: FasterRCNN.__init__() got an unexpected keyword argument 'bbox_head',open,Grushus,2024-05-13T13:26:07Z,2024-05-13T13:26:23Z,,,0,False
+2291147805,11706,权重文件的使用方法,open,Leomin12138,2024-05-12T03:21:52Z,2024-05-13T11:39:05Z,,,1,False
+2292157605,11707,Bbox feats (embeddings) from ONNX model,open,GeorgePearse,2024-05-13T08:25:10Z,2024-05-13T08:25:27Z,,,0,False
+1313055450,8403,"Mixup, Cutmix augmentation in the hook?",closed,author31,2022-07-21T10:43:20Z,2024-05-11T12:10:29Z,2022-10-25T08:38:57Z,hhaAndroid,4,False
+2286819033,11696, KeyError: 'gt_instances' of eval_metric.py,open,HaMeow-lst1,2024-05-09T03:25:45Z,2024-05-11T08:33:30Z,,,2,False
+2285731865,11690,Reimplement a custom model with new modules implemented by yourself,open,BruceLxw,2024-05-08T14:21:00Z,2024-05-11T02:44:56Z,,,2,False
+2289830983,11703,AnchorGenerator not generating complete anchors at frequent strides,open,JohnMBrandt,2024-05-10T14:21:03Z,2024-05-10T14:21:19Z,,,0,False
+2289715872,11702,How to use the intel camera api,open,LLL632669638,2024-05-10T13:15:51Z,2024-05-10T13:16:08Z,,,0,False
+1529991717,9618,"[Bug] RLE annotation will be ignored in training, which make loss be 0",open,CescMessi,2023-01-12T02:16:41Z,2024-05-10T05:06:50Z,,,9,False
+1821764938,10705,I can't use tta for cascade rcnn ,closed,shallweiwei,2023-07-26T07:31:29Z,2024-05-10T03:43:40Z,2024-05-10T03:43:40Z,shallweiwei,0,False
+1246706909,8042,ImportError: cannot import name 'eval_map' from partially initialized module 'mmdet.core' (most likely due to a circular import) (D:\Anaconda3\envs\my_mmdet\lib\site-packages\mmdet\core\__init__.py),closed,guazat,2022-05-24T15:08:36Z,2024-05-10T02:46:37Z,2022-10-25T08:33:56Z,hhaAndroid,5,False
+2287869042,11700,How to select which classes to detect on pretrained model?,open,SFSimDev,2024-05-09T14:57:19Z,2024-05-09T14:57:36Z,,,0,False
+2287080119,11698,bbox_overlaps error,open,zhaozhen2333,2024-05-09T07:30:07Z,2024-05-09T07:31:28Z,,,1,False
+2019074804,11231,Fix wrong size of mask in RTMDet-Ins post-processing.,open,flytocc,2023-11-30T16:48:46Z,2024-05-09T07:26:04Z,,,1,True
+2286757621,11695,获取实例分割结果时报错,open,yeyujujishou,2024-05-09T02:05:53Z,2024-05-09T02:06:09Z,,,0,False
+1826207520,10719,[CodeCamp2023-500]add large_image_demo,closed,YanxingLiu,2023-07-28T10:46:54Z,2024-05-09T01:31:59Z,2023-08-14T06:31:52Z,hhaAndroid,6,True
+2286641752,11694,Compile for inference,open,matthost,2024-05-08T23:33:53Z,2024-05-08T23:34:09Z,,,0,False
+433828196,505,How to get the loss on validation set after each epoch?,closed,forestriveral,2019-04-16T14:57:14Z,2024-05-08T17:37:08Z,2019-04-18T03:39:18Z,forestriveral,10,False
+2285941136,11692,BUG in DAB-DETR when with_random_refpoints=True,open,YangHan-Morningstar,2024-05-08T16:01:31Z,2024-05-08T16:01:47Z,,,0,False
+2285887992,11691,BUG: clip_grad doesn't work,open,Pixie8888,2024-05-08T15:33:30Z,2024-05-08T15:33:48Z,,,0,False
+2285648003,11689,ONNX for RTMdet,open,elbaro,2024-05-08T13:45:48Z,2024-05-08T13:46:04Z,,,0,False
+1618272158,9914,[Bug] KeyError: 'DetLocalVisualizer is not in the visualizer registry. Please check whether the value of `DetLocalVisualizer` is correct or it was registered as expected.,open,k1dDing,2023-03-10T02:45:52Z,2024-05-08T09:47:52Z,,,9,False
+2091208710,11412,Run time CUDA error,open,rajnishrajput12,2024-01-19T19:24:00Z,2024-05-08T08:32:55Z,,,2,False
+1058389553,6548,How to implement multi-detection heads in config file?,closed,DerekRay,2021-11-19T10:43:54Z,2024-05-08T06:32:20Z,2021-11-25T03:08:54Z,BIGWangYuDong,5,False
+1763288384,10532,how to set multi gpu environment like dist_train.sh?,open,hoya-cho,2023-06-19T10:59:24Z,2024-05-07T16:12:25Z,,,1,False
+2283627049,11688,Need help in VGG16 Faster R-CNN implementation,open,quitsv,2024-05-07T15:13:38Z,2024-05-07T15:13:54Z,,,0,False
+1368767027,8766,The testing results of the whole dataset is empty. OrderedDict()   when running test.py for convnext,open,Neil-untitled,2022-09-11T00:49:14Z,2024-05-07T10:33:00Z,,,12,False
+2282750182,11687,How to modify the conv1 of the pre training weights of the Mask RCnn to fit my 5-channel dataset,open,MoonDiana17,2024-05-07T09:32:14Z,2024-05-07T09:32:30Z,,,0,False
+2280880538,11685,Config not reusable for different models,open,Grushus,2024-05-06T13:25:24Z,2024-05-06T13:25:40Z,,,0,False
+2280733795,11683,Hydranet - separate prediction heads per class ,open,GeorgePearse,2024-05-06T12:10:13Z,2024-05-06T12:59:23Z,,,2,False
+1643377495,10037,"Implement the RTMDET target detection algorithm, and test its FPS. It is found that only 7-8, not the official 300+",open,lai-serena,2023-03-28T07:36:42Z,2024-05-06T11:36:31Z,,,9,False
+2280672178,11682,Cannot reproduce rtmdet FPS,open,mmeendez8,2024-05-06T11:35:40Z,2024-05-06T11:35:57Z,,,0,False
+1819691231,10695,当我在运行文档中 开始你的第一步/验证安装/方案b 的py代码时显示了这个报错,closed,Jellyfishmm,2023-07-25T07:05:56Z,2024-05-05T12:05:07Z,2023-11-10T07:18:17Z,Jellyfishmm,5,False
+2279361017,11679,"The same model and the same configuration file, inference _ detector and inference _ mot results are not the same.",open,zbl929,2024-05-05T07:02:24Z,2024-05-05T07:02:39Z,,,0,False
+1213501013,7804,data['category_id'] = self.cat_ids[label] IndexError: list index out of range,closed,Zhengym-hub,2022-04-24T01:55:37Z,2024-05-04T12:56:02Z,2022-04-24T03:45:07Z,ZwwWayne,7,False
+2277828293,11678,Many CPU cores are unused ,open,anastasia-spb,2024-05-03T14:43:06Z,2024-05-03T14:43:24Z,,,0,False
+1840746200,10761,Many CPU cores are unused and the dist_train.sh is very slow,closed,czhaneva,2023-08-08T07:36:57Z,2024-05-03T14:35:42Z,2023-08-14T06:11:30Z,czhaneva,6,False
+2274460230,11676,Detrobust,closed,dayelang618,2024-05-02T02:06:45Z,2024-05-02T02:07:19Z,2024-05-02T02:07:19Z,dayelang618,1,True
+2274205707,11675,Multi-Scaling Training,open,MatheusLevy,2024-05-01T21:08:56Z,2024-05-01T21:08:56Z,,,0,False
+1913214813,10977,自定义数据集上测试可视化时总是显示的是coco的类别,open,baiboat,2023-09-26T10:36:45Z,2024-04-29T16:14:18Z,,,1,False
+2268481867,11674,Error running  mask_rcnn .,open,guisolsan,2024-04-29T08:58:17Z,2024-04-29T08:58:33Z,,,0,False
+1930739994,11003,"RuntimeError: DataLoader worker (pid(s) 488, 5844) exited unexpectedly",closed,nirajkark07,2023-10-06T18:18:58Z,2024-04-29T08:18:13Z,2023-10-06T18:57:01Z,nirajkark07,1,False
+2268185629,11673,Why is everything -1 in the evaluation and 0 in the training,open,blue-q,2024-04-29T05:55:47Z,2024-04-29T05:56:04Z,,,0,False
+2263387489,11666,"When I trained the rtmdet-ins-m model using multiple Gpus, the program froze after 300 epochs of training！！！",open,tianlan6767,2024-04-25T11:50:06Z,2024-04-29T05:44:52Z,,,7,False
+2267079624,11671,How to Utilize the Two-Stage Deformable DETR（如何使用二阶段DeformableDETR）,open,taiwuyouxu,2024-04-27T16:15:07Z,2024-04-27T16:15:23Z,,,0,False
+2265955251,11670,AttributeError: 'Shared2FCBBoxHead' object has no attribute 'use_sigmoid',open,xika1234,2024-04-26T14:51:48Z,2024-04-27T05:43:17Z,,,1,False
+1127128247,7129,"check error when the ""image"" field of json file of dataset is empty, which may lead to an empty dataloader",closed,HiiiXinyiii,2022-02-08T11:25:05Z,2024-04-25T20:01:37Z,2024-04-25T20:01:37Z,HiiiXinyiii,8,True
+2264322518,11667,loading weights by component ,open,PushpakBhoge512,2024-04-25T19:15:01Z,2024-04-25T19:15:17Z,,,0,False
+1472528832,9425,"I want to use the realsense camera in webcam_demo.py, but it can only show the image one by one, not the video.",closed,lijoe123,2022-12-02T08:57:45Z,2024-04-25T14:33:23Z,2023-02-22T01:50:35Z,lijoe123,3,False
+1843040032,10773,Merge InternImage into mmdetection==2.28.1,open,VanLinLin,2023-08-09T11:30:08Z,2024-04-25T09:39:16Z,,,9,False
+2263021502,11664,TypeError: __init__() got an unexpected keyword argument 'filter_cfg',open,TinyOD,2024-04-25T08:39:32Z,2024-04-25T08:39:53Z,,,0,False
+2262780898,11663,How to modify the threshold of nms in mmdetection v3 using tools/test.py for testing,open,xiangsanye,2024-04-25T06:28:58Z,2024-04-25T06:29:14Z,,,0,False
+766512698,4302,DERT device error when run inference_detector in mmdetecion,closed,pedrozamboni,2020-12-14T14:34:53Z,2024-04-24T23:52:14Z,2020-12-28T03:34:22Z,v-qjqs,4,False
+2262365083,11662,Remove unused kwarray,open,Erotemic,2024-04-24T23:49:06Z,2024-04-24T23:49:12Z,,,0,True
+2195400648,11569,"Inference is very slow, far below the speed of the benchmark",closed,xiao-song2022,2024-03-19T16:14:47Z,2024-04-24T18:15:42Z,2024-04-24T18:15:41Z,xiao-song2022,1,False
+1198560915,7682,Why dose the Deformable DETR only use the score of the first class to choose the topk proposals?,closed,volcanolee4,2022-04-09T12:15:46Z,2024-04-24T15:54:08Z,2022-04-14T04:24:18Z,chhluo,2,False
+1464519355,9385,AttributeError: 'pfullmem' object has no attribute 'pss',open,dky233,2022-11-25T13:02:19Z,2024-04-24T12:51:46Z,,,11,False
+2261142707,11660,"mmdetection to nvidia triton inference server, best way to do it?",open,Grushus,2024-04-24T12:09:09Z,2024-04-24T12:09:26Z,,,0,False
+1860704144,10820,使用自定义数据集训练时报错ValueError: need at least one array to concatenate,closed,jiang123lim,2023-08-22T06:40:05Z,2024-04-24T08:21:41Z,2023-08-23T07:17:03Z,jiang123lim,6,False
+2260521813,11659,YOLOX : CUDA kernel errors might be asynchronously reported at some other API call,open,shani-sony,2024-04-24T06:58:48Z,2024-04-24T06:59:04Z,,,0,False
+2260220666,11658,How to evaluate the FPS,open,ChenConnie,2024-04-24T03:28:25Z,2024-04-24T03:28:41Z,,,0,False
+2259335758,11657,"The unwanted output of showing word ""Inference""",closed,farsab,2024-04-23T16:52:24Z,2024-04-23T17:12:05Z,2024-04-23T17:12:05Z,farsab,0,False
+2258103538,11655,How to print the model structure and the parameters of each part,open,yao-zq,2024-04-23T06:55:26Z,2024-04-23T06:55:41Z,,,0,False
+2257812480,11654,help！,open,FreshmanCow,2024-04-23T02:29:00Z,2024-04-23T02:29:15Z,,,0,False
+1861245956,10822,Evaluation of ConcatDataset,open,stwerner97,2023-08-22T11:19:26Z,2024-04-22T16:08:42Z,,,5,False
+1158507315,7312,How to load pretrain model?,closed,CheungBH,2022-03-03T14:54:33Z,2024-04-22T14:24:55Z,2022-08-09T02:24:42Z,RangiLyu,4,False
+2249932231,11647,"Using the same pred and target boxes, but the reason of the EIoU loss isn't 0 ",open,xingchenshanyao,2024-04-18T07:11:34Z,2024-04-22T07:05:55Z,,,1,False
+1761858278,10528,How to use multiple ann_file in coco_instance?,open,ccomkhj,2023-06-17T13:38:13Z,2024-04-20T19:02:28Z,,,6,False
+2254580463,11651,I want to train fast-rcnn model but it is got a bug :TypeError: __init__() got an unexpected keyword argument 'proposal_file',open,Letme11,2024-04-20T14:36:30Z,2024-04-20T14:36:46Z,,,0,False
+1163518452,7352,unable to register customdataset,open,tusharsvaidya,2022-03-09T05:49:07Z,2024-04-19T11:43:27Z,,,5,False
+1815117101,10674,unexpected keyword argument 'data_root',open,fellen88,2023-07-21T04:02:58Z,2024-04-19T11:38:41Z,,,12,False
+2252280179,11649,How can i get test image result after inference?,open,ImJaewooChoi,2024-04-19T07:32:02Z,2024-04-19T07:32:18Z,,,0,False
+2252160060,11648,Condition DETR with Stronger backbone,open,Khhihubbroker,2024-04-19T06:08:18Z,2024-04-19T06:08:33Z,,,0,False
+701877241,3771,ImportError: cannot import name 'show_result',closed,vishaldhull09,2020-09-15T12:13:08Z,2024-04-18T11:29:36Z,2020-11-23T09:43:49Z,v-qjqs,13,False
+1004439656,6151,ONNX export - MaskRCNN and skip-postprocessing,closed,bpfliegel,2021-09-22T15:33:00Z,2024-04-18T10:31:12Z,2021-09-24T02:09:37Z,RangiLyu,8,False
+1617111454,9909,[Bug] ,open,wzl970722,2023-03-09T12:16:04Z,2024-04-18T02:11:36Z,,,6,False
+1887554063,10901,[CodeCamp2023-474] Add new configuration files for DINO algorithm in mmdetection. ,closed,Markson-Young,2023-09-08T12:07:03Z,2024-04-16T13:21:04Z,2023-09-13T01:59:06Z,hhaAndroid,0,True
+2245653707,11643,Can't download weights for fast-rcnn_r50_fpn_1x_coco,open,Grushus,2024-04-16T10:07:06Z,2024-04-16T11:09:31Z,,,0,False
+2243524446,11641,AssertionError: !! not found config file: xxx after pyinstaller a .exe file,open,Alex17swim,2024-04-15T12:14:31Z,2024-04-16T08:13:14Z,,,1,False
+1916335432,10985,"ERROR: Could not build wheels for mmpycocotools, which is required to install pyproject.toml-based projects",closed,Brym-Gyimah,2023-09-27T21:14:02Z,2024-04-15T14:55:19Z,2023-10-09T02:41:20Z,hhaAndroid,3,False
+2242964224,11639,doc: using collate_fn,open,AlanBlanchet,2024-04-15T07:51:06Z,2024-04-15T07:51:18Z,,,1,True
+2220730052,11610,doc: using collate_fn,closed,AlanBlanchet,2024-04-02T14:50:33Z,2024-04-15T07:49:01Z,2024-04-15T07:49:01Z,AlanBlanchet,2,True
+2242868823,11638,How to hide certain category while inferencing,open,gyumin0514,2024-04-15T07:00:41Z,2024-04-15T07:46:31Z,,,0,False
+2183548937,11550,Confusion Matrix Display Error,open,Qiuyanghang,2024-03-13T09:45:26Z,2024-04-15T01:58:41Z,,,2,False
+1217407527,7845,The grad_norm goes too big during the training of fcos_pvt_b2.,closed,Y-M-Y,2022-04-27T14:02:03Z,2024-04-14T15:19:03Z,2022-05-16T13:27:18Z,Y-M-Y,7,False
+2236824721,11628,mm-Groundingdino加载预训练权重失败,open,HarryBarry123,2024-04-11T03:09:41Z,2024-04-14T04:05:26Z,,,0,False
