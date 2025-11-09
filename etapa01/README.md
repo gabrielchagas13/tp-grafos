@@ -61,11 +61,33 @@ MAX_COMMENTS=5000
 2. Gere um novo token com permissões de leitura de repositórios públicos
 3. Copie o token para o arquivo `.env`
 
-### 3. Executar Análise
+### 3. Executar Extração de Dados (Etapa 1)
 
 ```bash
+# Apenas extrai os dados do GitHub e salva em CSV
 python main.py
 ```
+
+### 4. Construir Grafos e Gerar Análises (Etapas 2+)
+
+```bash
+# Constrói grafos, gera visualizações e relatórios
+python build_graphs.py
+```
+
+## 🔄 Fluxo de Execução
+
+### **Etapa 1: Extração de Dados**
+- **Script:** `main.py`
+- **Função:** Coleta dados do repositório via API GitHub
+- **Output:** Arquivos CSV na pasta `data/`
+- **Foco:** Apenas raspagem e armazenamento
+
+### **Etapas 2+: Construção e Análise**
+- **Script:** `build_graphs.py`  
+- **Função:** Constrói grafos, gera visualizações e relatórios
+- **Input:** Arquivos CSV da pasta `data/`
+- **Output:** Grafos JSON/GEXF e relatórios na pasta `output/`
 
 ## 📊 Modelagem dos Grafos
 

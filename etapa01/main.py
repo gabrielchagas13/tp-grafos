@@ -1,9 +1,10 @@
 """
-Análise de Grafos de Colaboração - MMDetection
+Extração de Dados - MMDetection
 Trabalho de Teoria dos Grafos - Etapa 1
 
-Este script executa a análise completa de grafos de colaboração
-do repositório open-mmlab/mmdetection conforme especificações da Etapa 1.
+Este script executa APENAS a extração de dados do repositório 
+open-mmlab/mmdetection via API do GitHub, salvando os dados 
+em arquivos CSV para posterior análise de grafos.
 """
 
 import os
@@ -13,16 +14,13 @@ from dotenv import load_dotenv
 # Adiciona o diretório src ao path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
-from src.graph_builder import GraphBuilder
-from src.graph_visualizer import GraphVisualizer
-
 def main():
-    """Execução principal da análise"""
+    """Execução da extração de dados"""
     
-    print("="*70)
-    print("ANÁLISE DE GRAFOS DE COLABORAÇÃO - MMDETECTION")
+    print("="*60)
+    print("EXTRAÇÃO DE DADOS - MMDETECTION")
     print("Trabalho de Teoria dos Grafos - Etapa 1")
-    print("="*70)
+    print("="*60)
     
     # Carrega configurações
     load_dotenv()
@@ -38,129 +36,68 @@ def main():
     print(f"Máximo de PRs: {MAX_PRS}")
     print()
     
-    # Inicializa componentes
-    builder = GraphBuilder()
-    visualizer = GraphVisualizer()
+    # Inicializa o extrator de dados
+    from src.github_extractor import GitHubDataExtractor
     
     try:
-        # Etapa 1: Extração de dados
+        # ETAPA 1: EXTRAÇÃO DE DADOS DO GITHUB
         print("ETAPA 1: Extração de dados do GitHub")
-        print("-" * 40)
+        print("-" * 50)
+        
+        # Inicializa o extrator
+        extractor = GitHubDataExtractor(REPO_OWNER, REPO_NAME)
         
         # Tenta extrair dados do GitHub
         try:
-            data = builder.extract_and_load_data(REPO_OWNER, REPO_NAME, MAX_ISSUES, MAX_PRS)
-            print("✓ Dados extraídos com sucesso do GitHub")
+            print(f"Iniciando extração do repositório {REPO_OWNER}/{REPO_NAME}...")
+            data = extractor.extract_all_data(MAX_ISSUES, MAX_PRS)
+            print("\n✓ Dados extraídos com sucesso do GitHub!")
         except Exception as e:
-            print(f"✗ Erro ao extrair do GitHub: {e}")
-            print("Tentando carregar dados de arquivos CSV...")
-            
-            # Fallback para arquivos CSV
-            data = builder.load_data_from_csv(REPO_NAME)
-            if not any(len(df) > 0 for df in data.values()):
-                raise Exception("Nenhum dado válido encontrado. Configure o token do GitHub ou forneça arquivos CSV.")
-            print("✓ Dados carregados de arquivos CSV")
+            print(f"\n✗ Erro ao extrair do GitHub: {e}")
+            print("\nVerifique:")
+            print("1. Token do GitHub configurado no arquivo .env")
+            print("2. Conexão com a internet")
+            print("3. Rate limit da API GitHub")
+            return 1
         
-        # Etapa 2: Construção dos grafos
-        print("\nETAPA 2: Construção dos grafos")
-        print("-" * 40)
+        # RESUMO DOS DADOS EXTRAÍDOS
+        print("\n" + "="*50)
+        print("RESUMO DOS DADOS EXTRAÍDOS")
+        print("="*50)
         
-        graphs = builder.build_all_graphs()
+        total_records = 0
+        for key, df in data.items():
+            count = len(df)
+            total_records += count
+            print(f"✓ {key.replace('_', ' ').title()}: {count} registros")
         
-        print("✓ Grafo 1 - Comentários: construído")
-        print("✓ Grafo 2 - Fechamento de Issues: construído") 
-        print("✓ Grafo 3 - Reviews e Merges: construído")
-        print("✓ Grafo Integrado: construído")
+        print(f"\n📊 TOTAL: {total_records} registros extraídos")
         
-        # Etapa 3: Exportação dos grafos
-        print("\nETAPA 3: Exportação dos grafos")
-        print("-" * 40)
-        
-        builder.export_all_graphs()
-        print("✓ Grafos exportados em JSON e GEXF")
-        
-        # Etapa 4: Geração de relatórios
-        print("\nETAPA 4: Geração de relatórios")
-        print("-" * 40)
-        
-        report = builder.generate_report()
-        print("✓ Relatório de análise gerado")
-        
-        # Etapa 5: Visualizações
-        print("\nETAPA 5: Geração de visualizações")
-        print("-" * 40)
-        
-        # Métricas dos grafos
-        visualizer.plot_graph_metrics(graphs)
-        print("✓ Gráfico de métricas dos grafos")
-        
-        # Comparação de centralidade
-        visualizer.plot_centrality_comparison(graphs)
-        print("✓ Comparação de métricas de centralidade")
-        
-        # Top colaboradores
-        if "integrated" in graphs:
-            visualizer.plot_top_collaborators(graphs["integrated"])
-            print("✓ Gráfico de top colaboradores")
-            
-            # Relatório HTML completo
-            html_report_path = visualizer.create_complete_html_report(graphs)
-            print("✓ Relatório HTML completo criado")
-        
-        # Visualizações básicas de cada grafo
-        for name, graph in graphs.items():
-            if len(graph.nodes) > 0:  # Só visualiza se tiver dados
-                try:
-                    visualizer.plot_graph_basic(graph)
-                    print(f"✓ Visualização básica do grafo de {name}")
-                except Exception as e:
-                    print(f"✗ Erro ao visualizar grafo de {name}: {e}")
-        
-        # Etapa 6: Resumo final
-        print("\n" + "="*70)
-        print("RESUMO DA ANÁLISE")
-        print("="*70)
-        
-        builder.print_summary()
-        
-        # Informações sobre arquivos gerados
-        print("\nARQUIVOS GERADOS:")
-        print("-" * 20)
-        
-        # Dados
-        print("Dados extraídos (pasta 'data/'):")
+        # ARQUIVOS GERADOS
+        print("\n📁 ARQUIVOS SALVOS NA PASTA 'data/':")
+        print("-" * 30)
         data_files = [f for f in os.listdir('data') if f.endswith('.csv')]
         for file in data_files:
             print(f"  • {file}")
         
-        # Outputs
-        print("\nResultados da análise (pasta 'output/'):")
-        output_files = [f for f in os.listdir('output')]
-        for file in output_files:
-            print(f"  • {file}")
-        
-        # Instruções finais
-        print("\nPRÓXIMOS PASSOS:")
+        # PRÓXIMOS PASSOS
+        print("\n🎯 PRÓXIMOS PASSOS:")
         print("-" * 20)
-        print("1. Abra o arquivo 'relatorio_completo.html' no navegador")
-        print("2. Analise o relatório 'analysis_report.json'")
-        print("3. Visualize os grafos interativos (.html)")
-        print("4. Importe os arquivos .gexf no Gephi para análises avançadas")
-        print("5. Use os dados CSV para análises personalizadas")
+        print("1. Os dados estão prontos para construção dos grafos")
+        print("2. Execute a Etapa 2 para modelagem dos grafos")
+        print("3. Use os arquivos CSV para análises personalizadas")
+        print("4. Implemente algoritmos de análise de grafos")
         
-        if "integrated" in graphs:
-            print(f"\n🎯 RELATÓRIO PRINCIPAL:")
-            print("📊 Abra 'output/relatorio_completo.html' para ver a análise completa!")
-        
-        print(f"\n✓ Análise concluída com sucesso!")
-        print("="*70)
+        print(f"\n✅ ETAPA 1 CONCLUÍDA COM SUCESSO!")
+        print("� Dados do repositório extraídos e salvos em CSV")
+        print("="*50)
         
     except Exception as e:
-        print(f"\n✗ ERRO: {e}")
+        print(f"\n✗ ERRO NA EXTRAÇÃO: {e}")
         print("\nVerifique:")
         print("1. Token do GitHub configurado no arquivo .env")
         print("2. Conexão com a internet")
-        print("3. Arquivos CSV de dados existentes")
+        print("3. Rate limit da API GitHub")
         print("4. Dependências instaladas (requirements.txt)")
         
         return 1
