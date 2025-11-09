@@ -1,0 +1,11 @@
+# Requirements para Etapa 3 - Análise de Grafos
+# Trabalho de Teoria dos Grafos
+
+# Visualização de dados
+matplotlib>=3.5.0
+
+# Computação científica
+numpy>=1.21.0
+
+# Utilitários do Python (já incluídos no Python padrão)
+# json, csv, os, sys, typing

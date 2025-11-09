@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "timestamp": "Análise gerada automaticamente",
+    "total_users": 1603,
+    "analysis_type": "Rede de Colaboração GitHub"
+  },
+  "network_structure": {
+    "vertex_count": 1603,
+    "edge_count": 1306,
+    "density": 0.0005085657899553195,
+    "average_degree": 1.6294447910168435,
+    "average_clustering": 0.0670650688851859,
+    "assortativity": -0.2881841846935407
+  },
+  "top_users_by_centrality": {
+    "degree_centrality": [
+      [
+        "hhaAndroid",
+        0.04681647940074907
+      ],
+      [
+        "ahchang2",
+        0.04244694132334582
+      ],
+      [
+        "CLAassistant",
+        0.04119850187265917
+      ],
+      [
+        "ZwwWayne",
+        0.020911360799001247
+      ],
+      [
+        "codecov[bot]",
+        0.016853932584269662
+      ],
+      [
+        "nijkah",
+        0.009363295880149813
+      ],
+      [
+        "liuyanzhi1214",
+        0.008739076154806492
+      ],
+      [
+        "xiyangyang99",
+        0.008739076154806492
+      ],
+      [
+        "BIGWangYuDong",
+        0.008426966292134831
+      ],
+      [
+        "mdk19015",
+        0.008114856429463172
+      ]
+    ],
+    "betweenness_centrality": [
+      [
+        "ZwwWayne",
+        0.0709964064076078
+      ],
+      [
+        "hhaAndroid",
+        0.0708496084930762
+      ],
+      [
+        "CLAassistant",
+        0.06722076654738281
+      ],
+      [
+        "ahchang2",
+        0.054461174270325784
+      ],
+      [
+        "lauriebax",
+        0.01193909538717806
+      ],
+      [
+        "BIGWangYuDong",
+        0.011297885440332065
+      ],
+      [
+        "xiyangyang99",
+        0.010615799954852763
+      ],
+      [
+        "YuanLiuuuuuu",
+        0.010239918317539915
+      ],
+      [
+        "lengmo1996",
+        0.009694315584594835
+      ],
+      [
+        "codecov[bot]",
+        0.00936057660684637
+      ]
+    ],
+    "closeness_centrality": [
+      [
+        "AndreaPi",
+        1.0
+      ],
+      [
+        "Dark-Patrick",
+        1.0
+      ],
+      [
+        "HandsLing",
+        1.0
+      ],
+      [
+        "Jangseo5160",
+        1.0
+      ],
+      [
+        "JiankunShi",
+        1.0
+      ],
+      [
+        "JiaoYang0507",
+        1.0
+      ],
+      [
+        "LQRR678",
+        1.0
+      ],
+      [
+        "LaiXuanyu",
+        1.0
+      ],
+      [
+        "PeterVennerstrom",
+        1.0
+      ],
+      [
+        "SagiAbd",
+        1.0
+      ]
+    ],
+    "pagerank_centrality": [
+      [
+        "ahchang2",
+        0.018780161308715487
+      ],
+      [
+        "CLAassistant",
+        0.01187328542596835
+      ],
+      [
+        "hhaAndroid",
+        0.008415860264676125
+      ],
+      [
+        "liuyanzhi1214",
+        0.003619640122747567
+      ],
+      [
+        "xiyangyang99",
+        0.0035530495947852197
+      ],
+      [
+        "mdk19015",
+        0.0033774589471870374
+      ],
+      [
+        "ZwwWayne",
+        0.003221301933190807
+      ],
+      [
+        "codecov[bot]",
+        0.0032210053203816954
+      ],
+      [
+        "ysysys666",
+        0.0032034316193282598
+      ],
+      [
+        "zhitao654321",
+        0.0032034316193282598
+      ]
+    ],
+    "eigenvector_centrality": [
+      [
+        "CLAassistant",
+        0.4698882340107257
+      ],
+      [
+        "hhaAndroid",
+        0.31309422576856627
+      ],
+      [
+        "codecov[bot]",
+        0.2857403761123219
+      ],
+      [
+        "ZwwWayne",
+        0.20334255661222886
+      ],
+      [
+        "YuanLiuuuuuu",
+        0.15479397826857788
+      ],
+      [
+        "HuDi2018",
+        0.14944468097175995
+      ],
+      [
+        "EasonQYS",
+        0.14508249290831124
+      ],
+      [
+        "jbwang1997",
+        0.14484454472332345
+      ],
+      [
+        "klyu521",
+        0.1204159635987323
+      ],
+      [
+        "SemyonBevzuk",
+        0.11985611830770149
+      ]
+    ]
+  },
+  "community_analysis": {
+    "modularity": 0.8121712370048467,
+    "bridging_ties_ratio": 0.0
+  },
+  "key_insights": [
+    "Rede muito esparsa - poucas conexões entre desenvolvedores",
+    "Baixo clustering - colaboração mais distribuída",
+    "Rede disassortativa - desenvolvedores diferentes se conectam mais",
+    "Usuário mais conectado: hhaAndroid (grau: 0.047)",
+    "Estrutura comunitária forte - comunidades bem definidas"
+  ]
+}
