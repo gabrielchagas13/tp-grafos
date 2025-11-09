@@ -132,6 +132,45 @@ def main():
         save_path="analise_comunidades.png"
     )
     
+    # NOVOS GRÁFICOS ESPECÍFICOS PARA GRAFOS DIRECIONADOS
+    print("   📊 Gerando visualizações específicas para grafos direcionados...")
+    
+    # Estrutura do grafo direcionado
+    visualizer.plot_directed_graph_structure(
+        graph, user_mapping, centrality_results,
+        save_path="grafo_direcionado.png"
+    )
+    
+    # Detecção detalhada de comunidades e bridging ties
+    visualizer.plot_community_detection_detailed(
+        graph, analyzer, user_mapping,
+        save_path="deteccao_comunidades.png"
+    )
+    
+    # Análise de fluxo direcionado
+    visualizer.plot_directed_flow_analysis(
+        graph, user_mapping, centrality_results,
+        save_path="analise_fluxo_direcionado.png"
+    )
+    
+    # NOVOS GRÁFICOS DE REDE VISUAL
+    print("   🎨 Gerando visualizações da estrutura da rede...")
+    
+    # Obtém comunidades para visualização
+    communities = analyzer._detect_simple_communities()
+    
+    # Visualização manual do grafo da rede
+    visualizer.plot_network_graph_manual(
+        graph, user_mapping, centrality_results, communities,
+        save_path="rede_grafo_manual.png"
+    )
+    
+    # Análise detalhada de bridging ties
+    visualizer.plot_bridging_ties_analysis(
+        graph, analyzer, user_mapping,
+        save_path="bridging_ties_detalhado.png"
+    )
+    
     # 5. RELATÓRIOS
     print("\n🔄 5. GERANDO RELATÓRIOS...")
     print("-" * 50)
@@ -192,8 +231,11 @@ def main():
     
     print("\n✅ ANÁLISE CONCLUÍDA!")
     print(f"   📁 Resultados salvos em: {os.path.abspath(output_dir)}")
-    print(f"   📊 Gráficos: centralidade_comparacao.png, metricas_rede.png")
-    print(f"   📊 Gráficos: distribuicao_graus.png, analise_comunidades.png")
+    print(f"   📊 Gráficos Básicos: centralidade_comparacao.png, metricas_rede.png")
+    print(f"   📊 Gráficos Básicos: distribuicao_graus.png, analise_comunidades.png")
+    print(f"   🎯 Gráficos Direcionados: grafo_direcionado.png, deteccao_comunidades.png")
+    print(f"   🎯 Gráficos Direcionados: analise_fluxo_direcionado.png")
+    print(f"   🎨 Gráficos de Rede: rede_grafo_manual.png, bridging_ties_detalhado.png")
     print(f"   📋 Relatórios: resultados_completos.json, relatorio_resumo.json")
     
     print("\n" + "=" * 80)
