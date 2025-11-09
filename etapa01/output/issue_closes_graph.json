@@ -2,26 +2,40 @@
   "name": "Fechamento de Issues",
   "stats": {
     "name": "Fechamento de Issues",
-    "nodes": 112,
-    "edges": 102,
-    "total_weight": 309,
-    "density": 0.008204633204633204,
+    "nodes": 113,
+    "edges": 103,
+    "total_weight": 312,
+    "density": 0.00813843236409608,
     "is_connected": false
   },
   "nodes": [
     {
       "username": "ZwwWayne",
-      "total_interactions": 63,
+      "total_interactions": 66,
       "comments_made": 0,
-      "issues_closed": 21,
+      "issues_closed": 22,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.03947450930240574,
+      "centrality_score": 0.040909100637188736,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.1891891891891892,
+      "out_degree_centrality": 0.19642857142857142,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
+    },
+    {
+      "username": "yourbikun",
+      "total_interactions": 0,
+      "comments_made": 0,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
+      "out_degree_centrality": 0.0,
+      "closeness_centrality": 0.008928571428571428,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "ahchang2",
@@ -30,12 +44,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "monkeycc",
@@ -44,12 +58,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "hhaAndroid",
@@ -58,12 +72,12 @@
       "issues_closed": 34,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.06109613092402736,
+      "centrality_score": 0.060551957780045886,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.2972972972972973,
+      "out_degree_centrality": 0.29464285714285715,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "igo312",
@@ -72,12 +86,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "CDchenlin",
@@ -86,12 +100,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005322102499389124,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005275978365468645,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008592494478927603
+      "pagerank": 0.008522748970200368
     },
     {
       "username": "rouyalxy",
@@ -100,12 +114,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "RangiLyu",
@@ -114,12 +128,12 @@
       "issues_closed": 12,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.02325829308618952,
+      "centrality_score": 0.02305195778004588,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.10810810810810811,
+      "out_degree_centrality": 0.10714285714285714,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "zhenbangW",
@@ -128,12 +142,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "github-actions[bot]",
@@ -142,12 +156,12 @@
       "issues_closed": 2,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0052402750681715005,
+      "centrality_score": 0.005194814922903021,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.018018018018018018,
+      "out_degree_centrality": 0.017857142857142856,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "18lalala",
@@ -156,12 +170,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005935808233521305,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005884704184710822,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.011661023149588506
+      "pagerank": 0.011566378066411254
     },
     {
       "username": "xvjiarui",
@@ -170,12 +184,12 @@
       "issues_closed": 1,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.003438473266369699,
+      "centrality_score": 0.0034091006371887353,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.009009009009009009,
+      "out_degree_centrality": 0.008928571428571428,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "zachbellay",
@@ -184,12 +198,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.00663134139887111,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.0065745934465186225,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.015138688976337529
+      "pagerank": 0.015015824375450256
     },
     {
       "username": "liuyanzhi1214",
@@ -198,12 +212,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "majintao1994",
@@ -212,12 +226,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "DENGZAIXU",
@@ -226,12 +240,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "erictan23",
@@ -240,12 +254,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "huimlight",
@@ -254,12 +268,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "jshilong",
@@ -268,12 +282,12 @@
       "issues_closed": 3,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.007042076869973301,
+      "centrality_score": 0.006980529208617306,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.02702702702702703,
+      "out_degree_centrality": 0.026785714285714284,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "daydayup-bit",
@@ -282,12 +296,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.00570396384507137,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005654741097441554,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.010501801207338832
+      "pagerank": 0.010416562630064918
     },
     {
       "username": "hellock",
@@ -296,12 +310,12 @@
       "issues_closed": 13,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.025060094887991317,
+      "centrality_score": 0.024837672065760163,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.11711711711711711,
+      "out_degree_centrality": 0.11607142857142856,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "twangnh",
@@ -310,12 +324,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "BIGWangYuDong",
@@ -324,12 +338,12 @@
       "issues_closed": 6,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.012447482275378707,
+      "centrality_score": 0.012337672065760164,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.05405405405405406,
+      "out_degree_centrality": 0.05357142857142857,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "vampireacen",
@@ -338,12 +352,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005472119456621435,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005424778010172287,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009342579265089157
+      "pagerank": 0.009266747193718583
     },
     {
       "username": "nmxnql",
@@ -352,12 +366,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "xishanhan",
@@ -366,12 +380,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "v-qjqs",
@@ -380,12 +394,12 @@
       "issues_closed": 5,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.010645680473576905,
+      "centrality_score": 0.010551957780045878,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.04504504504504504,
+      "out_degree_centrality": 0.04464285714285714,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "Nabyssache",
@@ -394,12 +408,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0055184883343114225,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005470770627626141,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009574423653539093
+      "pagerank": 0.009496710280987851
     },
     {
       "username": "sarimmehdi",
@@ -408,12 +422,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "Prakhar-97",
@@ -422,12 +436,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "uniyushu",
@@ -436,12 +450,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "KDcx35",
@@ -450,12 +464,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "jialeli1",
@@ -464,12 +478,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "VectorYoung",
@@ -478,12 +492,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "Anurich",
@@ -492,12 +506,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005935808233521305,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005884704184710822,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.011661023149588506
+      "pagerank": 0.011566378066411254
     },
     {
       "username": "whxueChris",
@@ -506,12 +520,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "kirkzZ",
@@ -520,12 +534,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "ryanalexmartin",
@@ -534,12 +548,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "yukaizhou",
@@ -548,12 +562,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005472119456621435,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005424778010172287,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009342579265089157
+      "pagerank": 0.009266747193718583
     },
     {
       "username": "chhluo",
@@ -562,12 +576,12 @@
       "issues_closed": 4,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.008843878671775104,
+      "centrality_score": 0.008766243494331593,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.036036036036036036,
+      "out_degree_centrality": 0.03571428571428571,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "MABatin",
@@ -576,12 +590,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005588041650846402,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005539759553806921,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009922190236213994
+      "pagerank": 0.009841654911891751
     },
     {
       "username": "coscotuff",
@@ -590,12 +604,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "Travvy88",
@@ -604,12 +618,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "mhyeonsoo",
@@ -618,12 +632,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0055184883343114225,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005470770627626141,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009574423653539093
+      "pagerank": 0.009496710280987851
     },
     {
       "username": "charisoudis",
@@ -632,12 +646,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "tikitong",
@@ -646,12 +660,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "pcicales",
@@ -660,12 +674,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "vansin",
@@ -674,12 +688,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005472119456621435,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005424778010172287,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009342579265089157
+      "pagerank": 0.009266747193718583
     },
     {
       "username": "leewi9",
@@ -688,12 +702,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.00570396384507137,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005654741097441554,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.010501801207338832
+      "pagerank": 0.010416562630064918
     },
     {
       "username": "bzha5848",
@@ -702,12 +716,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "Nina0109",
@@ -716,12 +730,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "yulubin",
@@ -730,12 +744,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "NicholasIrving",
@@ -744,12 +758,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "Adarsh0047",
@@ -758,12 +772,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "hzby",
@@ -772,12 +786,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "15689933561",
@@ -786,12 +800,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "ngalym",
@@ -800,12 +814,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "rsj007",
@@ -814,12 +828,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "PuneetMadan9",
@@ -828,12 +842,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005472119456621435,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005424778010172287,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009342579265089157
+      "pagerank": 0.009266747193718583
     },
     {
       "username": "zkyseu",
@@ -842,12 +856,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "flyzxm5177",
@@ -856,12 +870,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "tuttelikz",
@@ -870,12 +884,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "lorepieri8",
@@ -884,12 +898,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "lenardxu",
@@ -898,12 +912,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "yeungkong",
@@ -912,12 +926,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "Markson-Young",
@@ -926,12 +940,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "ShidiDaisy",
@@ -940,12 +954,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.00901712502797945,
-      "in_degree_centrality": 0.018018018018018018,
+      "centrality_score": 0.008935097509459377,
+      "in_degree_centrality": 0.017857142857142856,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.018018018018018018,
+      "closeness_centrality": 0.017857142857142856,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009049589103861218
+      "pagerank": 0.008961201833011167
     },
     {
       "username": "zhengxindi1231",
@@ -954,12 +968,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "wantaoliu",
@@ -968,12 +982,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "BChunlei",
@@ -982,12 +996,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "RiyazAina-DeepML",
@@ -996,12 +1010,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "wujiaors",
@@ -1010,12 +1024,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "neel04",
@@ -1024,12 +1038,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "Serenagirl",
@@ -1038,12 +1052,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "UrwLee",
@@ -1052,12 +1066,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "Hshuqin",
@@ -1066,12 +1080,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "fxooooooooo",
@@ -1080,12 +1094,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "laridzhang",
@@ -1094,12 +1108,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "gurjeetseh",
@@ -1108,12 +1122,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "sarmientoj24",
@@ -1122,12 +1136,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "myfutures",
@@ -1136,12 +1150,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "OnurKyn",
@@ -1150,12 +1164,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "theRain0450",
@@ -1164,12 +1178,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "calvin886",
@@ -1178,12 +1192,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "wzr0108",
@@ -1192,12 +1206,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "anying111",
@@ -1206,12 +1220,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "Zhengym-hub",
@@ -1220,12 +1234,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.009257886508292845,
-      "in_degree_centrality": 0.018018018018018018,
+      "centrality_score": 0.009173905330854385,
+      "in_degree_centrality": 0.017857142857142856,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.018018018018018018,
+      "closeness_centrality": 0.017857142857142856,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.010253396505428187
+      "pagerank": 0.010155240939986206
     },
     {
       "username": "yhcao6",
@@ -1234,12 +1248,12 @@
       "issues_closed": 1,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.003438473266369699,
+      "centrality_score": 0.0034091006371887353,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.009009009009009009,
+      "out_degree_centrality": 0.008928571428571428,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "xwuShirley",
@@ -1248,12 +1262,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.00663134139887111,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.0065745934465186225,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.015138688976337529
+      "pagerank": 0.015015824375450256
     },
     {
       "username": "sanjaypavo",
@@ -1262,12 +1276,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005472119456621435,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005424778010172287,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009342579265089157
+      "pagerank": 0.009266747193718583
     },
     {
       "username": "AndreaPi",
@@ -1276,12 +1290,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.00570396384507137,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005654741097441554,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.010501801207338832
+      "pagerank": 0.010416562630064918
     },
     {
       "username": "jravishankar",
@@ -1290,12 +1304,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0055184883343114225,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005470770627626141,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009574423653539093
+      "pagerank": 0.009496710280987851
     },
     {
       "username": "Ruolingdeng",
@@ -1304,12 +1318,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005347280170533009,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005300951732411914,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008718382834647025
+      "pagerank": 0.008647615804916712
     },
     {
       "username": "376498485",
@@ -1318,12 +1332,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005588041650846402,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005539759553806921,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009922190236213994
+      "pagerank": 0.009841654911891751
     },
     {
       "username": "James-S-choi",
@@ -1332,12 +1346,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "RunningLeon",
@@ -1346,12 +1360,12 @@
       "issues_closed": 1,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.003438473266369699,
+      "centrality_score": 0.0034091006371887353,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.009009009009009009,
+      "out_degree_centrality": 0.008928571428571428,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008183357322839483
+      "pagerank": 0.008116931757372249
     },
     {
       "username": "qiao12",
@@ -1360,12 +1374,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.00663134139887111,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.0065745934465186225,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.015138688976337529
+      "pagerank": 0.015015824375450256
     },
     {
       "username": "Grayfaner",
@@ -1374,12 +1388,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "zhongqiu1245",
@@ -1388,12 +1402,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "iumyx2612",
@@ -1402,12 +1416,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005306516322014339,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005257532128521912,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008514563592053676
+      "pagerank": 0.008430517785466704
     },
     {
       "username": "JimXu1989",
@@ -1416,12 +1430,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "hcnhcn012",
@@ -1430,12 +1444,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "rorschachhb",
@@ -1444,12 +1458,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "author31",
@@ -1458,12 +1472,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "guazat",
@@ -1472,12 +1486,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     },
     {
       "username": "DerekRay",
@@ -1486,12 +1500,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005472119456621435,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005424778010172287,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009342579265089157
+      "pagerank": 0.009266747193718583
     },
     {
       "username": "pedrozamboni",
@@ -1500,12 +1514,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0055184883343114225,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005470770627626141,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009574423653539093
+      "pagerank": 0.009496710280987851
     },
     {
       "username": "volcanolee4",
@@ -1514,12 +1528,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005588041650846402,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005539759553806921,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009922190236213994
+      "pagerank": 0.009841654911891751
     },
     {
       "username": "CheungBH",
@@ -1528,12 +1542,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "vishaldhull09",
@@ -1542,12 +1556,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0055184883343114225,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005470770627626141,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.009574423653539093
+      "pagerank": 0.009496710280987851
     },
     {
       "username": "bpfliegel",
@@ -1556,12 +1570,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.0053561972623964674,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005309796466537654,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008762968293964321
+      "pagerank": 0.008691839475545417
     },
     {
       "username": "Brym-Gyimah",
@@ -1570,15 +1584,24 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.005281188783780312,
-      "in_degree_centrality": 0.009009009009009009,
+      "centrality_score": 0.005235396644185833,
+      "in_degree_centrality": 0.008928571428571428,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.009009009009009009,
+      "closeness_centrality": 0.008928571428571428,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.008387925900883542
+      "pagerank": 0.008319840363786309
     }
   ],
   "edges": [
+    {
+      "source": "ZwwWayne",
+      "target": "yourbikun",
+      "weight": 3,
+      "count": 1,
+      "types": [
+        "issue_close"
+      ]
+    },
     {
       "source": "ZwwWayne",
       "target": "ahchang2",

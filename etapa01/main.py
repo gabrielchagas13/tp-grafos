@@ -103,9 +103,9 @@ def main():
             visualizer.plot_top_collaborators(graphs["integrated"])
             print("✓ Gráfico de top colaboradores")
             
-            # Dashboard interativo
-            visualizer.create_dashboard(graphs)
-            print("✓ Dashboard interativo criado")
+            # Relatório HTML completo
+            html_report_path = visualizer.create_complete_html_report(graphs)
+            print("✓ Relatório HTML completo criado")
         
         # Visualizações básicas de cada grafo
         for name, graph in graphs.items():
@@ -142,10 +142,15 @@ def main():
         # Instruções finais
         print("\nPRÓXIMOS PASSOS:")
         print("-" * 20)
-        print("1. Analise o relatório 'analysis_report.json'")
-        print("2. Visualize os grafos interativos (.html)")
-        print("3. Importe os arquivos .gexf no Gephi para análises avançadas")
-        print("4. Use os dados CSV para análises personalizadas")
+        print("1. Abra o arquivo 'relatorio_completo.html' no navegador")
+        print("2. Analise o relatório 'analysis_report.json'")
+        print("3. Visualize os grafos interativos (.html)")
+        print("4. Importe os arquivos .gexf no Gephi para análises avançadas")
+        print("5. Use os dados CSV para análises personalizadas")
+        
+        if "integrated" in graphs:
+            print(f"\n🎯 RELATÓRIO PRINCIPAL:")
+            print("📊 Abra 'output/relatorio_completo.html' para ver a análise completa!")
         
         print(f"\n✓ Análise concluída com sucesso!")
         print("="*70)

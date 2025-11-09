@@ -4,27 +4,27 @@
     "name": "mmdetection"
   },
   "data_summary": {
-    "issues": 886,
+    "issues": 888,
     "pull_requests": 1000,
-    "issue_comments": 605,
+    "issue_comments": 569,
     "pr_comments": 726,
     "pr_reviews": 213
   },
   "graphs": {
     "comments": {
       "name": "Comentários",
-      "nodes": 555,
-      "edges": 622,
-      "total_weight": 2056,
-      "density": 0.0020229615897485935,
+      "nodes": 535,
+      "edges": 599,
+      "total_weight": 1986,
+      "density": 0.0020966782176485,
       "is_connected": false
     },
     "issue_closes": {
       "name": "Fechamento de Issues",
-      "nodes": 112,
-      "edges": 102,
-      "total_weight": 309,
-      "density": 0.008204633204633204,
+      "nodes": 113,
+      "edges": 103,
+      "total_weight": 312,
+      "density": 0.00813843236409608,
       "is_connected": false
     },
     "reviews": {
@@ -37,10 +37,10 @@
     },
     "integrated": {
       "name": "Grafo Integrado",
-      "nodes": 646,
-      "edges": 726,
-      "total_weight": 3467,
-      "density": 0.0017423860609115127,
+      "nodes": 626,
+      "edges": 703,
+      "total_weight": 3365,
+      "density": 0.0017968051118210863,
       "is_connected": false
     }
   },
@@ -52,26 +52,26 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.053125288697433624,
-      "in_degree_centrality": 0.10542635658914729,
+      "centrality_score": 0.054871309416617664,
+      "in_degree_centrality": 0.10880000000000001,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.1054485049833887,
+      "closeness_centrality": 0.10882285714285715,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.05475158191463214
+      "pagerank": 0.05673368994023116
     },
     {
       "username": "hhaAndroid",
-      "total_interactions": 389,
+      "total_interactions": 386,
       "comments_made": 80,
       "issues_closed": 34,
       "reviews_given": 22,
       "prs_merged": 0,
-      "centrality_score": 0.04550269165441285,
-      "in_degree_centrality": 0.05116279069767442,
-      "out_degree_centrality": 0.09302325581395349,
-      "closeness_centrality": 0.05120708748615725,
-      "betweenness_centrality": 0.005330059222880254,
-      "pagerank": 0.026790265051398778
+      "centrality_score": 0.04666273883034823,
+      "in_degree_centrality": 0.0528,
+      "out_degree_centrality": 0.0944,
+      "closeness_centrality": 0.05284571428571428,
+      "betweenness_centrality": 0.005507692307692307,
+      "pagerank": 0.027760287558334606
     },
     {
       "username": "CLAassistant",
@@ -80,26 +80,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.020657741491678035,
+      "centrality_score": 0.02131961930576036,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.10232558139534884,
+      "out_degree_centrality": 0.1056,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.0009631260630413515
-    },
-    {
-      "username": "mira-murali",
-      "total_interactions": 0,
-      "comments_made": 0,
-      "issues_closed": 0,
-      "reviews_given": 0,
-      "prs_merged": 0,
-      "centrality_score": 0.019241662520693023,
-      "in_degree_centrality": 0.03565891472868217,
-      "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.04172403100775194,
-      "betweenness_centrality": 0.0,
-      "pagerank": 0.018825366867030995
+      "pagerank": 0.0009980965288017931
     },
     {
       "username": "nijkah",
@@ -108,12 +94,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.01820278858597728,
-      "in_degree_centrality": 0.023255813953488372,
+      "centrality_score": 0.01890555303267124,
+      "in_degree_centrality": 0.024,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.04961240310077519,
+      "closeness_centrality": 0.051199999999999996,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.018145725875622836
+      "pagerank": 0.019327765163356218
     },
     {
       "username": "xiyangyang99",
@@ -122,12 +108,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.015610562841870373,
-      "in_degree_centrality": 0.021705426356589147,
+      "centrality_score": 0.016121293016059017,
+      "in_degree_centrality": 0.0224,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.043793889648882804,
+      "closeness_centrality": 0.045195294117647056,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.012553498203879914
+      "pagerank": 0.013011170962648038
     },
     {
       "username": "mdk19015",
@@ -136,26 +122,26 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.014577365777697101,
-      "in_degree_centrality": 0.020155038759689922,
+      "centrality_score": 0.015053379452548001,
+      "in_degree_centrality": 0.020800000000000003,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.04176592928719985,
+      "closeness_centrality": 0.04310243902439024,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.010965860841595733
+      "pagerank": 0.01136445823834977
     },
     {
       "username": "ZwwWayne",
-      "total_interactions": 359,
+      "total_interactions": 365,
       "comments_made": 59,
-      "issues_closed": 21,
+      "issues_closed": 22,
       "reviews_given": 40,
       "prs_merged": 0,
-      "centrality_score": 0.013215881026561757,
+      "centrality_score": 0.01395961930576036,
       "in_degree_centrality": 0.0,
-      "out_degree_centrality": 0.06511627906976744,
+      "out_degree_centrality": 0.0688,
       "closeness_centrality": 0.0,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.0009631260630413515
+      "pagerank": 0.0009980965288017931
     },
     {
       "username": "christiano12345",
@@ -164,12 +150,12 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.011679147729851935,
-      "in_degree_centrality": 0.013953488372093023,
+      "centrality_score": 0.0120596615371669,
+      "in_degree_centrality": 0.014400000000000001,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.03675213675213675,
+      "closeness_centrality": 0.037928205128205134,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.0076901135250299
+      "pagerank": 0.007970102557629364
     },
     {
       "username": "liuyanzhi1214",
@@ -178,25 +164,39 @@
       "issues_closed": 0,
       "reviews_given": 0,
       "prs_merged": 0,
-      "centrality_score": 0.011006768904312472,
-      "in_degree_centrality": 0.021705426356589147,
+      "centrality_score": 0.011368740379610037,
+      "in_degree_centrality": 0.0224,
       "out_degree_centrality": 0.0,
-      "closeness_centrality": 0.021705426356589147,
+      "closeness_centrality": 0.0224,
       "betweenness_centrality": 0.0,
-      "pagerank": 0.011622991808384067
+      "pagerank": 0.012043701898050183
+    },
+    {
+      "username": "shufanwu",
+      "total_interactions": 0,
+      "comments_made": 0,
+      "issues_closed": 0,
+      "reviews_given": 0,
+      "prs_merged": 0,
+      "centrality_score": 0.010326858839833124,
+      "in_degree_centrality": 0.0112,
+      "out_degree_centrality": 0.0,
+      "closeness_centrality": 0.03538947368421053,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.005044820514955083
     }
   ],
   "insights": [
-    "O repositório possui 646 usuários únicos com interações",
-    "Total de 726 conexões entre usuários",
-    "Peso total das interações: 3467",
-    "Densidade do grafo: 0.0017",
+    "O repositório possui 626 usuários únicos com interações",
+    "Total de 703 conexões entre usuários",
+    "Peso total das interações: 3365",
+    "Densidade do grafo: 0.0018",
     "Grafo conectado: Não",
-    "Usuário mais central: ahchang2 (score: 0.0531)"
+    "Usuário mais central: ahchang2 (score: 0.0549)"
   ],
   "interaction_summary": {
-    "issue_comment": 498,
-    "issue_close": 103,
+    "issue_comment": 463,
+    "issue_close": 104,
     "comment": 530,
     "review": 151
   }

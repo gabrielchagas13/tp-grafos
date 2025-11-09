@@ -1,5 +1,23 @@
-# Arquivo de configuração com tokens e senhas
+# Arquivos de configuração com informações sensíveis
 .env
+.env.local
+.env.*.local
+
+# Tokens e chaves
+*.key
+*.pem
+config.json
+
+# Dados extraídos (podem ser grandes)
+data/*.csv
+data/*.json
+data/*.xlsx
+
+# Outputs gerados (podem ser regenerados)
+output/*.png
+output/*.html
+output/*.json
+output/*.gexf
 
 
 # Python
